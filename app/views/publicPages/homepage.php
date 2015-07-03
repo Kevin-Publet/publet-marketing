@@ -32,8 +32,8 @@
         <p>This is the ask for conversion section</p>
     </div>
 
-    <div id="homepageLesserConversionSection">
-        <p>This is the less conversion section</p>
+    <div id="homepageEnticingContentSection">
+        <p>This is the enticing content section</p>
     </div>
 
     <div id="homepageFooterSection">
