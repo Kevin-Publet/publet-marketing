@@ -1,5 +1,10 @@
 <div id="homepageContainer">
 
+    <div id="homepageNavBarSection">
+
+    </div>
+
+
     <div id="homepageHeroSection">
         <p>This is the hero section</p>
     </div>

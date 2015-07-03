@@ -1,0 +1,71 @@
+#homepageContainer {
+    padding-bottom: -20px;
+}
+
+#homepageNavBarSection {
+    background: #dadada;
+    min-height: 80px;
+}
+
+#homepageHeroSection {
+    background: #000;
+    min-height: 630px;
+}
+
+#homepageQuickTestimonialSection {
+    background: #dadada;
+    min-height: 300px;
+    margin-top: -10px;
+}
+
+#homepageWhatIsPubletSection {
+    background: red;
+    min-height: 700px;
+    margin-top: -10px;
+
+}
+
+#homepageValuePropositionOneSection {
+    background: #000;
+    min-height: 700px;
+    margin-top: -10px;
+
+}
+
+#homepageValuePropositionTwoSection {
+    background: #dadada;
+    min-height: 700px;
+    margin-top: -10px;
+
+}
+
+#homepageValuePropositionThreeSection {
+    background: #000;
+    min-height: 700px;
+    margin-top: -10px;
+
+}
+
+#homepageMajorTestimonialSection {
+    background: #dadada;
+    min-height: 500px;
+    margin-top: -10px;
+}
+
+#homepageAskForConversionSection {
+    background: #000;
+    min-height: 500px;
+    margin-top: -10px;
+}
+
+#homepageEnticingContentSection {
+    background: #dadada;
+    min-height: 500px;
+    margin-top: -10px;
+}
+
+#homepageFooterSection {
+    background: #000;
+    min-height: 300px;
+    margin-top: -10px;
+}
