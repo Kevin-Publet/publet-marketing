@@ -7,14 +7,13 @@
     padding-top: 15px;
 }
 
-#homepageNavBarContentLinks {
-
-}
 
 
 #homepageHeroSection {
     background: #000;
     min-height: 630px;
+    margin-top: -20px;
+    background-image: url('/assets/images/heroBackgroundImage.png');
 }
 
 #homepageQuickTestimonialSection {

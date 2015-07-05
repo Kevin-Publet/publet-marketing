@@ -26,8 +26,26 @@
 
 
     <div id="homepageHeroSection">
-        <p>This is the hero section</p>
+
+        <div id="homepageHeroContentSection">
+            <div id="homepageHeroContentSectionTitle">
+                <h1>
+                    Create <br/>
+                    Digital Content <br/>
+                    That Converts.
+                </h1>
+            </div>
+            <div id="homepageHeroContentSectionCTA">
+                <a href="#" class="btn btn-lg btn-primary">Join the Beta -> </a>
+            </div>
+            <div id="homepageHeroContentSectionSubCTA">
+                <a href="#">See it in action</a>
+            </div>
+        </div>
     </div>
+
+
+
 
     <div id="homepageQuickTestimonialSection">
         <p>This is the quick testimonial section</p>
