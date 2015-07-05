@@ -4,7 +4,13 @@
 
 #homepageNavBarSection {
     min-height: 80px;
+    padding-top: 15px;
 }
+
+#homepageNavBarContentLinks {
+
+}
+
 
 #homepageHeroSection {
     background: #000;
