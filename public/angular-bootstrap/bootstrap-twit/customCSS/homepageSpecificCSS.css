@@ -8,12 +8,38 @@
 }
 
 
-
 #homepageHeroSection {
-    background: #000;
     min-height: 630px;
-    margin-top: -20px;
+    margin-top: -25px;
     background-image: url('/assets/images/heroBackgroundImage.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#homepageHeroContentSection {
+    position: relative;
+    top: 150px;
+}
+
+#homepageHeroContentSectionTitle > h1{
+    font-size: 72px;
+}
+
+#homepageHeroContentSectionCTA > a {
+    min-width: 450px;
+    min-height: 90px;
+    font-size: 40px;
+}
+
+#homepageHeroContentSectionSubCTA > a {
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.heroUnderline {
+    text-decoration: underline;
 }
 
 #homepageQuickTestimonialSection {

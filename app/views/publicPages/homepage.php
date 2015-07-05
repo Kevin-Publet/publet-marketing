@@ -26,19 +26,18 @@
 
 
     <div id="homepageHeroSection">
-
         <div id="homepageHeroContentSection">
-            <div id="homepageHeroContentSectionTitle">
+            <div id="homepageHeroContentSectionTitle" class="col-lg-8">
                 <h1>
-                    Create <br/>
-                    Digital Content <br/>
-                    That Converts.
+                    <span class="heroUnderline">Create </span><br/>
+                    Digital <span class="heroUnderline">Content</span> <br/>
+                    That <span class="heroUnderline">Converts</span>.
                 </h1>
             </div>
-            <div id="homepageHeroContentSectionCTA">
+            <div id="homepageHeroContentSectionCTA" class="col-lg-8">
                 <a href="#" class="btn btn-lg btn-primary">Join the Beta -> </a>
             </div>
-            <div id="homepageHeroContentSectionSubCTA">
+            <div id="homepageHeroContentSectionSubCTA" class="col-lg-6">
                 <a href="#">See it in action</a>
             </div>
         </div>
