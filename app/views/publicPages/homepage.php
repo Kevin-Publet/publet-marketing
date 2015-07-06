@@ -4,7 +4,7 @@
         <nav id="homepageNavBarSection" class="navbar navbar-inverse">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="#">Publet Logo</a>
+                    <img class="navbar-brand" src="/assets/images/publetLogoSM.png">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#homepageNavBarCollapsableLinks">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
