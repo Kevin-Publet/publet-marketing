@@ -9,8 +9,10 @@
 
 #homepageContainer {
     padding-bottom: -20px;
+}
 
-
+ .contentUnderline {
+    /*text-decoration: underline;*/
 }
 
 #homepageNavBarSection {
@@ -97,6 +99,15 @@
 
 #homepageWhatIsPubletSection > h2 {
     font-size: 56px;
+}
+
+#homepageWhatIsPubletSection > h3 {
+    font-size: 42px;
+}
+
+#homepageWhatIsPubletSection > h3.lessTopMargin {
+    margin-top: -5px;
+    margin-bottom: 40px;
 }
 
 #homepageValuePropositionOneSection {

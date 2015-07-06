@@ -66,8 +66,10 @@
     <div id="homepageWhatIsPubletSection" >
         <h2 class="homepageHeavyFont col-lg-12">What is Publet?</h2>
         <h3 class="homepageLightFont col-lg-12">
-            Publet helps businesses gain new customers
-            by simplifying three phases of your content marketing:
+            Publet helps businesses <span class="contentUnderline">gain new customers</span>
+        </h3>
+        <h3 class="homepageLightFont col-lg-12 lessTopMargin">
+            by <span class="contentUnderline">simplifying</span> three phases of <span class="contentUnderline">content marketing</span>:
         </h3>
 
         <div class="row text-center">
