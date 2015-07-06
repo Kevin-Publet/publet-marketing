@@ -24,18 +24,23 @@
 }
 
 #homepageHeroContentSectionTitle > h1{
-    font-size: 72px;
+    font-size: 84px;
+    font-family: 'Oswald', sans-serif;
 }
 
 #homepageHeroContentSectionCTA > a {
-    min-width: 450px;
+    min-width: 490px;
     min-height: 90px;
     font-size: 40px;
+    background: #FF5E49;
+    border: #FF5E49;
+    font-family: 'Raleway', sans-serif;
 }
 
 #homepageHeroContentSectionSubCTA > a {
     font-size: 40px;
     text-decoration: underline;
+    display: none;
 }
 
 .heroUnderline {

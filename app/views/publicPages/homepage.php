@@ -35,7 +35,7 @@
                 </h1>
             </div>
             <div id="homepageHeroContentSectionCTA" class="col-lg-8">
-                <a href="#" class="btn btn-lg btn-primary">Join the Beta -> </a>
+                <a href="#" class="btn btn-lg btn-primary">+ Start your campaign</a>
             </div>
             <div id="homepageHeroContentSectionSubCTA" class="col-lg-6">
                 <a href="#">See it in action</a>
