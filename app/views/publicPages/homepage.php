@@ -1,7 +1,7 @@
 <div id="homepageContainer">
 
-    <div>
-        <nav id="homepageNavBarSection" class="navbar navbar-inverse">
+    <div id="homepageNavBarSection">
+        <nav  class="">
             <div class="container-fluid">
                 <div class="navbar-header">
                     <img class="navbar-brand" src="/assets/images/publetLogoSM.png">

@@ -10,10 +10,14 @@
 }
 
 #homepageNavBarSection {
-    min-height: 80px;
+    background: #333333;
+    min-height: 110px;
     padding-top: 15px;
 }
 
+#homepageNavBarSection > nav > div > div > button > span.icon-bar {
+    background: #FF5E49;
+}
 
 #homepageHeroSection {
     min-height: 630px;
@@ -54,7 +58,7 @@
 }
 
 #homepageQuickTestimonialSection {
-    background: #dadada;
+    background: #333333;
     min-height: 300px;
     margin-top: -10px;
 }
