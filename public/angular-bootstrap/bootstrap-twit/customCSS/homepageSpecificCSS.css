@@ -1,3 +1,5 @@
+
+
 .homepageLightFont {
     font-family: 'Raleway', sans-serif;
 }
@@ -7,6 +9,8 @@
 
 #homepageContainer {
     padding-bottom: -20px;
+
+
 }
 
 #homepageNavBarSection {
@@ -26,7 +30,15 @@
 
 #homepageNavBarContentLinks > li > a {
     color: #dadada;
-    font-size: 20px;
+    font-size: 26px;
+}
+
+#homepageNavBarContentLinks > li > a:hover {
+    background: #FF5E49;
+}
+
+#homepageNavBarContentLinks > li > a:visited {
+    background: #FF5E49;
 }
 
 #homepageHeroSection {
@@ -69,15 +81,22 @@
 
 #homepageQuickTestimonialSection {
     background: #333333;
-    min-height: 300px;
-    margin-top: -10px;
+    min-height: 350px;
+    margin-top: -20px;
+    padding-top: 20px;
+    color: #dadada;
 }
 
 #homepageWhatIsPubletSection {
-    background: red;
+    background: #D6D6D6;
     min-height: 700px;
-    margin-top: -10px;
+    margin-top: -20px;
+    padding-top: 20px;
 
+}
+
+#homepageWhatIsPubletSection > h2 {
+    font-size: 56px;
 }
 
 #homepageValuePropositionOneSection {

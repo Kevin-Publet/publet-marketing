@@ -16,8 +16,8 @@
                 <div class="collapse navbar-collapse" id="homepageNavBarCollapsableLinks">
                     <ul id="homepageNavBarContentLinks" class="nav navbar-nav navbar-right">
                         <li><a href="#" class="homepageHeavyFont">What is Publet?</a></li>
-                        <li><a href="#" class="homepageHeavyFont">Join the Beta</a></li>
-                        <li><a href="#" class="homepageHeavyFont">Demo</a></li>
+                        <li><a href="#" class="homepageHeavyFont">Start a Campaign</a></li>
+                        <li><a href="#" class="homepageHeavyFont">See it in Action</a></li>
                     </ul>
 
                 </div>
@@ -47,12 +47,46 @@
 
 
 
-    <div id="homepageQuickTestimonialSection">
-        <p>This is the quick testimonial section</p>
+    <div id="homepageQuickTestimonialSection" class="text-center">
+        <div id="homepageQuickTestimonialSectionPersonWords">
+            <h2 class="homepageHeavyFont">
+                "We're huge fans of Publet at Contently.<br/>
+                We see huge potential for Publet to change how brands create digital content in
+                the future."
+            </h2>
+        </div>
+        <div id="homepageQuickTestimonialSectionPersonImage">
+            <img src="http://placehold.it/150" class="img-circle img-responsive center-block">
+        </div>
+        <div id="homepageQuickTestimonialSectionPersonBio" class="homepageLightFont">
+            <h3>John Smith - Content Director, Contently</h3>
+        </div>
     </div>
 
-    <div id="homepageWhatIsPubletSection">
-        <p>This is the what is publet section</p>
+    <div id="homepageWhatIsPubletSection" >
+        <h2 class="homepageHeavyFont">What is Publet?</h2>
+        <h3 class="homepageLightFont">
+            Publet can help your business create digital content that converts new customers.
+        </h3>
+        <h2 class="homepageHeavyFont">Ok, but how?</h2>
+        <h3 class="homepageLightFont">
+            By prioritizing the three main phases of your content of course.
+        </h3>
+
+        <div class="row text-center">
+            <div class="col-lg-4">
+                <img src="http://placehold.it/300" class="img-circle img-responsive center-block">
+                <h2 class="homepageHeavyFont">Creation</h2>
+            </div>
+            <div class="col-lg-4">
+                <img src="http://placehold.it/300" class="img-circle img-responsive center-block">
+                <h2 class="homepageHeavyFont">Distribution</h2>
+            </div>
+            <div class="col-lg-4">
+                <img src="http://placehold.it/300" class="img-circle img-responsive center-block">
+                <h2 class="homepageHeavyFont">Conversion</h2>
+            </div>
+        </div>
     </div>
 
     <div id="homepageValuePropositionOneSection">
