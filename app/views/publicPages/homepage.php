@@ -64,27 +64,24 @@
     </div>
 
     <div id="homepageWhatIsPubletSection" >
-        <h2 class="homepageHeavyFont">What is Publet?</h2>
-        <h3 class="homepageLightFont">
-            Publet can help your business create digital content that converts new customers.
-        </h3>
-        <h2 class="homepageHeavyFont">Ok, but how?</h2>
-        <h3 class="homepageLightFont">
-            By prioritizing the three main phases of your content of course.
+        <h2 class="homepageHeavyFont col-lg-12">What is Publet?</h2>
+        <h3 class="homepageLightFont col-lg-12">
+            Publet helps businesses gain new customers
+            by simplifying three phases of your content marketing:
         </h3>
 
         <div class="row text-center">
             <div class="col-lg-4">
-                <img src="http://placehold.it/300" class="img-circle img-responsive center-block">
                 <h2 class="homepageHeavyFont">Creation</h2>
+                <img src="http://placehold.it/300" class="img-circle img-responsive center-block">
             </div>
             <div class="col-lg-4">
-                <img src="http://placehold.it/300" class="img-circle img-responsive center-block">
                 <h2 class="homepageHeavyFont">Distribution</h2>
+                <img src="http://placehold.it/300" class="img-circle img-responsive center-block">
             </div>
             <div class="col-lg-4">
-                <img src="http://placehold.it/300" class="img-circle img-responsive center-block">
                 <h2 class="homepageHeavyFont">Conversion</h2>
+                <img src="http://placehold.it/300" class="img-circle img-responsive center-block">
             </div>
         </div>
     </div>
