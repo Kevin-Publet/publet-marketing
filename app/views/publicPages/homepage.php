@@ -27,14 +27,14 @@
 
     <div id="homepageHeroSection">
         <div id="homepageHeroContentSection">
-            <div id="homepageHeroContentSectionTitle" class="col-lg-8">
+            <div id="homepageHeroContentSectionTitle" class="col-lg-8 homepageHeavyFont">
                 <h1>
                     <span class="heroUnderline">Create </span><br/>
                     Digital <span class="heroUnderline">Content</span> <br/>
                     That <span class="heroUnderline">Converts</span>.
                 </h1>
             </div>
-            <div id="homepageHeroContentSectionCTA" class="col-lg-8">
+            <div id="homepageHeroContentSectionCTA" class="col-lg-8 homepageHeavyFont">
                 <a href="#" class="btn btn-lg btn-primary">+ Start your campaign</a>
             </div>
             <div id="homepageHeroContentSectionSubCTA" class="col-lg-6">

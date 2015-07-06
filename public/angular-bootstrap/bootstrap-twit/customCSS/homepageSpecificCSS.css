@@ -1,3 +1,10 @@
+.homepageLightFont {
+    font-family: 'Raleway', sans-serif;
+}
+.homepageHeavyFont {
+    font-family: 'Oswald', sans-serif;
+}
+
 #homepageContainer {
     padding-bottom: -20px;
 }
@@ -25,7 +32,7 @@
 
 #homepageHeroContentSectionTitle > h1{
     font-size: 84px;
-    font-family: 'Oswald', sans-serif;
+
 }
 
 #homepageHeroContentSectionCTA > a {
@@ -34,7 +41,6 @@
     font-size: 40px;
     background: #FF5E49;
     border: #FF5E49;
-    font-family: 'Raleway', sans-serif;
 }
 
 #homepageHeroContentSectionSubCTA > a {
