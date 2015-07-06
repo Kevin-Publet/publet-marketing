@@ -4,7 +4,8 @@
         <nav  class="">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <img class="navbar-brand" src="/assets/images/publetLogoSM.png">
+                    <img id="homepageNavBarLogo" src="/assets/images/publetLogoSM.png">
+
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#homepageNavBarCollapsableLinks">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -14,9 +15,9 @@
 
                 <div class="collapse navbar-collapse" id="homepageNavBarCollapsableLinks">
                     <ul id="homepageNavBarContentLinks" class="nav navbar-nav navbar-right">
-                        <li><a href="#">What is Publet?</a></li>
-                        <li><a href="#">Join the Beta</a></li>
-                        <li><a href="#">Demo</a></li>
+                        <li><a href="#" class="homepageHeavyFont">What is Publet?</a></li>
+                        <li><a href="#" class="homepageHeavyFont">Join the Beta</a></li>
+                        <li><a href="#" class="homepageHeavyFont">Demo</a></li>
                     </ul>
 
                 </div>

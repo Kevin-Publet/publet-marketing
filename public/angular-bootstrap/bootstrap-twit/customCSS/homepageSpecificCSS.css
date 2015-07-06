@@ -15,8 +15,18 @@
     padding-top: 15px;
 }
 
+#homepageNavBarLogo {
+    margin-top: -5px;
+    margin-left: 15px;
+}
+
 #homepageNavBarSection > nav > div > div > button > span.icon-bar {
     background: #FF5E49;
+}
+
+#homepageNavBarContentLinks > li > a {
+    color: #dadada;
+    font-size: 20px;
 }
 
 #homepageHeroSection {
