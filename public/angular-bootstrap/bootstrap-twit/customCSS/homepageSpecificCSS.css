@@ -198,7 +198,7 @@ html, body {
 }
 
 #homepageValuePropositionTwoVideoSection {
-    background: #0093BF;
+    background: #00C4FF;
     min-height: 690px;
     max-height: 690px;
     padding-top: 120px;
@@ -225,14 +225,14 @@ html, body {
 }
 
 #homepageValuePropositionTwoFulfillments {
-    background: #00C4FF;
+    background: #0093BF;
     min-height: 483px;
     min-width: 720px;
     margin-left: -15px;
 }
 
 #homepageValuePropositionThreeVideoSection {
-    background: #40003A;
+    background: #7F0074;
     min-height: 690px;
     max-height: 690px;
     padding-top: 120px;
@@ -257,7 +257,8 @@ html, body {
 }
 
 #homepageValuePropositionThreeFulfillments {
-    background: #7F0074;
+    background: #40003A;
+
     min-height: 483px;
 }
 
