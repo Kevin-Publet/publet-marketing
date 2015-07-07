@@ -368,6 +368,32 @@ html, body {
     color: #7F0074;
 }
 
+#homepageValuePropositionOneCTA {
+    background-image: url('/assets/images/createCTABackgroundImage.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  
+}
+
+#homepageValuePropositionTwoCTA {
+    background-image: url('/assets/images/createCTABackgroundImage.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+#homepageValuePropositionThreeCTA {
+    background-image: url('/assets/images/createCTABackgroundImage.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
 
 
 
