@@ -4,6 +4,35 @@ html, body {
 
 }
 
+.btn-create  {
+    background: #FF5E49;
+    border: #FF5E49;
+    color: #fff;
+}
+
+.btn-distribute {
+    background: #00C4FF;
+    border: #00C4FF;
+    color: #fff;
+}
+
+.btn-convert {
+    background: #7F0074;
+    border: #7F0074;
+    color: #fff;
+}
+
+.btn-homepageHuge{
+    min-height: 90px;
+    min-width: 490px;
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.btn-homepageHuge:hover, .btn-homepageHuge:active, .btn-homepageHuge:link{
+    color:#fff;
+
+}
 
 
 .homepageLightFont {
@@ -307,6 +336,7 @@ html, body {
 
 .valuePropCTA {
     min-height: 300px;
+    padding-top: 100px;
 }
 
 .valuePropCTA {

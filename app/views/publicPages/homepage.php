@@ -133,8 +133,8 @@
 
             </div>
 
-            <div id="homepageValuePropositionOneCTA" class="col-lg-12 valuePropCTA">
-                <a href="#" class="btn btn-lg btn-primary">+Create a new campaign</a>
+            <div id="homepageValuePropositionOneCTA" class="col-lg-12 valuePropCTA text-center">
+                <a href="#" class="btn btn-homepageHuge btn-create">+Create a new campaign</a>
             </div>
 
         </div>
@@ -167,8 +167,8 @@
 
             </div>
 
-            <div id="homepageValuePropositionTwoCTA" class="col-lg-12 valuePropCTA">
-                <a href="#" class="btn btn-lg btn-primary">+Select your target audience</a>
+            <div id="homepageValuePropositionTwoCTA" class="col-lg-12 valuePropCTA text-center">
+                <a href="#" class="btn btn-homepageHuge btn-distribute">+Select your target audience</a>
             </div>
 
         </div>
@@ -201,8 +201,8 @@
 
             </div>
 
-            <div id="homepageValuePropositionThreeCTA" class="col-lg-12 valuePropCTA">
-                <a href="#" class="btn btn-lg btn-primary">+Collect analytics</a>
+            <div id="homepageValuePropositionThreeCTA" class="col-lg-12 valuePropCTA text-center">
+                <a href="#" class="btn btn-homepageHuge btn-convert">+Collect analytics</a>
             </div>
         </div>
 
