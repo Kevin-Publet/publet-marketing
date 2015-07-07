@@ -89,23 +89,39 @@
         </div>
 
         <div id="homepageValuePropositionOneSection" >
-            <div id="homepageValuePropositionVideoSection" class="col-lg-6">
+            <div id="homepageValuePropositionOneVideoSection" class="col-lg-6">
 
 
             </div>
             <div id="homepageValuePropositionOneTitle" class="col-lg-6">
 
             </div>
-            <div >
-                <div id="homepageValuePropositionOneFulfillments" class="col-lg-6">
 
-                </div>
+            <div id="homepageValuePropositionOneFulfillments" class="col-lg-6">
+
             </div>
+
 
         </div>
 
         <div id="homepageValuePropositionTwoSection">
-            <p>This is the value prop 2 section</p>
+
+            <div id="valuePropHolderLeft" class="col-lg-6">
+                <div id="homepageValuePropositionTwoTitle" class="col-lg-12">
+
+                </div>
+                <div id="homepageValuePropositionTwoFulfillments" class="col-lg-12">
+
+                </div>
+            </div>
+
+
+            <div id="homepageValuePropositionTwoVideoSection" class="col-lg-6">
+
+
+            </div>
+
+
         </div>
 
         <div id="homepageValuePropositionThreeSection">

@@ -1,7 +1,7 @@
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-   
+
 }
 
 
@@ -164,19 +164,39 @@ html, body {
     margin-top: -10px;
 }
 
-#homepageValuePropositionVideoSection {
-    background: black;
+#homepageValuePropositionOneVideoSection {
+    background: #FF5E49;
     min-height: 690px;
 
 }
 
 #homepageValuePropositionOneTitle {
-    background: blue;
+    background: #7F2F24;
     min-height: 207px;
 }
 
 #homepageValuePropositionOneFulfillments {
-    background: green;
+    background: #E55542;
     min-height: 483px;
+}
+
+#homepageValuePropositionTwoVideoSection {
+    background: #0093BF;
+    min-height: 690px;
+
+}
+
+#homepageValuePropositionTwoTitle {
+    background: #003140;
+    min-height: 207px;
+    min-width: 720px;
+    margin-left: -15px;
+}
+
+#homepageValuePropositionTwoFulfillments {
+    background: #00C4FF;
+    min-height: 483px;
+    min-width: 720px;
+    margin-left: -15px;
 }
 
