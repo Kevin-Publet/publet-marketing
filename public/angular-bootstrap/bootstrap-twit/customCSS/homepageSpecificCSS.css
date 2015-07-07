@@ -184,6 +184,12 @@ html, body {
 #homepageValuePropositionOneTitle {
     background: #7F2F24;
     min-height: 207px;
+    color: #fff;
+    padding-top: 50px;
+}
+
+#homepageValuePropositionOneTitle > h2 {
+    font-size: 48px;
 }
 
 #homepageValuePropositionOneFulfillments {
@@ -199,11 +205,23 @@ html, body {
 
 }
 
+#homepageValuePropositionTwoVideoSection > video {
+    position: relative;
+    top: -415px;
+    right: -13%;
+}
+
 #homepageValuePropositionTwoTitle {
     background: #003140;
     min-height: 207px;
     min-width: 720px;
     margin-left: -15px;
+    color: #fff;
+    padding-top: 50px;
+}
+
+#homepageValuePropositionTwoTitle > h2 {
+    font-size: 48px;
 }
 
 #homepageValuePropositionTwoFulfillments {
@@ -221,9 +239,21 @@ html, body {
 
 }
 
+#homepageValuePropositionThreeVideoSection > video {
+    position: relative;
+    top: -415px;
+    left: 13%;
+}
+
 #homepageValuePropositionThreeTitle {
     background: #170015;
     min-height: 207px;
+    color: #fff;
+    padding-top: 50px;
+}
+
+#homepageValuePropositionThreeTitle > h2 {
+    font-size: 48px;
 }
 
 #homepageValuePropositionThreeFulfillments {

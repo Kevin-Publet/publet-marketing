@@ -99,8 +99,10 @@
                 </video>
 
             </div>
-            <div id="homepageValuePropositionOneTitle" class="col-lg-6">
-
+            <div id="homepageValuePropositionOneTitle" class="col-lg-6 text-center">
+                <h2 class="homepageHeavyFont">
+                    Create engaging content.
+                </h2>
             </div>
 
             <div id="homepageValuePropositionOneFulfillments" class="col-lg-6">
@@ -113,8 +115,10 @@
         <div id="homepageValuePropositionTwoSection">
 
             <div id="valuePropHolderLeft" class="col-lg-6">
-                <div id="homepageValuePropositionTwoTitle" class="col-lg-12">
-
+                <div id="homepageValuePropositionTwoTitle" class="col-lg-12 text-center">
+                    <h2 class="homepageHeavyFont">
+                        Send to your target audience.
+                    </h2>
                 </div>
                 <div id="homepageValuePropositionTwoFulfillments" class="col-lg-12">
 
@@ -145,8 +149,10 @@
                     Your browser does not support the video tag.
                 </video>
             </div>
-            <div id="homepageValuePropositionThreeTitle" class="col-lg-6">
-
+            <div id="homepageValuePropositionThreeTitle" class="col-lg-6 text-center">
+                <h2 class="homepageHeavyFont">
+                    Sell your stuff.
+                </h2>
             </div>
 
             <div id="homepageValuePropositionThreeFulfillments" class="col-lg-6">
