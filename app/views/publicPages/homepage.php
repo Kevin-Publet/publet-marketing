@@ -134,7 +134,7 @@
             </div>
 
             <div id="homepageValuePropositionOneCTA" class="col-lg-12 valuePropCTA text-center">
-                <a href="#" class="btn btn-homepageHuge btn-create">+Create a new campaign</a>
+                <a href="#" class="btn btn-homepageHuge btn-create">+Start creating content</a>
             </div>
 
         </div>
