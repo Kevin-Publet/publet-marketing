@@ -108,6 +108,11 @@
         </div>
 
         <div id="homepageValuePropositionOneSection" >
+            <div id="homepageValuePropositionOneHead" class="col-lg-12 valuePropHead">
+                <h2>
+                    Content Creation
+                </h2>
+            </div>
             <div id="homepageValuePropositionOneVideoSection" class="col-lg-6">
 
                 <img src="https://cdn3.iconfinder.com/data/icons/flat-icons-10/268/1-512.png" class="center-block">
@@ -128,10 +133,18 @@
 
             </div>
 
+            <div id="homepageValuePropositionOneCTA" class="col-lg-12 valuePropCTA">
+                <a href="#" class="btn btn-lg btn-primary">+Create a new campaign</a>
+            </div>
 
         </div>
 
         <div id="homepageValuePropositionTwoSection">
+            <div id="homepageValuePropositionTwoHead" class="col-lg-12 valuePropHead">
+                <h2>
+                    Content Distribution
+                </h2>
+            </div>
 
             <div id="valuePropHolderLeft" class="col-lg-6">
                 <div id="homepageValuePropositionTwoTitle" class="col-lg-12 text-center">
@@ -144,7 +157,6 @@
                 </div>
             </div>
 
-
             <div id="homepageValuePropositionTwoVideoSection" class="col-lg-6">
                 <img src="https://cdn3.iconfinder.com/data/icons/flat-icons-10/268/1-512.png" class="center-block">
                 <video width="500" height="258" autoplay loop muted>
@@ -155,10 +167,20 @@
 
             </div>
 
+            <div id="homepageValuePropositionTwoCTA" class="col-lg-12 valuePropCTA">
+                <a href="#" class="btn btn-lg btn-primary">+Select your target audience</a>
+            </div>
 
         </div>
 
         <div id="homepageValuePropositionThreeSection">
+
+            <div id="homepageValuePropositionThreeHead" class="col-lg-12 valuePropHead">
+                <h2>
+                    Reader Conversion
+                </h2>
+            </div>
+
             <div id="homepageValuePropositionThreeVideoSection" class="col-lg-6">
 
                 <img src="https://cdn3.iconfinder.com/data/icons/flat-icons-10/268/1-512.png" class="center-block">
@@ -176,6 +198,10 @@
 
             <div id="homepageValuePropositionThreeFulfillments" class="col-lg-6">
 
+            </div>
+
+            <div id="homepageValuePropositionThreeCTA" class="col-lg-12 valuePropCTA">
+                <a href="#" class="btn btn-lg btn-primary">+Collect analytics</a>
             </div>
         </div>
 

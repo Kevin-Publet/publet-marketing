@@ -17,9 +17,6 @@ html, body {
     padding-bottom: -20px;
 }
 
- .contentUnderline {
-    /*text-decoration: underline;*/
-}
 
 #homepageNavBarSection {
     background: #333333;
@@ -285,6 +282,23 @@ html, body {
 
     min-height: 483px;
 }
+
+.valuePropCTA, .valuePropHead {
+    min-height: 300px;
+}
+
+.valuePropCTA {
+    background: #dadada;
+}
+
+.valuePropHead {
+    background: #333333;
+    color: #dadada;
+    text-align: center;
+    font-size: 56px;
+    font-family: 'Oswald', sans-serif;
+}
+
 
 #homepageEnticingContentSectionCreate {
     background: #FF5E49;
