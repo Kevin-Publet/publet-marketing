@@ -169,7 +169,15 @@
         </div>
 
         <div id="homepageEnticingContentSection">
-            <p>This is the enticing content section</p>
+            <div class="col-lg-4" id="homepageEnticingContentSectionCreate">
+
+            </div>
+            <div class="col-lg-4" id="homepageEnticingContentSectionDistribute">
+
+            </div>
+            <div class="col-lg-4" id="homepageEnticingContentSectionConvert">
+
+            </div>
         </div>
 
         <div id="homepageFooterSection">
