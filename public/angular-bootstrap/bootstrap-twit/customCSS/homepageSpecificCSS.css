@@ -1,3 +1,9 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+   
+}
+
 
 
 .homepageLightFont {
@@ -110,22 +116,25 @@
     margin-bottom: 40px;
 }
 
+
+
+
 #homepageValuePropositionOneSection {
-    background: #000;
+    /*background: #FF5E49;*/
     min-height: 700px;
     margin-top: -10px;
 
 }
 
 #homepageValuePropositionTwoSection {
-    background: #dadada;
+    background: #BBE5F1;
     min-height: 700px;
     margin-top: -10px;
 
 }
 
 #homepageValuePropositionThreeSection {
-    background: #000;
+    background: #170015;
     min-height: 700px;
     margin-top: -10px;
 
@@ -154,3 +163,20 @@
     min-height: 300px;
     margin-top: -10px;
 }
+
+#homepageValuePropositionVideoSection {
+    background: black;
+    min-height: 690px;
+
+}
+
+#homepageValuePropositionOneTitle {
+    background: blue;
+    min-height: 207px;
+}
+
+#homepageValuePropositionOneFulfillments {
+    background: green;
+    min-height: 483px;
+}
+
