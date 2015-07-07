@@ -290,7 +290,22 @@ html, body {
     min-height: 483px;
 }
 
-.valuePropCTA, .valuePropHead {
+.valuePropHead {
+    min-height: 250px;
+    padding-top: 50px;
+}
+
+.valuePropHead {
+    background: #333333;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.valuePropHead > h2 {
+    font-size: 56px;
+}
+
+.valuePropCTA {
     min-height: 300px;
 }
 
@@ -298,13 +313,32 @@ html, body {
     background: #dadada;
 }
 
-.valuePropHead {
-    background: #333333;
-    color: #dadada;
-    text-align: center;
-    font-size: 56px;
-    font-family: 'Oswald', sans-serif;
+#homepageWhatIsPubletSectionValueProp1 > h2  {
+    color: #FF5E49;
 }
+
+#homepageWhatIsPubletSectionValueProp2 > h2 {
+    color: #00C4FF;
+}
+
+#homepageWhatIsPubletSectionValueProp3  > h2 {
+    color: #7F0074;
+}
+
+
+#homepageValuePropositionOneHead > h2  {
+    color: #FF5E49;
+}
+
+#homepageValuePropositionTwoHead > h2 {
+    color: #00C4FF;
+}
+
+#homepageValuePropositionThreeHead  > h2 {
+    color: #7F0074;
+}
+
+
 
 
 #homepageEnticingContentSectionCreate {
