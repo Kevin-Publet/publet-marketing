@@ -73,24 +73,30 @@
             </h3>
 
             <div class="row text-center">
-                <div class="col-lg-2"></div>
-                <div id="homepageWhatIsPubletSectionValueProp1" class="col-lg-2">
-                    <h2 class="homepageHeavyFont">Content Creation</h2>
-                    <img src="https://cdn0.iconfinder.com/data/icons/conceptual-flat-icons-1/200/vector_210-252_29-256.png" class=" img-responsive center-block">
+
+                <div class="col-lg-4">
+                    <div id="homepageWhatIsPubletSectionValueProp1">
+                        <h2 class="homepageLightFont">Content Creation</h2>
+                        <img src="https://cdn1.iconfinder.com/data/icons/outline-imperial-seo/128/SEO_C_50_09.12.14-1_Artboard_42-256.png" class=" img-responsive center-block">
+                    </div>
                 </div>
 
-                <div class="col-lg-1"></div>
 
-                <div id="homepageWhatIsPubletSectionValueProp2" class="col-lg-2">
-                    <h2 class="homepageHeavyFont">Content Distribution</h2>
-                    <img src="https://cdn0.iconfinder.com/data/icons/conceptual-flat-icons-1/200/vector_210-252_09-256.png" class="img-responsive center-block">
+
+                <div class="col-lg-4">
+                    <div id="homepageWhatIsPubletSectionValueProp2">
+                        <h2 class="homepageLightFont">Content Distribution</h2>
+                        <img src="https://cdn1.iconfinder.com/data/icons/outline-imperial-seo/128/SEO_C_50_09.12.14-1_Artboard_34-256.png" class="img-responsive center-block">
+                    </div>
                 </div>
 
-                <div class="col-lg-1"></div>
 
-                <div id="homepageWhatIsPubletSectionValueProp3" class="col-lg-2">
-                    <h2 class="homepageHeavyFont">Reader Conversion</h2>
-                    <img src="https://cdn0.iconfinder.com/data/icons/conceptual-flat-icons-1/200/vector_210-252_07-256.png" class="img-responsive center-block">
+
+                <div class="col-lg-4">
+                    <div id="homepageWhatIsPubletSectionValueProp3">
+                        <h2 class="homepageLightFont">Reader Conversion</h2>
+                        <img src="https://cdn1.iconfinder.com/data/icons/outline-imperial-seo/128/SEO_C_50_09.12.14-1_Artboard_40-256.png" class="img-responsive center-block">
+                    </div>
                 </div>
             </div>
         </div>

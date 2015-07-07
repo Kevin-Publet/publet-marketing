@@ -119,26 +119,27 @@ html, body {
 #homepageWhatIsPubletSectionValueProp1 {
     background: #FF5E49;
     min-height: 300px;
-    color: #fff;
+
 
 }
 
 #homepageWhatIsPubletSectionValueProp2 {
     background: #00C4FF;
     min-height: 300px;
-    color: #fff;
+
 
 }
 
 #homepageWhatIsPubletSectionValueProp3 {
     background: #7F0074;
     min-height: 300px;
-    color: #fff;
+
 
 }
 
 #homepageWhatIsPubletSectionValueProp1 > h2, #homepageWhatIsPubletSectionValueProp2 > h2, #homepageWhatIsPubletSectionValueProp3 > h2 {
-    font-size: 24px;
+    font-size: 36px;
+    color: #000;
 }
 
 
