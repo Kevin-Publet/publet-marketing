@@ -69,14 +69,14 @@
                 Publet helps businesses gain new customers
             </h3>
             <h3 class="homepageLightFont col-lg-12 lessTopMargin">
-                by simplifying three phases of content marketing:
+                by simplifying three phases of content marketing.
             </h3>
 
             <div class="row text-center">
 
                 <div>
                     <h2 class="homepageHeavyFont">
-                        Content Marketing Simplified.
+                        Publet simplifies content marketing.
                     </h2>
                 </div>
 

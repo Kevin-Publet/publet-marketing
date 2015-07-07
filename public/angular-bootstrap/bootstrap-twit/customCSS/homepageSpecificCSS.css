@@ -93,7 +93,11 @@ html, body {
 }
 
 #homepageWhatIsPubletSection {
-    background: #D6D6D6;
+    background-image: url('/assets/images/whatIsBackgroundImage.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     min-height: 700px;
     margin-top: -20px;
     padding-top: 20px;
