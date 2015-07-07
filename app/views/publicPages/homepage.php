@@ -56,7 +56,7 @@
                 </h2>
             </div>
             <div id="homepageQuickTestimonialSectionPersonImage">
-                <img src="http://placehold.it/150" class="img-circle img-responsive center-block">
+                <img src="https://cdn2.iconfinder.com/data/icons/many-people-flat-icons/128/man-2-128.png" class="img-circle img-responsive center-block">
             </div>
             <div id="homepageQuickTestimonialSectionPersonBio" class="homepageLightFont">
                 <h3>John Smith - Content Director, Contently</h3>
@@ -73,6 +73,12 @@
             </h3>
 
             <div class="row text-center">
+
+                <div>
+                    <h2 class="homepageHeavyFont">
+                        Content Marketing Simplified.
+                    </h2>
+                </div>
 
                 <div class="col-lg-4">
                     <div id="homepageWhatIsPubletSectionValueProp1">
