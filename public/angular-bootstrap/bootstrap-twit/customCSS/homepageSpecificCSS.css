@@ -200,3 +200,18 @@ html, body {
     margin-left: -15px;
 }
 
+#homepageValuePropositionThreeVideoSection {
+    background: #40003A;
+    min-height: 690px;
+
+}
+
+#homepageValuePropositionThreeTitle {
+    background: #170015;
+    min-height: 207px;
+}
+
+#homepageValuePropositionThreeFulfillments {
+    background: #7F0074;
+    min-height: 483px;
+}

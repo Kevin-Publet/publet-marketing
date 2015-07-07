@@ -32,8 +32,10 @@
           <file leaf-file-name="homepage.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/views/publicPages/homepage.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.2877698" vertical-offset="2500" max-vertical-offset="3875">
-                  <caret line="108" column="49" selection-start-line="108" selection-start-column="49" selection-end-line="108" selection-end-column="57" />
+                <state vertical-scroll-proportion="0.7553957" vertical-offset="2850" max-vertical-offset="4125">
+                  <caret line="127" column="50" selection-start-line="127" selection-start-column="50" selection-end-line="127" selection-end-column="50" />
+                  <caret line="131" column="50" selection-start-line="131" selection-start-column="50" selection-end-line="131" selection-end-column="50" />
+                  <caret line="135" column="50" selection-start-line="135" selection-start-column="50" selection-end-line="135" selection-end-column="50" />
                   <folding />
                 </state>
               </provider>
@@ -46,8 +48,8 @@
           <file leaf-file-name="homepageSpecificCSS.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/public/angular-bootstrap/bootstrap-twit/customCSS/homepageSpecificCSS.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.65373963" vertical-offset="4453" max-vertical-offset="5200">
-                  <caret line="197" column="10" selection-start-line="197" selection-start-column="10" selection-end-line="197" selection-end-column="10" />
+                <state vertical-scroll-proportion="0.86149585" vertical-offset="4728" max-vertical-offset="5550">
+                  <caret line="214" column="23" selection-start-line="214" selection-start-column="23" selection-end-line="214" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -466,16 +468,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/publicPages/homepage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2877698" vertical-offset="2500" max-vertical-offset="3875">
-          <caret line="108" column="49" selection-start-line="108" selection-start-column="49" selection-end-line="108" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.7553957" vertical-offset="2850" max-vertical-offset="4125">
+          <caret line="127" column="50" selection-start-line="127" selection-start-column="50" selection-end-line="127" selection-end-column="50" />
+          <caret line="131" column="50" selection-start-line="131" selection-start-column="50" selection-end-line="131" selection-end-column="50" />
+          <caret line="135" column="50" selection-start-line="135" selection-start-column="50" selection-end-line="135" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/angular-bootstrap/bootstrap-twit/customCSS/homepageSpecificCSS.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65373963" vertical-offset="4453" max-vertical-offset="5200">
-          <caret line="197" column="10" selection-start-line="197" selection-start-column="10" selection-end-line="197" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.86149585" vertical-offset="4728" max-vertical-offset="5550">
+          <caret line="214" column="23" selection-start-line="214" selection-start-column="23" selection-end-line="214" selection-end-column="23" />
           <folding />
         </state>
       </provider>

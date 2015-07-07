@@ -125,7 +125,17 @@
         </div>
 
         <div id="homepageValuePropositionThreeSection">
-            <p>This is the value prop 3 section</p>
+            <div id="homepageValuePropositionThreeVideoSection" class="col-lg-6">
+
+
+            </div>
+            <div id="homepageValuePropositionThreeTitle" class="col-lg-6">
+
+            </div>
+
+            <div id="homepageValuePropositionThreeFulfillments" class="col-lg-6">
+
+            </div>
         </div>
 
         <div id="homepageMajorTestimonialSection">
