@@ -75,15 +75,15 @@
             <div class="row text-center">
                 <div class="col-lg-4">
                     <h2 class="homepageHeavyFont">Content Creation</h2>
-                    <img src="http://placehold.it/300" class="img-circle img-responsive center-block">
+                    <img src="https://cdn0.iconfinder.com/data/icons/conceptual-flat-icons-1/200/vector_210-252_29-256.png" class=" img-responsive center-block">
                 </div>
                 <div class="col-lg-4">
                     <h2 class="homepageHeavyFont">Content Distribution</h2>
-                    <img src="http://placehold.it/300" class="img-circle img-responsive center-block">
+                    <img src="https://cdn0.iconfinder.com/data/icons/conceptual-flat-icons-1/200/vector_210-252_09-256.png" class="img-responsive center-block">
                 </div>
                 <div class="col-lg-4">
                     <h2 class="homepageHeavyFont">Reader Conversion</h2>
-                    <img src="http://placehold.it/300" class="img-circle img-responsive center-block">
+                    <img src="https://cdn0.iconfinder.com/data/icons/conceptual-flat-icons-1/200/vector_210-252_07-256.png" class="img-responsive center-block">
                 </div>
             </div>
         </div>
