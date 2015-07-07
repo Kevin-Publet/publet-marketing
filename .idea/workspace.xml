@@ -45,8 +45,8 @@
           <file leaf-file-name="homepageSpecificCSS.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/public/angular-bootstrap/bootstrap-twit/customCSS/homepageSpecificCSS.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.89612186" vertical-offset="5953" max-vertical-offset="6775">
-                  <caret line="264" column="17" selection-start-line="264" selection-start-column="17" selection-end-line="264" selection-end-column="17" />
+                <state vertical-scroll-proportion="0.48060942" vertical-offset="3228" max-vertical-offset="6700">
+                  <caret line="143" column="24" selection-start-line="143" selection-start-column="24" selection-end-line="143" selection-end-column="24" />
                   <folding />
                 </state>
               </provider>
@@ -491,8 +491,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/angular-bootstrap/bootstrap-twit/customCSS/homepageSpecificCSS.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.89612186" vertical-offset="5953" max-vertical-offset="6775">
-          <caret line="264" column="17" selection-start-line="264" selection-start-column="17" selection-end-line="264" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.48060942" vertical-offset="3228" max-vertical-offset="6700">
+          <caret line="143" column="24" selection-start-line="143" selection-start-column="24" selection-end-line="143" selection-end-column="24" />
           <folding />
         </state>
       </provider>

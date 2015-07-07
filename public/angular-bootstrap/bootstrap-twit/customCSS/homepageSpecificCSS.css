@@ -141,7 +141,7 @@ html, body {
 }
 
 #homepageMajorTestimonialSection {
-    background: #dadada;
+    background: #333333;
     min-height: 500px;
     margin-top: -10px;
 }
@@ -259,8 +259,4 @@ html, body {
 #homepageValuePropositionThreeFulfillments {
     background: #7F0074;
     min-height: 483px;
-}
-
-#homepageMajorTestimonialSection {
-    background: #333333;
 }
