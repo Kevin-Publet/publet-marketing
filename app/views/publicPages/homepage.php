@@ -190,6 +190,7 @@
                     Your browser does not support the video tag.
                 </video>
             </div>
+
             <div id="homepageValuePropositionThreeTitle" class="col-lg-6 text-center">
                 <h2 class="homepageHeavyFont">
                     Sell your stuff.
@@ -205,11 +206,11 @@
             </div>
         </div>
 
-        <div id="homepageMajorTestimonialSection">
+        <div id="homepageMajorTestimonialSection" class="col-lg-12">
             <p>This is the major testimonial section</p>
         </div>
 
-        <div id="homepageAskForConversionSection">
+        <div id="homepageAskForConversionSection" class="col-lg-12">
             <p>This is the ask for conversion section</p>
         </div>
 
@@ -225,7 +226,7 @@
             </div>
         </div>
 
-        <div id="homepageFooterSection">
+        <div id="homepageFooterSection" class="col-lg-12">
             <p>This is the footer section</p>
         </div>
     </div>
