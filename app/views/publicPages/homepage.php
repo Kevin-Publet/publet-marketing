@@ -73,15 +73,22 @@
             </h3>
 
             <div class="row text-center">
-                <div class="col-lg-4">
+                <div class="col-lg-2"></div>
+                <div id="homepageWhatIsPubletSectionValueProp1" class="col-lg-2">
                     <h2 class="homepageHeavyFont">Content Creation</h2>
                     <img src="https://cdn0.iconfinder.com/data/icons/conceptual-flat-icons-1/200/vector_210-252_29-256.png" class=" img-responsive center-block">
                 </div>
-                <div class="col-lg-4">
+
+                <div class="col-lg-1"></div>
+
+                <div id="homepageWhatIsPubletSectionValueProp2" class="col-lg-2">
                     <h2 class="homepageHeavyFont">Content Distribution</h2>
                     <img src="https://cdn0.iconfinder.com/data/icons/conceptual-flat-icons-1/200/vector_210-252_09-256.png" class="img-responsive center-block">
                 </div>
-                <div class="col-lg-4">
+
+                <div class="col-lg-1"></div>
+
+                <div id="homepageWhatIsPubletSectionValueProp3" class="col-lg-2">
                     <h2 class="homepageHeavyFont">Reader Conversion</h2>
                     <img src="https://cdn0.iconfinder.com/data/icons/conceptual-flat-icons-1/200/vector_210-252_07-256.png" class="img-responsive center-block">
                 </div>
