@@ -167,7 +167,18 @@ html, body {
 #homepageValuePropositionOneVideoSection {
     background: #FF5E49;
     min-height: 690px;
+    max-height: 690px;
+    padding-top: 120px;
 
+}
+
+#homepageValuePropositionOneVideoSection > img {
+}
+
+#homepageValuePropositionOneVideoSection > video {
+    position: relative;
+    top: -415px;
+    left: 13%;
 }
 
 #homepageValuePropositionOneTitle {
@@ -183,6 +194,8 @@ html, body {
 #homepageValuePropositionTwoVideoSection {
     background: #0093BF;
     min-height: 690px;
+    max-height: 690px;
+    padding-top: 120px;
 
 }
 
@@ -203,6 +216,8 @@ html, body {
 #homepageValuePropositionThreeVideoSection {
     background: #40003A;
     min-height: 690px;
+    max-height: 690px;
+    padding-top: 120px;
 
 }
 
