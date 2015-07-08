@@ -208,8 +208,9 @@
 
         <div id="homepageMajorTestimonialSection" class="col-lg-12 text-center">
             <h3 class="homepageHeavyFont">
-                A few of the companies loving Publet
+                A few companies loving Publet
             </h3>
+
         </div>
 
         <div id="homepageAskForConversionSection" class="col-lg-12">
