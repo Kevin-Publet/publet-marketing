@@ -377,7 +377,7 @@ html, body {
 }
 
 #homepageValuePropositionTwoCTA {
-    background-image: url('/assets/images/createCTABackgroundImage.png');
+    background-image: url('/assets/images/distributeCTABackgroundImage.png');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -386,7 +386,7 @@ html, body {
 }
 
 #homepageValuePropositionThreeCTA {
-    background-image: url('/assets/images/createCTABackgroundImage.png');
+    background-image: url('/assets/images/convertCTABackgroundImage.png');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

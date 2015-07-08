@@ -168,7 +168,7 @@
             </div>
 
             <div id="homepageValuePropositionTwoCTA" class="col-lg-12 valuePropCTA text-center">
-                <a href="#" class="btn btn-homepageHuge btn-distribute">+Select your target audience</a>
+                <a href="#" class="btn btn-homepageHuge btn-distribute">+Unleash your content</a>
             </div>
 
         </div>
@@ -202,7 +202,7 @@
             </div>
 
             <div id="homepageValuePropositionThreeCTA" class="col-lg-12 valuePropCTA text-center">
-                <a href="#" class="btn btn-homepageHuge btn-convert">+Collect analytics</a>
+                <a href="#" class="btn btn-homepageHuge btn-convert">+Start converting readers</a>
             </div>
         </div>
 
