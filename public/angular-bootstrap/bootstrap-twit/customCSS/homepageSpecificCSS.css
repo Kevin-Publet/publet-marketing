@@ -494,6 +494,9 @@ html, body {
 #homepageEnticingContentFeatureTitle {
     margin-bottom: 30px;
 }
+#homepageEnticingContentFeatureSubTitle {
+    /*margin-bottom: 30px;*/
+}
 
 #homepageEnticingContentCTASection > a.btn {
     margin-top: 60px;

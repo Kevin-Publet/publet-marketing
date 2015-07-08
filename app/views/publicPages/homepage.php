@@ -287,6 +287,11 @@
                             <img class="center-block img-responsive" src="/assets/images/unbounceLogo.png">
                         </div>
                     </div>
+                    <div class="col-lg-12 text-center" id="homepageEnticingContentFeatureSubTitle">
+                        <h3 class="homepageLightFont">
+                            and more
+                        </h3>
+                    </div>
                 </div>
                 <div class="col-lg-12" id="homepageEnticingContentCTASection">
                     <a href="#" class="btn btn-homepageHuge btn-distribute">Get it</a>
