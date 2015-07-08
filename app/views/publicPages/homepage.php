@@ -134,7 +134,7 @@
             </div>
 
             <div id="homepageValuePropositionOneCTA" class="col-lg-12 valuePropCTA text-center">
-                <a href="#" class="btn btn-homepageHuge btn-create">+Start creating content</a>
+                <a href="#" class="btn btn-homepageHuge btn-create">+ Start creating content</a>
             </div>
 
         </div>
@@ -168,7 +168,7 @@
             </div>
 
             <div id="homepageValuePropositionTwoCTA" class="col-lg-12 valuePropCTA text-center">
-                <a href="#" class="btn btn-homepageHuge btn-distribute">+Unleash your content</a>
+                <a href="#" class="btn btn-homepageHuge btn-distribute">+ Unleash your content</a>
             </div>
 
         </div>
@@ -202,7 +202,7 @@
             </div>
 
             <div id="homepageValuePropositionThreeCTA" class="col-lg-12 valuePropCTA text-center">
-                <a href="#" class="btn btn-homepageHuge btn-convert">+Start converting readers</a>
+                <a href="#" class="btn btn-homepageHuge btn-convert">+ Start converting readers</a>
             </div>
         </div>
 
