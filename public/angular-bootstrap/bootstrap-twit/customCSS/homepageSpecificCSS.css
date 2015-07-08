@@ -403,6 +403,10 @@ html, body {
     font-size: 36px;
 }
 
+#homepageMajorTestimonialSectionTitle {
+    margin-bottom: 80px;
+}
+
 #homepageEnticingContentSectionCreate {
     background: #FF5E49;
     min-height: 500px;
