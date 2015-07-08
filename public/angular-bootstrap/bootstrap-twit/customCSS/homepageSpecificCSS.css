@@ -473,13 +473,25 @@ html, body {
 
 #homepageEnticingContentOffer {
     background: #333333;
-    min-height: 850px;
+    min-height: 1160px;
     margin-top: -10px;
     color: #dadada;
     padding-top: 65px;
 }
 
+#homepageEnticingContentOfferTitle {
+    margin-bottom: 60px;
+}
+
+#homepageEnticingContentImage {
+    margin-bottom: 60px;
+}
+
+#homepageEnticingContentFeatureTitle {
+    margin-bottom: 30px;
+}
+
 #homepageEnticingContentCTASection > a.btn {
-    margin-top: 40px;
+    margin-top: 60px;
 }
 

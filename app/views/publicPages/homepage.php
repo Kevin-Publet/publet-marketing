@@ -260,7 +260,7 @@
                     </h2>
                 </div>
                 <div id="homepageEnticingContentImage">
-                    <img src="http://placehold.it/300">
+                    <img src="/assets/images/book.png">
                 </div>
 
                 <div id="homepageEnticingContentFeatureSection">
