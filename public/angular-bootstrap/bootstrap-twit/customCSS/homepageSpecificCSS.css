@@ -432,7 +432,21 @@ html, body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    padding-top: 180px;
+}
 
+#homepageAskForConversionSection > div > div > h2 {
+    font-size: 42px;
+}
+
+#homepageAskForConversionSectionCTA {
+    padding-top: 20px;
+}
+
+#homepageAskForConversionSectionCTA > a.ctaLink {
+    font-size: 30px;
+    color: #333333;
+    text-decoration: underline;
 }
 
 #homepageEnticingContentSectionCreate {
