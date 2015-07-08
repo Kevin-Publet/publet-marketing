@@ -270,27 +270,25 @@
                         </h3>
                     </div>
                     <div id="homepageEnticingContentFeatureList">
-                        <div class="col-lg-2">
-                            <img class="center-block img-responsive" src="http://placehold.it/125">
+                        <div class="col-lg-1"></div>
+                        <div id="hubspotLogo" class="col-lg-2">
+                            <img class="center-block img-responsive" src="/assets/images/hubspotLogo.png">
                         </div>
-                        <div class="col-lg-2">
-                            <img class="center-block img-responsive" src="http://placehold.it/125">
+                        <div id="mozLogo" class="col-lg-2">
+                            <img class="center-block img-responsive" src="/assets/images/mozLogo.png">
                         </div>
-                        <div class="col-lg-2">
-                            <img class="center-block img-responsive" src="http://placehold.it/125">
+                        <div id="kissmetricsLogo" class="col-lg-2">
+                            <img class="center-block img-responsive" src="/assets/images/kissmetricsLogo.png">
                         </div>
-                        <div class="col-lg-2">
-                            <img class="center-block img-responsive" src="http://placehold.it/125">
+                        <div id="qualarooLogo" class="col-lg-2">
+                            <img class="center-block img-responsive" src="/assets/images/qualarooLogo.png">
                         </div>
-                        <div class="col-lg-2">
-                            <img class="center-block img-responsive" src="http://placehold.it/125">
-                        </div>
-                        <div class="col-lg-2">
-                            <img class="center-block img-responsive" src="http://placehold.it/125">
+                        <div id="unbounceLogo" class="col-lg-2">
+                            <img class="center-block img-responsive" src="/assets/images/unbounceLogo.png">
                         </div>
                     </div>
                 </div>
-                <div id="homepageEnticingContentCTASection">
+                <div class="col-lg-12" id="homepageEnticingContentCTASection">
                     <a href="#" class="btn btn-homepageHuge btn-distribute">Get it</a>
                 </div>
             </div>
