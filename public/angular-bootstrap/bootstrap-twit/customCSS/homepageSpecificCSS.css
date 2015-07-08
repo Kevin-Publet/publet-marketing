@@ -424,6 +424,17 @@ html, body {
     padding-top: 20px;
 }
 
+
+
+#homepageAskForConversionSection {
+    background-image: url('/assets/images/askForSaleBackgroundImage.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
 #homepageEnticingContentSectionCreate {
     background: #FF5E49;
     min-height: 500px;
