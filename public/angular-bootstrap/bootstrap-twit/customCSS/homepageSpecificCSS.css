@@ -27,6 +27,7 @@ html, body {
     min-width: 490px;
     font-size: 40px;
     font-family: 'Oswald', sans-serif;
+    padding-top: 15px;
 }
 
 .btn-homepageHuge:hover, .btn-homepageHuge:active, .btn-homepageHuge:link{
@@ -394,7 +395,13 @@ html, body {
 
 }
 
+#homepageMajorTestimonialSection {
+    padding-top: 50px;
+}
 
+#homepageMajorTestimonialSection > h3 {
+    font-size: 52px;
+}
 
 #homepageEnticingContentSectionCreate {
     background: #FF5E49;
