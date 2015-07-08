@@ -220,6 +220,7 @@ html, body {
     background: #333333 ;
     min-height: 300px;
     margin-top: -10px;
+    display: none;
 }
 
 #homepageValuePropositionOneVideoSection {
@@ -458,7 +459,7 @@ html, body {
 }
 
 .enticingContentSectionBorder {
-    height: 20px;
+    height: 10px;
 
 }
 
@@ -478,7 +479,7 @@ html, body {
 #homepageEnticingContentOffer {
     background: #333333;
     min-height: 1160px;
-    margin-top: -10px;
+    /*margin-top: -10px;*/
     color: #dadada;
     padding-top: 65px;
 }
