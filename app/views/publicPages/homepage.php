@@ -245,15 +245,61 @@
             </div>
         </div>
 
-        <div id="homepageEnticingContentSection">
-            <div class="col-lg-4" id="homepageEnticingContentSectionCreate">
-
+        <div id="homepageEnticingContentSection" class="text-center">
+            <div class="col-lg-4 homepageEnticingContentSectionCreateBorder enticingContentSectionBorder">
             </div>
-            <div class="col-lg-4" id="homepageEnticingContentSectionDistribute">
-
+            <div class="col-lg-4 homepageEnticingContentSectionDistributeBorder enticingContentSectionBorder">
             </div>
-            <div class="col-lg-4" id="homepageEnticingContentSectionConvert">
+            <div class="col-lg-4 homepageEnticingContentSectionConvertBorder enticingContentSectionBorder">
+            </div>
 
+            <div class="col-lg-12" id="homepageEnticingContentOffer">
+                <div id="homepageEnticingContentOfferTitle">
+                    <h2 class="homepageLightFont">
+                        Start enhancing your content today.
+                    </h2>
+                </div>
+                <div id="homepageEnticingContentImage">
+                    <img src="http://placehold.it/300">
+                </div>
+
+                <div id="homepageEnticingContentFeatureSection">
+                    <div id="homepageEnticingContentFeatureTitle">
+                        <h3 class="homepageLightFont">
+                            Featuring Content By
+                        </h3>
+                    </div>
+                    <div id="homepageEnticingContentFeatureList">
+                        <div class="col-lg-2">
+                            <img class="center-block img-responsive" src="http://placehold.it/125">
+                        </div>
+                        <div class="col-lg-2">
+                            <img class="center-block img-responsive" src="http://placehold.it/125">
+                        </div>
+                        <div class="col-lg-2">
+                            <img class="center-block img-responsive" src="http://placehold.it/125">
+                        </div>
+                        <div class="col-lg-2">
+                            <img class="center-block img-responsive" src="http://placehold.it/125">
+                        </div>
+                        <div class="col-lg-2">
+                            <img class="center-block img-responsive" src="http://placehold.it/125">
+                        </div>
+                        <div class="col-lg-2">
+                            <img class="center-block img-responsive" src="http://placehold.it/125">
+                        </div>
+                    </div>
+                </div>
+                <div id="homepageEnticingContentCTASection">
+                    <a href="#" class="btn btn-homepageHuge btn-distribute">Get it</a>
+                </div>
+            </div>
+
+            <div class="col-lg-4 homepageEnticingContentSectionCreateBorder enticingContentSectionBorder">
+            </div>
+            <div class="col-lg-4 homepageEnticingContentSectionDistributeBorder enticingContentSectionBorder">
+            </div>
+            <div class="col-lg-4 homepageEnticingContentSectionConvertBorder enticingContentSectionBorder">
             </div>
         </div>
 

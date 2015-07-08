@@ -449,22 +449,37 @@ html, body {
     text-decoration: underline;
 }
 
-#homepageEnticingContentSectionCreate {
+#homepageEnticingContentSection {
+
+}
+
+.enticingContentSectionBorder {
+    height: 20px;
+
+}
+
+
+.homepageEnticingContentSectionCreateBorder {
     background: #FF5E49;
-    min-height: 500px;
-
 }
 
-#homepageEnticingContentSectionDistribute{
+.homepageEnticingContentSectionDistributeBorder {
     background: #00C4FF;
-    min-height: 500px;
-
-
 }
 
-#homepageEnticingContentSectionConvert {
+.homepageEnticingContentSectionConvertBorder {
     background: #7F0074;
-    min-height: 500px;
-
-
 }
+
+#homepageEnticingContentOffer {
+    background: #333333;
+    min-height: 850px;
+    margin-top: -10px;
+    color: #dadada;
+    padding-top: 65px;
+}
+
+#homepageEnticingContentCTASection > a.btn {
+    margin-top: 40px;
+}
+
