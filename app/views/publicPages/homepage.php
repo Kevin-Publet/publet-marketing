@@ -134,7 +134,7 @@
                     <div id="valuePropositionOneFulfillmentOne" class="col-lg-4">
                         <div class="valuePropositionFulfillmentTitle">
                             <h4>
-                                This is ValueProp Title
+                                Easy to use CMS. Finally.
                             </h4>
                         </div>
                         <div class="valuePropositionFulfillmentImage">
@@ -142,16 +142,15 @@
                         </div>
                         <div class="valuePropositionFulfillmentBlurb">
                             <p>
-                                This is the blurb of the value proposition fulfillment.
-                                This will be some information on the fulfillment.
-                                Maybe some key descriptions.
+                                A easy to use content editor with customizable
+                                permissions and access levels.
                             </p>
                         </div>
                     </div>
                     <div id="valuePropositionOneFulfillmentTwo" class="col-lg-4">
                         <div class="valuePropositionFulfillmentTitle">
                             <h4>
-                                This is ValueProp Title
+                                Pick a Content. Any Content.
                             </h4>
                         </div>
                         <div class="valuePropositionFulfillmentImage">
@@ -159,16 +158,15 @@
                         </div>
                         <div class="valuePropositionFulfillmentBlurb">
                             <p>
-                                This is the blurb of the value proposition fulfillment.
-                                This will be some information on the fulfillment.
-                                Maybe some key descriptions.
+                                Import and Export in diverse content formats
+                                including html/css, pdf, .mobi, .epub, kindle, and more.
                             </p>
                         </div>
                     </div>
                     <div id="valuePropositionOneFulfillmentThree" class="col-lg-4">
                         <div class="valuePropositionFulfillmentTitle">
                             <h4>
-                                This is ValueProp Title
+                                Looks Matter.
                             </h4>
                         </div>
                         <div class="valuePropositionFulfillmentImage">
@@ -176,9 +174,9 @@
                         </div>
                         <div class="valuePropositionFulfillmentBlurb">
                             <p>
-                                This is the blurb of the value proposition fulfillment.
-                                This will be some information on the fulfillment.
-                                Maybe some key descriptions.
+                                Build using beautiful and responsive themes
+                                that are compatible with the web, iOS, Android
+                                and other platforms.
                             </p>
                         </div>
                     </div>
@@ -209,7 +207,7 @@
                         <div id="valuePropositionTwoFulfillmentOne" class="col-lg-4">
                             <div class="valuePropositionFulfillmentTitle">
                                 <h4>
-                                    This is ValueProp Title
+                                    Ready. Aim...
                                 </h4>
                             </div>
                             <div class="valuePropositionFulfillmentImage">
@@ -217,16 +215,15 @@
                             </div>
                             <div class="valuePropositionFulfillmentBlurb">
                                 <p>
-                                    This is the blurb of the value proposition fulfillment.
-                                    This will be some information on the fulfillment.
-                                    Maybe some key descriptions.
+                                    Target your audience using a variety of parameters including
+                                    email lists, hashtags, and social conversations.
                                 </p>
                             </div>
                         </div>
                         <div id="valuePropositionTwoFulfillmentTwo" class="col-lg-4">
                             <div class="valuePropositionFulfillmentTitle">
                                 <h4>
-                                    This is ValueProp Title
+                                    Go Viral.
                                 </h4>
                             </div>
                             <div class="valuePropositionFulfillmentImage">
@@ -234,16 +231,15 @@
                             </div>
                             <div class="valuePropositionFulfillmentBlurb">
                                 <p>
-                                    This is the blurb of the value proposition fulfillment.
-                                    This will be some information on the fulfillment.
-                                    Maybe some key descriptions.
+                                    Make it easy for readers to promote yoru content
+                                    with built in social sharing and pull-quote functionality.
                                 </p>
                             </div>
                         </div>
                         <div id="valuePropositionTwoFulfillmentThree" class="col-lg-4">
                             <div class="valuePropositionFulfillmentTitle">
                                 <h4>
-                                    This is ValueProp Title
+                                    Gauge Performance.
                                 </h4>
                             </div>
                             <div class="valuePropositionFulfillmentImage">
@@ -251,9 +247,9 @@
                             </div>
                             <div class="valuePropositionFulfillmentBlurb">
                                 <p>
-                                    This is the blurb of the value proposition fulfillment.
-                                    This will be some information on the fulfillment.
-                                    Maybe some key descriptions.
+                                    Easily digest which groups and channels are
+                                    bringing you the most readers, engagement,
+                                    and desired outcomes.
                                 </p>
                             </div>
                         </div>
@@ -306,7 +302,7 @@
                     <div id="valuePropositionThreeFulfillmentOne" class="col-lg-4">
                         <div class="valuePropositionFulfillmentTitle">
                             <h4>
-                                This is ValueProp Title
+                                You shall not pass!
                             </h4>
                         </div>
                         <div class="valuePropositionFulfillmentImage">
@@ -314,16 +310,15 @@
                         </div>
                         <div class="valuePropositionFulfillmentBlurb">
                             <p>
-                                This is the blurb of the value proposition fulfillment.
-                                This will be some information on the fulfillment.
-                                Maybe some key descriptions.
+                                Keep sections of your content for readers on your
+                                subscribers list, likely increasing your opt-in conversions.
                             </p>
                         </div>
                     </div>
                     <div id="valuePropositionThreeFulfillmentTwo" class="col-lg-4">
                         <div class="valuePropositionFulfillmentTitle">
                             <h4>
-                                This is ValueProp Title
+                                Contextual Analytics.
                             </h4>
                         </div>
                         <div class="valuePropositionFulfillmentImage">
@@ -331,16 +326,16 @@
                         </div>
                         <div class="valuePropositionFulfillmentBlurb">
                             <p>
-                                This is the blurb of the value proposition fulfillment.
-                                This will be some information on the fulfillment.
-                                Maybe some key descriptions.
+                                Receive analytics that go past traditional bounce rates,
+                                and time on page. Our analytics give you context of who readers
+                                really are.
                             </p>
                         </div>
                     </div>
                     <div id="valuePropositionThreeFulfillmentThree" class="col-lg-4">
                         <div class="valuePropositionFulfillmentTitle">
                             <h4>
-                                This is ValueProp Title
+                                Track & Refine.
                             </h4>
                         </div>
                         <div class="valuePropositionFulfillmentImage">
@@ -348,9 +343,9 @@
                         </div>
                         <div class="valuePropositionFulfillmentBlurb">
                             <p>
-                                This is the blurb of the value proposition fulfillment.
-                                This will be some information on the fulfillment.
-                                Maybe some key descriptions.
+                                Heat maps allow you to see where your content may be
+                                underperforming. Allowing you the ability to quickly
+                                plan improvements in your campaign.
                             </p>
                         </div>
                     </div>
