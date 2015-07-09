@@ -1,0 +1,9 @@
+/*NAVIGATION STYLING*/
+
+@media screen and (max-width: 1199px)
+{
+    #homepageNavBarSection {
+        margin-bottom: -45px;
+    }
+}
+/*END NAVIGATION STYLING*/
