@@ -223,6 +223,11 @@ html, body {
     display: none;
 }
 
+
+.valuePropositionFulfillmentContainer {
+    padding-top: 65px;
+}
+
 #homepageValuePropositionOneVideoSection {
     background: #FF5E49;
     min-height: 690px;

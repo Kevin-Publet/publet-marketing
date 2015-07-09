@@ -130,7 +130,7 @@
             </div>
 
             <div id="homepageValuePropositionOneFulfillments" class="col-lg-6">
-                <div class="row text-center">
+                <div class="row text-center valuePropositionFulfillmentContainer">
                     <div id="valuePropositionOneFulfillmentOne" class="col-lg-4">
                         <div class="valuePropositionFulfillmentTitle">
                             <h4>
@@ -205,7 +205,59 @@
                     </h2>
                 </div>
                 <div id="homepageValuePropositionTwoFulfillments" class="col-lg-12">
-
+                    <div class="row text-center valuePropositionFulfillmentContainer">
+                        <div id="valuePropositionTwoFulfillmentOne" class="col-lg-4">
+                            <div class="valuePropositionFulfillmentTitle">
+                                <h4>
+                                    This is ValueProp Title
+                                </h4>
+                            </div>
+                            <div class="valuePropositionFulfillmentImage">
+                                <img class="img-responsive center-block" src="http://placehold.it/150">
+                            </div>
+                            <div class="valuePropositionFulfillmentBlurb">
+                                <p>
+                                    This is the blurb of the value proposition fulfillment.
+                                    This will be some information on the fulfillment.
+                                    Maybe some key descriptions.
+                                </p>
+                            </div>
+                        </div>
+                        <div id="valuePropositionTwoFulfillmentTwo" class="col-lg-4">
+                            <div class="valuePropositionFulfillmentTitle">
+                                <h4>
+                                    This is ValueProp Title
+                                </h4>
+                            </div>
+                            <div class="valuePropositionFulfillmentImage">
+                                <img class="img-responsive center-block" src="http://placehold.it/150">
+                            </div>
+                            <div class="valuePropositionFulfillmentBlurb">
+                                <p>
+                                    This is the blurb of the value proposition fulfillment.
+                                    This will be some information on the fulfillment.
+                                    Maybe some key descriptions.
+                                </p>
+                            </div>
+                        </div>
+                        <div id="valuePropositionTwoFulfillmentThree" class="col-lg-4">
+                            <div class="valuePropositionFulfillmentTitle">
+                                <h4>
+                                    This is ValueProp Title
+                                </h4>
+                            </div>
+                            <div class="valuePropositionFulfillmentImage">
+                                <img class="img-responsive center-block" src="http://placehold.it/150">
+                            </div>
+                            <div class="valuePropositionFulfillmentBlurb">
+                                <p>
+                                    This is the blurb of the value proposition fulfillment.
+                                    This will be some information on the fulfillment.
+                                    Maybe some key descriptions.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -250,7 +302,59 @@
             </div>
 
             <div id="homepageValuePropositionThreeFulfillments" class="col-lg-6">
-
+                <div class="row text-center valuePropositionFulfillmentContainer">
+                    <div id="valuePropositionThreeFulfillmentOne" class="col-lg-4">
+                        <div class="valuePropositionFulfillmentTitle">
+                            <h4>
+                                This is ValueProp Title
+                            </h4>
+                        </div>
+                        <div class="valuePropositionFulfillmentImage">
+                            <img class="img-responsive center-block" src="http://placehold.it/150">
+                        </div>
+                        <div class="valuePropositionFulfillmentBlurb">
+                            <p>
+                                This is the blurb of the value proposition fulfillment.
+                                This will be some information on the fulfillment.
+                                Maybe some key descriptions.
+                            </p>
+                        </div>
+                    </div>
+                    <div id="valuePropositionThreeFulfillmentTwo" class="col-lg-4">
+                        <div class="valuePropositionFulfillmentTitle">
+                            <h4>
+                                This is ValueProp Title
+                            </h4>
+                        </div>
+                        <div class="valuePropositionFulfillmentImage">
+                            <img class="img-responsive center-block" src="http://placehold.it/150">
+                        </div>
+                        <div class="valuePropositionFulfillmentBlurb">
+                            <p>
+                                This is the blurb of the value proposition fulfillment.
+                                This will be some information on the fulfillment.
+                                Maybe some key descriptions.
+                            </p>
+                        </div>
+                    </div>
+                    <div id="valuePropositionThreeFulfillmentThree" class="col-lg-4">
+                        <div class="valuePropositionFulfillmentTitle">
+                            <h4>
+                                This is ValueProp Title
+                            </h4>
+                        </div>
+                        <div class="valuePropositionFulfillmentImage">
+                            <img class="img-responsive center-block" src="http://placehold.it/150">
+                        </div>
+                        <div class="valuePropositionFulfillmentBlurb">
+                            <p>
+                                This is the blurb of the value proposition fulfillment.
+                                This will be some information on the fulfillment.
+                                Maybe some key descriptions.
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <div id="homepageValuePropositionThreeCTA" class="col-lg-12 valuePropCTA text-center">
