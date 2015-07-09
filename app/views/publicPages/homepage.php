@@ -138,7 +138,7 @@
                             </h4>
                         </div>
                         <div class="valuePropositionFulfillmentImage">
-                            <img class="img-responsive center-block" src="http://placehold.it/150">
+                            <img class="img-responsive center-block" src="http://placehold.it/150/ffffff">
                         </div>
                         <div class="valuePropositionFulfillmentBlurb">
                             <p>
@@ -155,7 +155,7 @@
                             </h4>
                         </div>
                         <div class="valuePropositionFulfillmentImage">
-                            <img class="img-responsive center-block" src="http://placehold.it/150">
+                            <img class="img-responsive center-block" src="http://placehold.it/150/ffffff">
                         </div>
                         <div class="valuePropositionFulfillmentBlurb">
                             <p>
@@ -172,7 +172,7 @@
                             </h4>
                         </div>
                         <div class="valuePropositionFulfillmentImage">
-                            <img class="img-responsive center-block" src="http://placehold.it/150">
+                            <img class="img-responsive center-block" src="http://placehold.it/150/ffffff">
                         </div>
                         <div class="valuePropositionFulfillmentBlurb">
                             <p>
@@ -213,7 +213,7 @@
                                 </h4>
                             </div>
                             <div class="valuePropositionFulfillmentImage">
-                                <img class="img-responsive center-block" src="http://placehold.it/150">
+                                <img class="img-responsive center-block" src="http://placehold.it/150/ffffff">
                             </div>
                             <div class="valuePropositionFulfillmentBlurb">
                                 <p>
@@ -230,7 +230,7 @@
                                 </h4>
                             </div>
                             <div class="valuePropositionFulfillmentImage">
-                                <img class="img-responsive center-block" src="http://placehold.it/150">
+                                <img class="img-responsive center-block" src="http://placehold.it/150/ffffff">
                             </div>
                             <div class="valuePropositionFulfillmentBlurb">
                                 <p>
@@ -247,7 +247,7 @@
                                 </h4>
                             </div>
                             <div class="valuePropositionFulfillmentImage">
-                                <img class="img-responsive center-block" src="http://placehold.it/150">
+                                <img class="img-responsive center-block" src="http://placehold.it/150/ffffff">
                             </div>
                             <div class="valuePropositionFulfillmentBlurb">
                                 <p>
@@ -310,7 +310,7 @@
                             </h4>
                         </div>
                         <div class="valuePropositionFulfillmentImage">
-                            <img class="img-responsive center-block" src="http://placehold.it/150">
+                            <img class="img-responsive center-block" src="http://placehold.it/150/ffffff">
                         </div>
                         <div class="valuePropositionFulfillmentBlurb">
                             <p>
@@ -327,7 +327,7 @@
                             </h4>
                         </div>
                         <div class="valuePropositionFulfillmentImage">
-                            <img class="img-responsive center-block" src="http://placehold.it/150">
+                            <img class="img-responsive center-block" src="http://placehold.it/150/ffffff">
                         </div>
                         <div class="valuePropositionFulfillmentBlurb">
                             <p>
@@ -344,7 +344,7 @@
                             </h4>
                         </div>
                         <div class="valuePropositionFulfillmentImage">
-                            <img class="img-responsive center-block" src="http://placehold.it/150">
+                            <img class="img-responsive center-block" src="http://placehold.it/150/ffffff">
                         </div>
                         <div class="valuePropositionFulfillmentBlurb">
                             <p>
