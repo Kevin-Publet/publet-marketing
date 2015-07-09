@@ -5,6 +5,11 @@
     #homepageNavBarSection {
         margin-bottom: -45px;
     }
+
+    .navbar-collapse {
+        /*min-height: 200px;*/
+        height: 160px;
+    }
 }
 /*END NAVIGATION STYLING*/
 
