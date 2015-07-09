@@ -38,9 +38,7 @@
                 <div id="homepageHeroContentSectionCTA" class="col-lg-8 homepageHeavyFont">
                     <a href="#" class="btn btn-lg btn-primary">+ Start your campaign</a>
                 </div>
-                <div id="homepageHeroContentSectionSubCTA" class="col-lg-6">
-                    <a href="#">See it in action</a>
-                </div>
+
             </div>
         </div>
 

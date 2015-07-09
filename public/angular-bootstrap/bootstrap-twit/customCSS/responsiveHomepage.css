@@ -13,16 +13,36 @@
 /*HERO STYLING*/
 @media screen and (max-width: 537px)
 {
+    #homepageHeroContentSection {
+        text-align: center;
+    }
+    
     #homepageHeroContentSection > div > h1 {
-        /*background: red;*/
-        font-size: 64px;
+        font-size: 72px;
     }
 
-    #homepageHeroContentSection > #homepageHeroContentSectionCTA > a.btn {
-        background: blue;
-        font-size: 25px;
-        width: 50px;
+    #homepageHeroContentSectionCTA > a {
+        font-size: 40px;
+        width: 400px;
     }
 }
+
+@media screen and (max-width: 460px)
+{
+    #homepageHeroContentSection {
+        text-align: center;
+    }
+
+    #homepageHeroContentSection > div > h1 {
+        font-size: 60px;
+    }
+
+    #homepageHeroContentSectionCTA > a {
+        font-size: 35px;
+        width: 360px;
+    }
+}
+
+
 
 /*END HERO STYLING*/
