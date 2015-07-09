@@ -43,6 +43,17 @@
     }
 }
 
-
-
 /*END HERO STYLING*/
+
+/***********************/
+
+/*QUICK TESTIMONIAL STYLING*/
+
+@media screen and (max-width: 555px)
+{
+    #homepageQuickTestimonialSection {
+        min-height: 445px;
+    }
+}
+
+/*END QUICK TESTIMONIAL STYLING*/
