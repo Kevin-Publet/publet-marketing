@@ -7,3 +7,22 @@
     }
 }
 /*END NAVIGATION STYLING*/
+
+/***********************/
+
+/*HERO STYLING*/
+@media screen and (max-width: 537px)
+{
+    #homepageHeroContentSection > div > h1 {
+        /*background: red;*/
+        font-size: 64px;
+    }
+
+    #homepageHeroContentSection > #homepageHeroContentSectionCTA > a.btn {
+        background: blue;
+        font-size: 25px;
+        width: 50px;
+    }
+}
+
+/*END HERO STYLING*/
