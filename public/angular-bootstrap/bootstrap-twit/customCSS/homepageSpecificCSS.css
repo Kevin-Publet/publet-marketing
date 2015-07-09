@@ -226,6 +226,23 @@ html, body {
 
 .valuePropositionFulfillmentContainer {
     padding-top: 65px;
+    color: #fff;
+}
+
+.valuePropositionFulfillmentTitle > h4 {
+    font-family: 'Oswald', sans-serif;
+    /*font-family: 'Raleway', sans-serif;*/
+    font-size: 24px;
+}
+
+.valuePropositionFulfillmentImage {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.valuePropositionFulfillmentBlurb > p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
 }
 
 #homepageValuePropositionOneVideoSection {
