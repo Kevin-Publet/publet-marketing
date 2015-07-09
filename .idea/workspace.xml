@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="213bec6f-c601-4f01-8442-7391438fe93b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/publicPages/homepage.php" afterPath="$PROJECT_DIR$/app/views/publicPages/homepage.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="publet-marketing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="homepage.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/publicPages/homepage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5755396" vertical-offset="3900" max-vertical-offset="11800">
-              <caret line="172" column="154" selection-start-line="172" selection-start-column="154" selection-end-line="172" selection-end-column="154" />
+            <state vertical-scroll-proportion="0.8633093" vertical-offset="5525" max-vertical-offset="11800">
+              <caret line="245" column="159" selection-start-line="245" selection-start-column="159" selection-end-line="245" selection-end-column="159" />
               <folding />
             </state>
           </provider>
@@ -648,8 +647,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/publicPages/homepage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5755396" vertical-offset="3900" max-vertical-offset="11800">
-          <caret line="172" column="154" selection-start-line="172" selection-start-column="154" selection-end-line="172" selection-end-column="154" />
+        <state vertical-scroll-proportion="0.8633093" vertical-offset="5525" max-vertical-offset="11800">
+          <caret line="245" column="159" selection-start-line="245" selection-start-column="159" selection-end-line="245" selection-end-column="159" />
           <folding />
         </state>
       </provider>

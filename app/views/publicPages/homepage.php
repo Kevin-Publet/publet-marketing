@@ -211,7 +211,7 @@
                                 </h4>
                             </div>
                             <div class="valuePropositionFulfillmentImage">
-                                <img class="img-responsive center-block" src="http://placehold.it/150/ffffff">
+                                <img class="img-responsive center-block" src="https://cdn4.iconfinder.com/data/icons/ikooni-outline-seo-web/128/seo-94-128.png">
                             </div>
                             <div class="valuePropositionFulfillmentBlurb">
                                 <p>
@@ -227,7 +227,7 @@
                                 </h4>
                             </div>
                             <div class="valuePropositionFulfillmentImage">
-                                <img class="img-responsive center-block" src="http://placehold.it/150/ffffff">
+                                <img class="img-responsive center-block" src="https://cdn4.iconfinder.com/data/icons/ikooni-outline-seo-web/128/seo-90-128.png">
                             </div>
                             <div class="valuePropositionFulfillmentBlurb">
                                 <p>
@@ -243,7 +243,7 @@
                                 </h4>
                             </div>
                             <div class="valuePropositionFulfillmentImage">
-                                <img class="img-responsive center-block" src="http://placehold.it/150/ffffff">
+                                <img class="img-responsive center-block" src="https://cdn2.iconfinder.com/data/icons/ikooni-outline-seo-web/128/seo3-65-128.png">
                             </div>
                             <div class="valuePropositionFulfillmentBlurb">
                                 <p>
