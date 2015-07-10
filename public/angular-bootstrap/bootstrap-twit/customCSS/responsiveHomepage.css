@@ -80,4 +80,11 @@
     }
 
 }
+
+@media screen and (max-width: 470px)
+{
+    #homepageWhatIsPubletSectionSubTitle > h2 {
+        font-size: 26px;
+    }
+}
 /*END WHAT IS STYLING*/

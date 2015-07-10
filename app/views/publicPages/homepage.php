@@ -72,7 +72,7 @@
 
             <div class="row text-center">
 
-                <div>
+                <div id="homepageWhatIsPubletSectionSubTitle">
                     <h2 class="homepageHeavyFont">
                         Publet enhances content marketing.
                     </h2>
