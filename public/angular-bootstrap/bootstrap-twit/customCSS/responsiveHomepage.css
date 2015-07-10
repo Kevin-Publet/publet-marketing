@@ -88,3 +88,32 @@
     }
 }
 /*END WHAT IS STYLING*/
+
+/***********************/
+
+/*VALUE PROP - CREATE STYLING*/
+
+@media screen and (max-width: 1199px)
+{
+    #homepageValuePropositionOneVideoSection {
+        margin-top: -10px;
+    }
+
+    #homepageValuePropositionOneFulfillments {
+        margin-top: -10px;
+        height: 1100px;
+
+    }
+
+    #homepageValuePropositionOneFulfillments > div > div > div.valuePropositionFulfillmentBlurb {
+        margin-bottom: 70px;
+    }
+
+    #homepageValuePropositionOneFulfillments > div > div > div.valuePropositionFulfillmentBlurb > p {
+        font-size: 20px;
+    }
+
+
+/*END VALUE PROP - CREATE STYLING*/
+
+/***********************/
