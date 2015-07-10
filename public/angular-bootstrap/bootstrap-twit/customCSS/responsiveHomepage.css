@@ -114,6 +114,17 @@
     }
 
 
+}
+
+@media screen and (max-width: 530px)
+{
+    #homepageValuePropositionOneCTA > a.btn {
+        font-size: 35px;
+        width: 360px;
+    }
+}
+
+
 /*END VALUE PROP - CREATE STYLING*/
 
 /***********************/
