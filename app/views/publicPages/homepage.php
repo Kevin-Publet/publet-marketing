@@ -64,10 +64,10 @@
         <div id="homepageWhatIsPubletSection" >
             <h2 class="homepageHeavyFont col-lg-12">What is Publet?</h2>
             <h3 class="homepageLightFont col-lg-12">
-                Publet helps businesses gain new customers
+                Publet helps businesses gain new customers <span class="hiddenOver903px">by enhancing three phases of content marketing.</span>
             </h3>
             <h3 class="homepageLightFont col-lg-12 lessTopMargin">
-                by enhancing three phases of content marketing.
+                <span class="hiddenUnder903px">by enhancing three phases of content marketing.</span>
             </h3>
 
             <div class="row text-center">

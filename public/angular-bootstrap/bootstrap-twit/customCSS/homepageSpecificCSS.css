@@ -173,6 +173,10 @@ html, body {
     color: #000;
 }
 
+.hiddenOver903px {
+    display: none;
+}
+
 
 #homepageValuePropositionOneSection {
     /*background: #FF5E49;*/
