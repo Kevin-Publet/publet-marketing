@@ -150,8 +150,6 @@
     }
 
 }
-
-
 @media screen and (max-width: 1398px)
 {
     #homepageValuePropositionTwoVideoSection {
@@ -160,8 +158,6 @@
     }
 
 }
-
-
 @media screen and (max-width: 1239px)
 {
     #homepageValuePropositionTwoVideoSection {
@@ -170,5 +166,47 @@
     }
 }
 
+@media screen and (max-width: 1199px)
+{
+
+    #homepageValuePropositionTwoTitle {
+        margin-top: -10px;
+        margin-right: -15px;
+    }
+
+    #homepageValuePropositionTwoFulfillments {
+        margin-top: -10px;
+        margin-right: -15px;
+    }
+}
+
+@media screen and (max-width: 709px)
+{
+    #homepageValuePropositionTwoTitle {
+        margin-top: -10px;
+        margin-left: -70px;
+
+    }
+
+    #homepageValuePropositionTwoFulfillments {
+        margin-top: -10px;
+        margin-left: -70px;
+    }
+}
+
+
+@media screen and (max-width: 505px)
+{
+    #homepageValuePropositionTwoTitle {
+        margin-top: -10px;
+        margin-left: -90px;
+
+    }
+
+    #homepageValuePropositionTwoFulfillments {
+        margin-top: -10px;
+        margin-left: -90px;
+    }
+}
 
 /*END VALUE PROP - DISTRIBUTE STYLING*/
