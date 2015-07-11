@@ -1,3 +1,4 @@
+/***********************/
 /*NAVIGATION STYLING*/
 
 @media screen and (max-width: 1199px)
@@ -13,8 +14,8 @@
 }
 /*END NAVIGATION STYLING*/
 
-/***********************/
 
+/***********************/
 /*HERO STYLING*/
 @media screen and (max-width: 537px)
 {
@@ -50,8 +51,8 @@
 
 /*END HERO STYLING*/
 
-/***********************/
 
+/***********************/
 /*QUICK TESTIMONIAL STYLING*/
 
 @media screen and (max-width: 555px)
@@ -63,8 +64,9 @@
 
 /*END QUICK TESTIMONIAL STYLING*/
 
-/***********************/
 
+
+/***********************/
 /*WHAT IS STYLING*/
 
 @media screen and (max-width: 903px)
@@ -89,8 +91,8 @@
 }
 /*END WHAT IS STYLING*/
 
-/***********************/
 
+/***********************/
 /*VALUE PROP - CREATE STYLING*/
 
 @media screen and (max-width: 1199px)
@@ -127,4 +129,46 @@
 
 /*END VALUE PROP - CREATE STYLING*/
 
+
 /***********************/
+/*VALUE PROP - DISTRIBUTE STYLING*/
+
+
+@media screen and (max-width:1411px)
+{
+    #homepageValuePropositionTwoVideoSection {
+        width: 670px;
+        margin-left: 10px;
+    }
+
+    #homepageValuePropositionThreeSection {
+        background:#00C4FF;
+    }
+
+    #homepageEnticingContentSection{
+        background: #00C4FF;
+    }
+
+}
+
+
+@media screen and (max-width: 1398px)
+{
+    #homepageValuePropositionTwoVideoSection {
+        width: 500px;
+        margin-left: 120px;
+    }
+
+}
+
+
+@media screen and (max-width: 1239px)
+{
+    #homepageValuePropositionTwoVideoSection {
+        width: 480px;
+        margin-left: 120px;
+    }
+}
+
+
+/*END VALUE PROP - DISTRIBUTE STYLING*/
