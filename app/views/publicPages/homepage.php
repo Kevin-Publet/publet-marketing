@@ -197,7 +197,8 @@
             <div id="valuePropHolderLeft" class="col-lg-6">
                 <div id="homepageValuePropositionTwoTitle" class="col-lg-12 text-center">
                     <h2 class="homepageHeavyFont">
-                        Send to your target audience.
+                        <span class="hideUnder586">Send to your target audience.</span>
+                        <span class="hideOver586">Send to your <br/>target audience.</span>
                     </h2>
                 </div>
                 <div id="homepageValuePropositionTwoFulfillments" class="col-lg-12">

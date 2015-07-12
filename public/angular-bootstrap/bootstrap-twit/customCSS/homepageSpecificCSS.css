@@ -192,6 +192,10 @@ html, body {
 
 }
 
+.hideOver586 {
+    display: none;
+}
+
 #homepageValuePropositionThreeSection {
     background: #170015;
     min-height: 700px;
