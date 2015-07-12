@@ -385,3 +385,42 @@
 }
 
 /*END MAJOR TESTIMONIAL STYLING*/
+
+
+
+
+/***********************/
+/*ASK FOR SALE STYLING*/
+
+@media screen and (max-width: 1199px)
+{
+    #homepageAskForConversionSectionTitle {
+        text-align: center;
+        margin-top: -60px;
+    }
+
+    @media screen and (max-width: 530px)
+    {
+        #homepageAskForConversionSectionCTA > a.btn {
+            font-size: 35px;
+            width: 360px;
+        }
+
+        #homepageAskForConversionSectionCTA {
+            margin-bottom: 60px;
+        }
+    }
+
+}
+
+/*END ASK FOR SALE STYLING*/
+
+
+
+
+
+/***********************/
+/*ASK FOR LESSER SALE STYLING*/
+
+
+/*END ASK FOR LESSER SALE STYLING*/
