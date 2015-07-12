@@ -422,5 +422,11 @@
 /***********************/
 /*ASK FOR LESSER SALE STYLING*/
 
+@media screen and (max-width: 1203px)
+{
+    #homepageEnticingContentSection {
+        display: none;
+    }
+}
 
 /*END ASK FOR LESSER SALE STYLING*/
