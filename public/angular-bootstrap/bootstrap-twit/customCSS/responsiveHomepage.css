@@ -280,4 +280,12 @@
     }
 }
 
+@media screen and (max-width: 530px)
+{
+    #homepageValuePropositionTwoCTA > a.btn {
+        font-size: 35px;
+        width: 360px;
+    }
+}
+
 /*END VALUE PROP - DISTRIBUTE STYLING*/
