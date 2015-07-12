@@ -115,7 +115,19 @@
         font-size: 20px;
     }
 
+}
 
+@media screen and (max-width: 575px)
+{
+    #homepageValuePropositionOneFulfillments > div > div > div {
+        width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #homepageValuePropositionOneFulfillments {
+        height: 1200px;
+    }
 }
 
 @media screen and (max-width: 530px)
@@ -123,6 +135,13 @@
     #homepageValuePropositionOneCTA > a.btn {
         font-size: 35px;
         width: 360px;
+    }
+}
+
+@media screen and (max-width: 419px)
+{
+    #homepageValuePropositionOneFulfillments > div > div > div {
+        margin-left: -12px;
     }
 }
 
@@ -289,3 +308,63 @@
 }
 
 /*END VALUE PROP - DISTRIBUTE STYLING*/
+
+
+
+/***********************/
+/*VALUE PROP - CONVERSION STYLING*/
+
+@media screen and (max-width: 1199px)
+{
+    #homepageValuePropositionThreeVideoSection {
+        margin-top: -10px;
+    }
+
+    #homepageValuePropositionThreeFulfillments {
+        margin-top: -10px;
+        height: 1100px;
+
+    }
+
+    #homepageValuePropositionThreeFulfillments > div > div > div.valuePropositionFulfillmentBlurb {
+        margin-bottom: 70px;
+    }
+
+    #homepageValuePropositionThreeFulfillments > div > div > div.valuePropositionFulfillmentBlurb > p {
+        font-size: 20px;
+    }
+
+
+}
+
+@media screen and (max-width: 575px)
+{
+    #homepageValuePropositionThreeFulfillments > div > div > div {
+        width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #homepageValuePropositionThreeFulfillments {
+        height: 1200px;
+    }
+}
+
+@media screen and (max-width: 530px)
+{
+    #homepageValuePropositionThreeCTA > a.btn {
+        font-size: 35px;
+        width: 360px;
+    }
+}
+
+@media screen and (max-width: 419px)
+{
+    #homepageValuePropositionThreeFulfillments > div > div > div {
+        margin-left: -12px;
+    }
+}
+
+
+
+/*END VALUE PROP - CONVERSION STYLING*/
