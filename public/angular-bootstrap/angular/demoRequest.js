@@ -22,6 +22,7 @@ angular.module('app')
                 }).
                 error(function (data, status, headers, config) {
                     $scope.error = data;
+                    console.log($scope.error);
                 });
         }
 

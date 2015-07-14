@@ -20,9 +20,14 @@ class DemoRequestController extends \BaseController {
 
     public function sendDemoRequestViaEmail()
     {
-        $data = \Illuminate\Support\Facades\Input::all();
+        $data = new DemoRequest();
+        $data->name = \Illuminate\Support\Facades\Input::get('name');
+        $data->email = \Illuminate\Support\Facades\Input::get('email');
+        $data->companyName = \Illuminate\Support\Facades\Input::get('companyName');
+        $data->productService = \Illuminate\Support\Facades\Input::get('productService');
+        $data->targetAudience = \Illuminate\Support\Facades\Input::get('targetAudience');
 
-        \Illuminate\Support\Facades\Mail::send('publicPages.demoRequest.sendDemoRequestToPublet', ['data' => $data], function ($message)
+        \Illuminate\Support\Facades\Mail::send('publicPages.demoRequest.sendDemoRequestToPublet', ['data' => $data], function($message)
         {
             $message->to('kevin@publet.com')->subject('New Demo Request');
         });
@@ -30,6 +35,11 @@ class DemoRequestController extends \BaseController {
         return 'good';
 
     }
+
+
+}
+
+class DemoRequest {
 
 
 }
