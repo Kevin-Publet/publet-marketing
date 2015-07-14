@@ -41,9 +41,11 @@
         <!--Application specific javascript files-->
         <script src="/angular-bootstrap/angular/app.js"></script>
         <script src="/angular-bootstrap/angular/demoRequest.js"></script>
+        <script src="/angular-bootstrap/angular/betaRequest.js"></script>
 
 
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="/angular-bootstrap/bootstrap-twit/js/bootstrap.min.js"></script>
