@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213bec6f-c601-4f01-8442-7391438fe93b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/start.php" afterPath="$PROJECT_DIR$/bootstrap/start.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/app.php" afterPath="$PROJECT_DIR$/app/config/app.php" />
     </list>
     <ignored path="publet-marketing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,11 +28,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.32777777">
       <split-first>
         <leaf>
-          <file leaf-file-name="581a623e556efa29707846bacf91347a" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/storage/views/581a623e556efa29707846bacf91347a">
+          <file leaf-file-name="app.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/config/app.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.53956836" vertical-offset="0" max-vertical-offset="5000">
+                  <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
                   <folding />
                 </state>
               </provider>
@@ -42,11 +42,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="start.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
+          <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Console/Optimize/config.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.79136693" vertical-offset="0" max-vertical-offset="1800">
-                  <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3150">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -271,20 +271,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/publicPages/homepage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2375" max-vertical-offset="6025">
-          <caret line="110" column="21" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/angular-bootstrap/bootstrap-twit/customCSS/homepageSpecificCSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="8029" max-vertical-offset="9200">
-          <caret line="336" column="30" selection-start-line="336" selection-start-column="30" selection-end-line="336" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/publicPages/homepage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1480" max-vertical-offset="5350">
@@ -601,16 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env.local.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21582733" vertical-offset="0" max-vertical-offset="695">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding>
-            <marker date="1436890048000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/angular-bootstrap/angular/demoRequest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.68836564" vertical-offset="103" max-vertical-offset="850">
@@ -646,14 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/storage/views/581a623e556efa29707846bacf91347a">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="722">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/DemoRequestController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6115108" vertical-offset="0" max-vertical-offset="1275">
@@ -672,8 +640,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79136693" vertical-offset="0" max-vertical-offset="1800">
-          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.50359714" vertical-offset="0" max-vertical-offset="1800">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <marker date="1436891659000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436891659000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436891659000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436891659000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436891659000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436891659000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436891659000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1438849" vertical-offset="0" max-vertical-offset="695">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="48" />
+          <folding>
+            <marker date="1436890048000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Console/Optimize/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3150">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/storage/views/581a623e556efa29707846bacf91347a">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31163436" vertical-offset="0" max-vertical-offset="722">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53956836" vertical-offset="0" max-vertical-offset="5000">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding />
         </state>
       </provider>
