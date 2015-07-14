@@ -21,7 +21,14 @@ class DemoRequestController extends \BaseController {
     public function sendDemoRequestViaEmail()
     {
         $data = \Illuminate\Support\Facades\Input::all();
-        return $data;
+
+        \Illuminate\Support\Facades\Mail::send('publicPages.demoRequest.sendDemoRequestToPublet', ['data' => $data], function ($message)
+        {
+            $message->to('kevin@publet.com')->subject('New Demo Request');
+        });
+
+        return 'good';
+
     }
 
 
