@@ -3,7 +3,7 @@
 return [
 
 	'mandrill' => array(
-		'secret' => $_ENV['MANDRILL_SECRET']
+		'secret' => \Illuminate\Support\Facades\Config::get('secret.MANDRILL_SECRET')
 	)
 ];
 
