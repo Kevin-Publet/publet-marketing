@@ -42,5 +42,5 @@
         </form>
     </div>
 
-    <a ng-click="sendDemoRequest(betaRequestProductService, betaRequestTargetAudience, betaRequestCompanyName, betaRequestName, betaRequestEmail)" class="btn btn-primary">Click</a>
+    <a ng-click="sendBetaRequest(betaRequestProductService, betaRequestTargetAudience, betaRequestCompanyName, betaRequestName, betaRequestEmail)" class="btn btn-primary">Click</a>
 </div>
