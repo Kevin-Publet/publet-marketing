@@ -2,14 +2,20 @@
 
 class DemoRequestController extends \BaseController {
 
+    public $layout = 'layouts.main';
+
     public function showConversionPage()
     {
-        return 'this is the show conversion function';
+        $view = \Illuminate\Support\Facades\View::make('publicPages.demoRequest.conversionPage');
+        $this->layout->title = 'See Your Content Marketing Enhanced';
+        $this->layout->content = $view->render();
     }
 
     public function showConfirmationPage()
     {
-        return 'this is the show confirmation page function';
+        $view = \Illuminate\Support\Facades\View::make('publicPages.demoRequest.confirmationPage');
+        $this->layout->title = 'Your request has been received';
+        $this->layout->content = $view->render();
     }
 
     public function sendDemoRequestViaEmail()
