@@ -1,17 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="app">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>
-        <?php
-        if(isset($title))
-        {
-            echo $title;
-        }
-        ?>
+        <?php if(isset($title)) { echo $title;}?>
     </title>
         <!-- Bootstrap -->
         <link href="/angular-bootstrap/bootstrap-twit/css/bootstrap.min.css" rel="stylesheet">
@@ -39,11 +34,19 @@
         }
         ?>
 
+        <!--Add angular 1.3 source-->
+        <script src="/angular-bootstrap/angular.min.js"></script>
+        <!--Add angular 1.3 route source -->
+        <script src="/angular-bootstrap/angular-route.min.js"></script>
+        <!--Application specific javascript files-->
+        <script src="/angular-bootstrap/angular/app.js"></script>
+        <script src="/angular-bootstrap/angular/demoRequest.js"></script>
 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="/angular-bootstrap/bootstrap-twit/js/bootstrap.min.js"></script>
+
 </body>
 </html>
