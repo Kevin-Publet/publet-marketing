@@ -10,3 +10,6 @@ Route::post('/send-demo-request', 'DemoRequestController@sendDemoRequestViaEmail
 Route::get('/get-started', 'BetaRequestController@showConversionPage');
 Route::get('/beta-request-confirmed', 'BetaRequestController@showConfirmationPage');
 Route::post('/send-beta-request', 'BetaRequestController@sendBetaRequestViaEmail');
+
+
+Route::get('/engagement/{title}', 'EngagementController@showPage');

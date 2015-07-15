@@ -1,7 +1,7 @@
 <div ng-controller="betaRequestController" class="container" id="betaRequestConversionContainer">
 
 
-    {{tester}}
+
     <div id="betaRequestConversionPageHeader">
         <div id="betaRequestConversionPageHeaderTitle">
             <h2>This is the conversion page for Demo requests</h2>
