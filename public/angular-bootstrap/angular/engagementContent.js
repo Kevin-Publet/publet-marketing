@@ -12,12 +12,23 @@ angular.module('app')
         {
             if($scope.test == false)
             {
-                targetMarket =  angular.element('#targetMarket').data('targetmarket');
-                axpt = angular.element('#axpt').data('axpt');
-                iPOV = angular.element('#iPOV').data('ipov');
-                iMeth = angular.element('#iMeth').data('imeth');
-                iCont = angular.element('#iCont').data('icont');
+                var data = {
+                    targetMarket :  angular.element('#targetMarket').data('targetmarket'),
+                    axpt : angular.element('#axpt').data('axpt'),
+                    iPOV : angular.element('#iPOV').data('ipov'),
+                    iMeth : angular.element('#iMeth').data('imeth'),
+                    iCont : angular.element('#iCont').data('icont')
+                };
 
+                $http.post('/test-google-analytic-receiver', data).
+                    success(function (data, status, headers, config) {
+                        $scope.success = data;
+                        console.log(data);
+                    }).
+                    error(function (data, status, headers, config) {
+                        $scope.error = data;
+                        console.log($scope.error);
+                    });
             }
         };
 

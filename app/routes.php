@@ -13,3 +13,10 @@ Route::post('/send-beta-request', 'BetaRequestController@sendBetaRequestViaEmail
 
 
 Route::get('/engagement/{title}/{marketingInfo}', 'EngagementController@showPage');
+
+Route::post('/test-google-analytic-receiver', function()
+{
+    $input = \Illuminate\Support\Facades\Input::all();
+    return $input;
+
+});
