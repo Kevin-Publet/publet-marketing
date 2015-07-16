@@ -8,6 +8,17 @@
     <title>
         <?php if(isset($title)) { echo $title;}?>
     </title>
+    <?php
+    if(isset($initiationHit))
+    {
+        echo $initiationHit->targetMarket;
+        echo $initiationHit->axpt;
+    }
+    else
+    {
+        echo 'not set';
+    }
+    ?>
         <!-- Bootstrap -->
         <link href="/angular-bootstrap/bootstrap-twit/css/bootstrap.min.css" rel="stylesheet">
         <link href="/angular-bootstrap/bootstrap-twit/css/bootstrap-theme.min.css" rel="stylesheet">

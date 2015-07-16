@@ -12,4 +12,4 @@ Route::get('/beta-request-confirmed', 'BetaRequestController@showConfirmationPag
 Route::post('/send-beta-request', 'BetaRequestController@sendBetaRequestViaEmail');
 
 
-Route::get('/engagement/{title}', 'EngagementController@showPage');
+Route::get('/engagement/{title}/{marketingInfo}', 'EngagementController@showPage');
