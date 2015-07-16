@@ -47,14 +47,12 @@
             else
             {
                 ?>
-                ga('set', {
-                        'dimension5': '<?=$initiationHit->targetMarket?>',
-                        'dimension1': '<?=$initiationHit->axpt?>',
-                        'dimension2': '<?=$initiationHit->iPOV?>',
-                        'dimension3': '<?=$initiationHit->iMeth?>',
-                        'dimension4': '<?=$initiationHit->iCont?>'
-                    });
-                ga('send', 'pageview');
+        ga('set', 'dimension1', '<?=$initiationHit->axpt?>');
+        ga('set', 'dimension2', '<?=$initiationHit->iPOV?>');
+        ga('set', 'dimension3', '<?=$initiationHit->iMeth?>');
+        ga('set', 'dimension4', '<?=$initiationHit->iCont?>');
+        ga('set', 'dimension5', '<?=$initiationHit->targetMarket?>');
+        ga('send', 'pageview');
         <?php
             }
             ?>
