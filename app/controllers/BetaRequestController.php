@@ -29,7 +29,7 @@ class BetaRequestController extends \BaseController {
 
 		\Illuminate\Support\Facades\Mail::send('publicPages.betaRequest.sendBetaRequestToPublet', ['data' => $data], function($message)
 		{
-			$message->to('mj@publet.com')->subject('New Beta Access Request');
+			$message->to('leads@publet.com')->subject('New Beta Access Request');
 		});
 
 		return 'good';
