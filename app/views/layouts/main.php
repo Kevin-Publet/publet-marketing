@@ -7,22 +7,13 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta id="targetMarket" data-targetmarket="<?php if(isset($initiationHit)){ echo $initiationHit->targetMarket;}?>">
     <meta id="axpt" data-axpt="<?php if(isset($initiationHit)){ echo $initiationHit->axpt;}?>">
-
+    <meta id="iPOV" data-ipov="<?php if(isset($initiationHit)){ echo $initiationHit->iPOV;}?>">
+    <meta id="iMeth" data-imeth="<?php if(isset($initiationHit)){ echo $initiationHit->iMeth;}?>">
+    <meta id="iCont" data-icont="<?php if(isset($initiationHit)){ echo $initiationHit->iCont;}?>">
     <title>
         <?php if(isset($title)) { echo $title;}?>
     </title >
 
-    <?php
-    if(isset($initiationHit))
-    {
-        echo $initiationHit->targetMarket;
-        echo $initiationHit->axpt;
-    }
-    else
-    {
-        echo 'not set';
-    }
-    ?>
         <!-- Bootstrap -->
         <link href="/angular-bootstrap/bootstrap-twit/css/bootstrap.min.css" rel="stylesheet">
         <link href="/angular-bootstrap/bootstrap-twit/css/bootstrap-theme.min.css" rel="stylesheet">

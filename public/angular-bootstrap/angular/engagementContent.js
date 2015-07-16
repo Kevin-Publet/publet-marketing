@@ -13,9 +13,11 @@ angular.module('app')
             if($scope.test == false)
             {
                 targetMarket =  angular.element('#targetMarket').data('targetmarket');
-                console.log(targetMarket);
                 axpt = angular.element('#axpt').data('axpt');
-                console.log(axpt);
+                iPOV = angular.element('#iPOV').data('ipov');
+                iMeth = angular.element('#iMeth').data('imeth');
+                iCont = angular.element('#iCont').data('icont');
+
             }
         };
 
