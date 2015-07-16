@@ -1,13 +1,17 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="app">
+<html lang="en" ng-app="app" ng-controller="engagementController">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta id="targetMarket" data-targetmarket="<?php if(isset($initiationHit)){ echo $initiationHit->targetMarket;}?>">
+    <meta id="axpt" data-axpt="<?php if(isset($initiationHit)){ echo $initiationHit->axpt;}?>">
+
     <title>
         <?php if(isset($title)) { echo $title;}?>
-    </title>
+    </title >
+
     <?php
     if(isset($initiationHit))
     {
@@ -38,12 +42,16 @@
 </head>
 <body>
 
+
         <?php
         if(isset($content))
         {
             echo $content;
         }
         ?>
+
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
         <!--Add angular 1.3 source-->
         <script src="/angular-bootstrap/angular.min.js"></script>
@@ -53,12 +61,12 @@
         <script src="/angular-bootstrap/angular/app.js"></script>
         <script src="/angular-bootstrap/angular/demoRequest.js"></script>
         <script src="/angular-bootstrap/angular/betaRequest.js"></script>
+        <script src="/angular-bootstrap/angular/engagementContent.js"></script>
 
 
 
-        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<!-- Include all compiled plugins (below), or include individual files as needed -->
+
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="/angular-bootstrap/bootstrap-twit/js/bootstrap.min.js"></script>
 
 </body>
