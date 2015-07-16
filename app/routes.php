@@ -18,5 +18,4 @@ Route::post('/test-google-analytic-receiver', function()
 {
     $input = \Illuminate\Support\Facades\Input::all();
     return $input;
-
 });
