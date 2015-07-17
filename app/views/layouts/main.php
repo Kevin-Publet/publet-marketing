@@ -1,15 +1,10 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="app" ng-controller="engagementController">
+<html lang="en" ng-app="app">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta id="targetMarket" data-targetmarket="<?php if(isset($initiationHit)){ echo $initiationHit->targetMarket;}?>">
-    <meta id="axpt" data-axpt="<?php if(isset($initiationHit)){ echo $initiationHit->axpt;}?>">
-    <meta id="iPOV" data-ipov="<?php if(isset($initiationHit)){ echo $initiationHit->iPOV;}?>">
-    <meta id="iMeth" data-imeth="<?php if(isset($initiationHit)){ echo $initiationHit->iMeth;}?>">
-    <meta id="iCont" data-icont="<?php if(isset($initiationHit)){ echo $initiationHit->iCont;}?>">
     <title>
         <?php if(isset($title)) { echo $title;}?>
     </title >
@@ -32,17 +27,17 @@
         <![endif]-->
 
     <script>
-       /* (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');*/
-
-        /*debug analytics*/
-        window.ga_debug = {trace: true};
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics_debug.js','ga');
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        /*uncomment to debug google analytics*/
+        /*window.ga_debug = {trace: true};
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics_debug.js','ga');*/
 
         ga('create', 'UA-65189312-1', 'auto');
         <?php
