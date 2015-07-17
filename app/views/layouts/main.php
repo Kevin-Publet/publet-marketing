@@ -32,16 +32,23 @@
         <![endif]-->
 
     <script>
+       /* (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');*/
+
+        /*debug analytics*/
+        window.ga_debug = {trace: true};
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        })(window,document,'script','//www.google-analytics.com/analytics_debug.js','ga');
 
         ga('create', 'UA-65189312-1', 'auto');
         <?php
             if(!isset($initiationHit))
             {
-                ?> ga('send', 'pageview');
+                ?> ga('send', 'pageview'); console.log('not set');
         <?php
             }
             else
@@ -52,7 +59,7 @@
         ga('set', 'dimension3', '<?=$initiationHit->iMeth?>');
         ga('set', 'dimension4', '<?=$initiationHit->iCont?>');
         ga('set', 'dimension5', '<?=$initiationHit->targetMarket?>');
-        ga('send', 'pageview');
+        ga('send', 'pageview'); console.log('set');
         <?php
             }
             ?>
