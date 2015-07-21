@@ -35,7 +35,7 @@
                  </div>
 
              </form>
-             <a ng-click="sendBetaRequest(betaRequestProductService, betaRequestTargetAudience, betaRequestCompanyName, betaRequestName, betaRequestEmail)" class="btn btn-danger">Launch Campaign</a>
+             <a ng-class="{'disabled': betaRequestEmail == null || betaRequestName == null || betaRequestCompanyName == null || betaRequestTargetAudience == null}" ng-click="sendBetaRequest(betaRequestProductService, betaRequestTargetAudience, betaRequestCompanyName, betaRequestName, betaRequestEmail)" class="btn btn-danger">Launch Campaign</a>
 
          </div>
 
