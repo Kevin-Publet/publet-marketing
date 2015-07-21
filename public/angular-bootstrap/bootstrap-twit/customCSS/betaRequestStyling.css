@@ -18,3 +18,7 @@
 #betaRequestForm {
     margin-bottom: 50px;
 }
+
+#betaRequestConversionPageContainer > #betaRequestConversionFormContainer > div > form > div > label {
+    font-size: 16px;
+}
