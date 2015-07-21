@@ -14,6 +14,8 @@
     <link href="/angular-bootstrap/bootstrap-twit/css/bootstrap-theme.min.css" rel="stylesheet">
     <link href="/angular-bootstrap/bootstrap-twit/customCSS/homepageSpecificCSS.css" rel="stylesheet">
     <link href="/angular-bootstrap/bootstrap-twit/customCSS/responsiveHomepage.css" rel="stylesheet">
+    <link href="/angular-bootstrap/bootstrap-twit/customCSS/innerNavStyling.css" rel="stylesheet">
+
 
 
     <!-- Google fonts -->
@@ -73,21 +75,6 @@
                 <div class="container-fluid">
                     <div class="navbar-header">
                         <img id="innerNavBarLogo" src="/assets/images/publetLogoSM.png">
-
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#innerNavBarCollapsableLinks">
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                    </div>
-
-                    <div class="collapse navbar-collapse" id="innerNavBarCollapsableLinks">
-                        <ul id="innerNavBarContentLinks" class="nav navbar-nav navbar-right">
-                            <li><a href="#" class="innerHeavyFont">What is Publet?</a></li>
-                            <li><a href="#" class="innerHeavyFont">Start a Campaign</a></li>
-                            <li><a href="#" class="innerHeavyFont">See it in Action</a></li>
-                        </ul>
-
                     </div>
                 </div>
             </nav>

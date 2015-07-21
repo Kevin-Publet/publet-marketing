@@ -1,0 +1,10 @@
+#innerNavBarSection {
+    background: #333333;
+    height: 85px;
+    padding-top: 15px;
+}
+
+#innerNavBarLogo {
+    margin-top: -5px;
+    margin-left: 15px;
+}
