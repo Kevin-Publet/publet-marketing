@@ -15,6 +15,8 @@
     <link href="/angular-bootstrap/bootstrap-twit/customCSS/homepageSpecificCSS.css" rel="stylesheet">
     <link href="/angular-bootstrap/bootstrap-twit/customCSS/responsiveHomepage.css" rel="stylesheet">
     <link href="/angular-bootstrap/bootstrap-twit/customCSS/betaRequestStyling.css" rel="stylesheet">
+    <link href="/angular-bootstrap/bootstrap-twit/customCSS/innerNavStyling.css" rel="stylesheet">
+
 
 
 
@@ -91,7 +93,6 @@
         }
         ?>
 
-        <link href="/angular-bootstrap/bootstrap-twit/customCSS/innerNavStyling.css" rel="stylesheet">
 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
