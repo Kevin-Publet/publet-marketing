@@ -2,12 +2,12 @@
 
 
 
-    <div id="betaRequestConversionPageHeader">
+    <div id="betaRequestConversionPageHeader" class="text-center">
         <div id="betaRequestConversionPageHeaderTitle">
             <h3>Ready to convert more customers with enhanced Content Marketing?</h3>
         </div>
         <div id="betaRequestConversionPageHeaderSubTitle">
-            <h4>Complete the short form below and let's get started!</h4>
+            <h4>Of course you are. Complete the short form below and let's get started!</h4>
         </div>
     </div>
 
