@@ -35,7 +35,9 @@
                  </div>
 
              </form>
-             <a ng-class="{'disabled': betaRequestEmail == null || betaRequestName == null || betaRequestCompanyName == null || betaRequestTargetAudience == null}" ng-click="sendBetaRequest(betaRequestProductService, betaRequestTargetAudience, betaRequestCompanyName, betaRequestName, betaRequestEmail)" class="btn btn-danger">Launch Campaign</a>
+             <p class="text-center" ng-show="betaRequestEmail == null || betaRequestName == null || betaRequestCompanyName == null || betaRequestTargetAudience == null">Don't worry. You can submit the form once you have inputted all fields.</p>
+             <p class="text-center" ng-hide="betaRequestEmail == null || betaRequestName == null || betaRequestCompanyName == null || betaRequestTargetAudience == null">There you go!</p>
+             <a ng-class="{'disabled': betaRequestEmail == null || betaRequestName == null || betaRequestCompanyName == null || betaRequestTargetAudience == null}" ng-click="sendBetaRequest(betaRequestProductService, betaRequestTargetAudience, betaRequestCompanyName, betaRequestName, betaRequestEmail)" class="btn btn-create btn-homepageHuge center-block">+ Launch Campaign</a>
 
          </div>
 
