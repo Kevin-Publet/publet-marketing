@@ -1,0 +1,18 @@
+#betaRequestConversionPageContainer {
+    height: 700px;
+    padding-top: 50px;
+    background: #dadada;
+}
+
+#betaRequestConversionFormContainer {
+    /*border: 1px solid #333333;*/
+    background: #fff;
+}
+
+#betaRequestConversionPageHeader {
+    margin-bottom: 30px;
+}
+
+#betaRequestForm {
+    margin-bottom: 50px;
+}
