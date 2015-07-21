@@ -4,10 +4,17 @@ class BetaRequestController extends \BaseController {
 
 	public $layout = 'layouts.main';
 
+	public function setInnerNav()
+	{
+		$this->layout->innerNav = true;
+	}
+
+
 	public function showConversionPage()
 	{
 		$view = \Illuminate\Support\Facades\View::make('publicPages.betaRequest.conversionPage');
 		$this->layout->title = 'Get started with Publet | Request Access';
+		$this->setInnerNav();
 		$this->layout->content = $view->render();
 	}
 
@@ -15,6 +22,7 @@ class BetaRequestController extends \BaseController {
 	{
 		$view = \Illuminate\Support\Facades\View::make('publicPages.betaRequest.confirmationPage');
 		$this->layout->title = 'Thank You | Your Request to join Publet Received!';
+		$this->setInnerNav();
 		$this->layout->content = $view->render();
 	}
 

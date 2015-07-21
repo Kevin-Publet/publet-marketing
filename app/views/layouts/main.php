@@ -64,6 +64,37 @@
 </head>
 <body>
 
+<?php
+        if(isset($innerNav))
+        {
+            ?>
+        <div id="innerNavBarSection">
+            <nav  class="">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <img id="innerNavBarLogo" src="/assets/images/publetLogoSM.png">
+
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#innerNavBarCollapsableLinks">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+
+                    <div class="collapse navbar-collapse" id="innerNavBarCollapsableLinks">
+                        <ul id="innerNavBarContentLinks" class="nav navbar-nav navbar-right">
+                            <li><a href="#" class="innerHeavyFont">What is Publet?</a></li>
+                            <li><a href="#" class="innerHeavyFont">Start a Campaign</a></li>
+                            <li><a href="#" class="innerHeavyFont">See it in Action</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </nav>
+        </div>
+<?php
+        }
+?>
 
 <?php
         if(isset($content))
