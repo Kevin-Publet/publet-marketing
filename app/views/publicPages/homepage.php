@@ -16,7 +16,7 @@
                 <div class="collapse navbar-collapse" id="homepageNavBarCollapsableLinks">
                     <ul id="homepageNavBarContentLinks" class="nav navbar-nav navbar-right">
                         <li><a href="#" class="homepageHeavyFont">What is Publet?</a></li>
-                        <li><a href="#" class="homepageHeavyFont">Start a Campaign</a></li>
+                        <li><a href="/get-started" class="homepageHeavyFont">Start a Campaign</a></li>
                         <li><a href="#" class="homepageHeavyFont">See it in Action</a></li>
                     </ul>
 
@@ -36,7 +36,7 @@
                     </h1>
                 </div>
                 <div id="homepageHeroContentSectionCTA" class="col-lg-8 homepageHeavyFont">
-                    <a href="#" class="btn btn-lg btn-primary">+ Start your campaign</a>
+                    <a href="/get-started" class="btn btn-lg btn-primary">+ Start your campaign</a>
                 </div>
 
             </div>
@@ -182,7 +182,7 @@
             </div>
 
             <div id="homepageValuePropositionOneCTA" class="col-lg-12 valuePropCTA text-center">
-                <a href="#" class="btn btn-homepageHuge btn-create">+ Start creating content</a>
+                <a href="/get-started" class="btn btn-homepageHuge btn-create">+ Start creating content</a>
             </div>
 
         </div>
@@ -352,7 +352,7 @@
             </div>
 
             <div id="homepageValuePropositionThreeCTA" class="col-lg-12 valuePropCTA text-center">
-                <a href="#" class="btn btn-homepageHuge btn-convert">+ Start converting readers</a>
+                <a href="/get-started" class="btn btn-homepageHuge btn-convert">+ Start converting readers</a>
             </div>
         </div>
 
@@ -388,7 +388,7 @@
                     </h2>
                 </div>
                 <div class="col-lg-6 text-center" id="homepageAskForConversionSectionCTA">
-                    <a href="#" class="btn btn-homepageHuge btn-create">+ Start a campaign</a>
+                    <a href="/get-started" class="btn btn-homepageHuge btn-create">+ Start a campaign</a>
                     <br/>
                     <a href="#" class="homepageLightFont ctaLink">See it in action</a>
                 </div>

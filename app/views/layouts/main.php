@@ -76,7 +76,7 @@
             <nav  class="">
                 <div class="container-fluid">
                     <div class="navbar-header">
-                        <img id="innerNavBarLogo" src="/assets/images/publetLogoSM.png">
+                        <a href="/"><img id="innerNavBarLogo" src="/assets/images/publetLogoSM.png"></a>
                     </div>
                 </div>
             </nav>
