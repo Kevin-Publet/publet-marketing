@@ -14,7 +14,6 @@
     <link href="/angular-bootstrap/bootstrap-twit/css/bootstrap-theme.min.css" rel="stylesheet">
     <link href="/angular-bootstrap/bootstrap-twit/customCSS/homepageSpecificCSS.css" rel="stylesheet">
     <link href="/angular-bootstrap/bootstrap-twit/customCSS/responsiveHomepage.css" rel="stylesheet">
-    <link href="/angular-bootstrap/bootstrap-twit/customCSS/innerNavStyling.css" rel="stylesheet">
     <link href="/angular-bootstrap/bootstrap-twit/customCSS/betaRequestStyling.css" rel="stylesheet">
 
 
@@ -92,7 +91,10 @@
         }
         ?>
 
-        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <link href="/angular-bootstrap/bootstrap-twit/customCSS/innerNavStyling.css" rel="stylesheet">
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
         <!--Add angular 1.3 source-->
