@@ -29,37 +29,38 @@
                 </div>
 
 
+                <div class="row" >
+                    <div class="col-lg-12 text-center" ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience">
+                        <p class="homepageHeavyFont">Hey! Your almost done. Just tell us where we should send your enhanced content.</p>
+
+                    </div>
+                    <div class="col-lg-6" ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience">
+                        <div class="form-group">
+                            <label for="name" class="text-center"> </label>
+                            <input type="text" ng-model="demoRequestName" class="form-control input-lg" name="name" id="name" placeholder="Your name">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="email" class="text-center"></label>
+                            <input type="email" ng-model="demoRequestEmail" class="form-control input-lg" name="email" id="email" placeholder="Email">
+                        </div>
+                    </div>
+                    <div class="col-lg-12 text-center" ng-hide="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience">
+                        <a class="btn disabled btn-distribute btn-homepageHuge ">+ Complete the form first</a>
+                    </div>
+
+                    <div class="col-lg-6" ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience" ng-hide="demoRequestEmail && demoRequestName || (!demoRequestCompanyName || !demoRequestProductService || !demoRequestTargetAudience)">
+                        <a class="btn disabled btn-distribute btn-homepageHuge ">+ Almost done</a>
+                    </div>
+                    <div class="col-lg-6" ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience && demoRequestEmail && demoRequestName" >
+                        <a ng-click="sendDemoRequest(demoRequestProductService, demoRequestTargetAudience, demoRequestCompanyName, demoRequestName, demoRequestEmail)" class="btn btn-distribute btn-homepageHuge ">+ Send it to me</a>
+                    </div>
+
+                </div>
             </form>
         </div>
 
-        <div class="row">
-            <div class="col-lg-12" ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience">
-                <p class="homepageHeavyFont">Hey! Your almost done. Just tell us where we should send your enhanced content.</p>
-            </div>
-            <div class="col-lg-6" ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience">
-                <div class="form-group">
-                    <label for="name" class="text-center"> </label>
-                    <input type="text" ng-model="demoRequestName" class="form-control input-lg" name="name" id="name" placeholder="Your name">
-                </div>
 
-                <div class="form-group">
-                    <label for="email" class="text-center"></label>
-                    <input type="email" ng-model="demoRequestEmail" class="form-control input-lg" name="email" id="email" placeholder="Email">
-                </div>
-            </div>
-            <div class="col-lg-12 text-center" ng-hide="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience">
-                <a class="btn disabled btn-distribute btn-homepageHuge ">+ Complete the form first</a>
-            </div>
-
-            <div class="col-lg-6" ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience" ng-hide="demoRequestEmail && demoRequestName || (!demoRequestCompanyName || !demoRequestProductService || !demoRequestTargetAudience)">
-                <a class="btn disabled btn-distribute btn-homepageHuge ">+ Almost done</a>
-            </div>
-            <div class="col-lg-6" ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience && demoRequestEmail && demoRequestName" >
-                <a ng-click="sendDemoRequest(demoRequestProductService, demoRequestTargetAudience, demoRequestCompanyName, demoRequestName, demoRequestEmail)" class="btn btn-distribute btn-homepageHuge ">+ Send it to me</a>
-            </div>
-
-
-        </div>
 
 
 

@@ -6,4 +6,9 @@
 
 #demoRequestConversionContainer {
     background: #fff;
+    width: 1020px;
+}
+
+#demoRequestForm {
+    margin-bottom: 30px;
 }
