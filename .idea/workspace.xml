@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213bec6f-c601-4f01-8442-7391438fe93b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/BetaRequestController.php" afterPath="$PROJECT_DIR$/app/controllers/BetaRequestController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/DemoRequestController.php" afterPath="$PROJECT_DIR$/app/controllers/DemoRequestController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/publicPages/betaRequest/sendBetaRequestToPublet.blade.php" afterPath="$PROJECT_DIR$/app/views/publicPages/betaRequest/sendBetaRequestToPublet.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/publicPages/demoRequest/sendDemoRequestToPublet.blade.php" afterPath="$PROJECT_DIR$/app/views/publicPages/demoRequest/sendDemoRequestToPublet.blade.php" />
     </list>
@@ -29,11 +31,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.37552157">
       <split-first>
         <leaf>
-          <file leaf-file-name="sendBetaRequestToPublet.blade.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/views/publicPages/betaRequest/sendBetaRequestToPublet.blade.php">
+          <file leaf-file-name="sendDemoRequestToPublet.blade.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/views/publicPages/demoRequest/sendDemoRequestToPublet.blade.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.17985612" vertical-offset="0" max-vertical-offset="695">
-                  <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+                  <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
                   <folding />
                 </state>
               </provider>
@@ -42,7 +44,7 @@
         </leaf>
       </split-first>
       <split-second>
-        <splitter split-orientation="horizontal" split-proportion="0.5">
+        <splitter split-orientation="horizontal" split-proportion="0.24466892">
           <split-first>
             <leaf>
               <file leaf-file-name="conversionPage.php" pinned="false" current-in-tab="true">
@@ -59,11 +61,11 @@
           </split-first>
           <split-second>
             <leaf>
-              <file leaf-file-name="demoRequest.js" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/public/angular-bootstrap/angular/demoRequest.js">
+              <file leaf-file-name="BetaRequestController.php" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/app/controllers/BetaRequestController.php">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.38088644" vertical-offset="100" max-vertical-offset="850">
-                      <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                    <state vertical-scroll-proportion="0.31654677" vertical-offset="605" max-vertical-offset="1400">
+                      <caret line="33" column="76" selection-start-line="33" selection-start-column="76" selection-end-line="33" selection-end-column="76" />
                       <folding />
                     </state>
                   </provider>
@@ -589,20 +591,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/BetaRequestController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39568347" vertical-offset="0" max-vertical-offset="1400">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/DemoRequestController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2994012" vertical-offset="0" max-vertical-offset="1450">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/angular-bootstrap/bootstrap-twit/customCSS/betaRequestStyling.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3462604" vertical-offset="0" max-vertical-offset="1100">
@@ -657,26 +645,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/angular-bootstrap/angular/demoRequest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38088644" vertical-offset="100" max-vertical-offset="850">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.4501385" vertical-offset="100" max-vertical-offset="850">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1436890165000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1436890165000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436890165000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436890165000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436890165000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436890165000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/publicPages/demoRequest/sendDemoRequestToPublet.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/controllers/DemoRequestController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33682635" vertical-offset="0" max-vertical-offset="668">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.64028776" vertical-offset="355" max-vertical-offset="1450">
+          <caret line="32" column="76" selection-start-line="32" selection-start-column="76" selection-end-line="32" selection-end-column="76" />
           <folding>
-            <marker date="1437598415000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437598961000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437598961000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437598961000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437598961000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437598961000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437598961000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437598961000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437598961000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/BetaRequestController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31654677" vertical-offset="605" max-vertical-offset="1400">
+          <caret line="33" column="76" selection-start-line="33" selection-start-column="76" selection-end-line="33" selection-end-column="76" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/publicPages/betaRequest/sendBetaRequestToPublet.blade.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32374102" vertical-offset="0" max-vertical-offset="695">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <marker date="1437598961000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/publicPages/demoRequest/sendDemoRequestToPublet.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17985612" vertical-offset="0" max-vertical-offset="695">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
           <folding />
         </state>
       </provider>

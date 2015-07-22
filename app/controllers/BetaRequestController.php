@@ -31,7 +31,7 @@ class BetaRequestController extends \BaseController {
 		$data = new BetaRequest();
 		$data->name = \Illuminate\Support\Facades\Input::get('name');
 		$data->email = \Illuminate\Support\Facades\Input::get('email');
-		$data->companyName = \Illuminate\Support\Facades\Input::get('companyName');
+		$data->companyName = \Illuminate\Support\Facades\Input::get('company');
 		$data->productService = \Illuminate\Support\Facades\Input::get('productService');
 		$data->targetAudience = \Illuminate\Support\Facades\Input::get('targetAudience');
 
