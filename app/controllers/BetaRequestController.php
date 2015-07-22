@@ -32,7 +32,6 @@ class BetaRequestController extends \BaseController {
 		$data->name = \Illuminate\Support\Facades\Input::get('name');
 		$data->email = \Illuminate\Support\Facades\Input::get('email');
 		$data->companyName = \Illuminate\Support\Facades\Input::get('company');
-		$data->productService = \Illuminate\Support\Facades\Input::get('productService');
 		$data->targetAudience = \Illuminate\Support\Facades\Input::get('targetAudience');
 
 		\Illuminate\Support\Facades\Mail::send('publicPages.betaRequest.sendBetaRequestToPublet', ['data' => $data], function($message)
