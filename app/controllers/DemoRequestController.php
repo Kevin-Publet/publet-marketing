@@ -4,10 +4,16 @@ class DemoRequestController extends \BaseController {
 
     public $layout = 'layouts.main';
 
+    public function setInnerNav()
+    {
+        $this->layout->innerNav = true;
+    }
+
     public function showConversionPage()
     {
         $view = \Illuminate\Support\Facades\View::make('publicPages.demoRequest.conversionPage');
         $this->layout->title = 'See Your Content Marketing Enhanced';
+        $this->setInnerNav();
         $this->layout->content = $view->render();
     }
 
@@ -15,6 +21,7 @@ class DemoRequestController extends \BaseController {
     {
         $view = \Illuminate\Support\Facades\View::make('publicPages.demoRequest.confirmationPage');
         $this->layout->title = 'Your request has been received';
+        $this->setInnerNav();
         $this->layout->content = $view->render();
     }
 
