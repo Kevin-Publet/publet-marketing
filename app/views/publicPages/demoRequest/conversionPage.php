@@ -30,8 +30,9 @@
 
 
                 <div class="row" >
-                    <div id="demoRequestFormHelperTextContainer" class="col-lg-12 text-center" ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience">
-                        <p class="homepageHeavyFont">Hey! Your almost done. Just tell us where we should send your enhanced content.</p>
+                    <div id="demoRequestFormHelperTextContainer" class="col-lg-12 text-center" >
+                        <p ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience && !demoRequestEmail" class="homepageHeavyFont">Hey! Your almost done. Just tell us where we should send your enhanced content.</p>
+                        <p ng-show="demoRequestEmail && demoRequestName" class="homepageHeavyFont">Nice! Your ready to go.</p>
                     </div>
                     <div class="col-lg-5" ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience">
                         <div class="form-group">
