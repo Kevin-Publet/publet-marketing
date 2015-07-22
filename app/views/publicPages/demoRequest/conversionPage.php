@@ -10,12 +10,12 @@
             </div>
         </div>
 
-        <div id="demoRequestForm" class="col-lg-8 col-lg-offset-2">
+        <div id="demoRequestForm" class="col-lg-10 col-lg-offset-1">
             <form class="form-horizontal" name="demoRequestForm">
 
                 <div class="form-group">
                     <label for="targetAudience" class="text-center"> </label>
-                    <input type="text" ng-model="demoRequestTargetAudience" class="form-control input-lg" name="targetAudience" id="targetAudience" placeholder="Who is your target audience? (Please separate multiple entries with a comma.)">
+                    <input type="text" ng-model="demoRequestTargetAudience" class="form-control input-lg" name="targetAudience" id="targetAudience" placeholder="Who is your target audience? (Please separate multiple targets with a comma.)">
                 </div>
 
                 <div class="form-group">
@@ -30,11 +30,10 @@
 
 
                 <div class="row" >
-                    <div class="col-lg-12 text-center" ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience">
+                    <div id="demoRequestFormHelperTextContainer" class="col-lg-12 text-center" ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience">
                         <p class="homepageHeavyFont">Hey! Your almost done. Just tell us where we should send your enhanced content.</p>
-
                     </div>
-                    <div class="col-lg-6" ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience">
+                    <div class="col-lg-5" ng-show="demoRequestCompanyName && demoRequestProductService && demoRequestTargetAudience">
                         <div class="form-group">
                             <label for="name" class="text-center"> </label>
                             <input type="text" ng-model="demoRequestName" class="form-control input-lg" name="name" id="name" placeholder="Your name">
