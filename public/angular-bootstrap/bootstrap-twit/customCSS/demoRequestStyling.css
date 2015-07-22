@@ -25,3 +25,18 @@
 #demoRequestFormHelperTextContainer > p {
     font-size: 20px;
 }
+
+#demoRequestConfirmationContainer {
+    height: 700px;
+    padding-top: 50px;
+    background: #dadada;
+}
+
+#demoRequestConfirmationPageHeader {
+    background: #fff;
+    padding: 30px;
+}
+
+#demoRequestConfirmationPageHeaderSubTitle {
+    margin-top: 20px;
+}
