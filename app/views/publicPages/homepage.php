@@ -17,7 +17,7 @@
                     <ul id="homepageNavBarContentLinks" class="nav navbar-nav navbar-right">
                         <li><a href="#" class="homepageHeavyFont">What is Publet?</a></li>
                         <li><a href="/get-started" class="homepageHeavyFont">Start a Campaign</a></li>
-                        <li><a href="#" class="homepageHeavyFont">See it in Action</a></li>
+                        <li><a href="/see-it-in-action" class="homepageHeavyFont">See it in Action</a></li>
                     </ul>
 
                 </div>
@@ -390,7 +390,7 @@
                 <div class="col-lg-6 text-center" id="homepageAskForConversionSectionCTA">
                     <a href="/get-started" class="btn btn-homepageHuge btn-create">+ Start a campaign</a>
                     <br/>
-                    <a href="#" class="homepageLightFont ctaLink">See it in action</a>
+                    <a href="/see-it-in-action"class="homepageLightFont ctaLink">See it in action</a>
                 </div>
             </div>
         </div>

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213bec6f-c601-4f01-8442-7391438fe93b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/publicPages/demoRequest/confirmationPage.php" afterPath="$PROJECT_DIR$/app/views/publicPages/demoRequest/confirmationPage.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/angular-bootstrap/bootstrap-twit/customCSS/demoRequestStyling.css" afterPath="$PROJECT_DIR$/public/angular-bootstrap/bootstrap-twit/customCSS/demoRequestStyling.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/publicPages/homepage.php" afterPath="$PROJECT_DIR$/app/views/publicPages/homepage.php" />
     </list>
     <ignored path="publet-marketing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,14 +25,14 @@
     <favorites_list name="publet-marketing" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.65090406">
       <split-first>
         <leaf>
-          <file leaf-file-name="confirmationPage.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/views/publicPages/demoRequest/confirmationPage.php">
+          <file leaf-file-name="homepage.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/views/publicPages/homepage.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.11227545" vertical-offset="0" max-vertical-offset="668">
-                  <caret line="3" column="101" selection-start-line="3" selection-start-column="101" selection-end-line="3" selection-end-column="101" />
+                <state vertical-scroll-proportion="-1.535127" vertical-offset="10902" max-vertical-offset="11775">
+                  <caret line="395" column="14" selection-start-line="395" selection-start-column="14" selection-end-line="395" selection-end-column="14" />
                   <folding />
                 </state>
               </provider>
@@ -585,14 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/publicPages/homepage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64028776" vertical-offset="10705" max-vertical-offset="11775">
-          <caret line="392" column="23" selection-start-line="392" selection-start-column="23" selection-end-line="392" selection-end-column="31" />
-          <caret line="446" column="23" selection-start-line="446" selection-start-column="23" selection-end-line="446" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/angular-bootstrap/bootstrap-twit/customCSS/InnerNavStyling.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31163436" vertical-offset="0" max-vertical-offset="722">
@@ -600,33 +591,6 @@
           <folding>
             <marker date="1437497410000" expanded="true" signature="-1:-1" placeholder="{...}" />
             <marker date="1437497410000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68345326" vertical-offset="75" max-vertical-offset="3125">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -708,18 +672,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/publicPages/demoRequest/confirmationPage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11227545" vertical-offset="0" max-vertical-offset="668">
-          <caret line="3" column="101" selection-start-line="3" selection-start-column="101" selection-end-line="3" selection-end-column="101" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/angular-bootstrap/bootstrap-twit/customCSS/demoRequestStyling.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9307479" vertical-offset="328" max-vertical-offset="1175">
           <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/publicPages/demoRequest/confirmationPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6736527" vertical-offset="0" max-vertical-offset="668">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <marker date="1437597618000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437597618000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437597618000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437597618000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437597618000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437597618000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43165466" vertical-offset="250" max-vertical-offset="3125">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437595025000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/publicPages/homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.535127" vertical-offset="10902" max-vertical-offset="11775">
+          <caret line="395" column="14" selection-start-line="395" selection-start-column="14" selection-end-line="395" selection-end-column="14" />
           <folding />
         </state>
       </provider>
