@@ -1,7 +1,10 @@
 
 <div class="container engagementContentContainer">
-    <h1 class="homepageHeavyFont"><?php echo $headline; ?></h1>
-    <h3 class="homepageLightFont"><?php echo $subHeadline; ?></h3>
+
+    <div class="engagementContentHeader text-center">
+        <h1 class="homepageHeavyFont"><?php echo $headline; ?></h1>
+        <h3 class="homepageLightFont"><?php echo $subHeadline; ?></h3>
+    </div>
 
     <h3></h3> {{test}} why
 

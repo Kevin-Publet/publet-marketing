@@ -9,6 +9,11 @@ class EngagementController extends \BaseController {
 		$this->layout->outerNav = true;
 	}
 
+	public function setEngagementBodyContainer()
+	{
+		$this->layout->addEngagementBodyContainer = true;
+	}
+
 	public $validPageTitles = [
 
 		'some-valid-page-title-here' => [
@@ -51,6 +56,7 @@ class EngagementController extends \BaseController {
 			$this->layout->title = $viewTitle;
 			$this->layout->initiationHit = $initiationHit;
 			$this->setOuterNav();
+			$this->setEngagementBodyContainer();
 			$this->layout->content = $view->render();
 			return;
 

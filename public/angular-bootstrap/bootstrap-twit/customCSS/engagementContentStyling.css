@@ -1,3 +1,14 @@
+.engagementBodyContainer {
+    background: #dadada;
+    height: 1200px;
+}
+
 .engagementContentContainer {
+    background: #fff;
+    height: 1000px;
     margin-top: 50px;
+}
+
+.engagementContentHeader {
+    margin-top: 40px;
 }

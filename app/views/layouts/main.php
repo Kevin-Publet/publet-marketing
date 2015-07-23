@@ -74,6 +74,15 @@
 <body>
 
 <?php
+    if(isset($addEngagementBodyContainer))
+    {
+        echo '<div class="engagementBodyContainer">';
+    }
+
+?>
+
+
+<?php
 if(isset($outerNav))
 {
     ?>
@@ -129,7 +138,13 @@ if(isset($outerNav))
         }
         ?>
 
+<?php
+if(isset($addEngagementBodyContainer))
+{
+    echo '</div>';
+}
 
+?>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
