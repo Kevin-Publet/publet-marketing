@@ -4,6 +4,10 @@ class EngagementController extends \BaseController {
 
 	public $layout = 'layouts.main';
 
+	public function setOuterNav()
+	{
+		$this->layout->outerNav = true;
+	}
 
 	public $validPageTitles = [
 
@@ -42,12 +46,13 @@ class EngagementController extends \BaseController {
 			$view = \Illuminate\Support\Facades\View::make('engagementPages.' . $viewName);
 			$this->layout->title = $viewTitle;
 			$this->layout->initiationHit = $initiationHit;
+			$this->setOuterNav();
 			$this->layout->content = $view->render();
 			return;
 
 		}
 
-		return 'need to add a 404 page';
+		return '404 - The page you are looking for does not exist.';
 
 	}
 

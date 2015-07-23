@@ -17,6 +17,8 @@
     <link href="/angular-bootstrap/bootstrap-twit/customCSS/betaRequestStyling.css" rel="stylesheet">
     <link href="/angular-bootstrap/bootstrap-twit/customCSS/innerNavStyling.css" rel="stylesheet">
     <link href="/angular-bootstrap/bootstrap-twit/customCSS/demoRequestStyling.css" rel="stylesheet">
+    <link href="/angular-bootstrap/bootstrap-twit/customCSS/engagementContentStyling.css" rel="stylesheet">
+
 
 
 
@@ -70,6 +72,38 @@
     </script>
 </head>
 <body>
+
+<?php
+if(isset($outerNav))
+{
+    ?>
+    <div id="homepageNavBarSection">
+        <nav  class="">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a href="/"><img id="homepageNavBarLogo" src="/assets/images/publetLogoSM.png"></a>
+
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#homepageNavBarCollapsableLinks">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+
+                <div class="collapse navbar-collapse" id="homepageNavBarCollapsableLinks">
+                    <ul id="homepageNavBarContentLinks" class="nav navbar-nav navbar-right">
+                        <li><a href="#" class="homepageHeavyFont">What is Publet?</a></li>
+                        <li><a href="/get-started" class="homepageHeavyFont">Start a Campaign</a></li>
+                        <li><a href="/see-it-in-action" class="homepageHeavyFont">See it in Action</a></li>
+                    </ul>
+
+                </div>
+            </div>
+        </nav>
+    </div>
+<?php
+}
+?>
 
 <?php
         if(isset($innerNav))

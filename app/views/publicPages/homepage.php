@@ -1,29 +1,6 @@
 <div id="homepageContainer" >
 
-    <div id="homepageNavBarSection">
-        <nav  class="">
-            <div class="container-fluid">
-                <div class="navbar-header">
-                    <img id="homepageNavBarLogo" src="/assets/images/publetLogoSM.png">
 
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#homepageNavBarCollapsableLinks">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                </div>
-
-                <div class="collapse navbar-collapse" id="homepageNavBarCollapsableLinks">
-                    <ul id="homepageNavBarContentLinks" class="nav navbar-nav navbar-right">
-                        <li><a href="#" class="homepageHeavyFont">What is Publet?</a></li>
-                        <li><a href="/get-started" class="homepageHeavyFont">Start a Campaign</a></li>
-                        <li><a href="/see-it-in-action" class="homepageHeavyFont">See it in Action</a></li>
-                    </ul>
-
-                </div>
-            </div>
-        </nav>
-    </div>
 
     <div class="contentContainer">
         <div id="homepageHeroSection" >
