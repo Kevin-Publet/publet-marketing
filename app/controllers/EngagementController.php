@@ -26,10 +26,48 @@ class EngagementController extends \BaseController {
 			'viewTitle' => 'Some Valid Page Title Here | Page Title',
 			'headline' => 'This is some headline',
 			'subHeadline' => 'this is the sub headline which will show here.',
+			'firstBulletPoint' => 'This is the first bullet point dynamically',
+			'firstBulletPointText' => 	'This is the text to go with the bullet point.
+										I dont know what I will talk about but it should be good.
+										Hopefully so good that visitors will click on the nav and get interested in Publet.
+										Hopefully so good even more that they will set up a demo.
+										Or even ask for beta access.
+										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
+			'secondBulletPoint' => 'This is the second bullet point dynamically',
+			'secondBulletPointText' => 	'This is the text to go with the bullet point.
+										I dont know what I will talk about but it should be good.
+										Hopefully so good that visitors will click on the nav and get interested in Publet.
+										Hopefully so good even more that they will set up a demo.
+										Or even ask for beta access.
+										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
+			'thirdBulletPoint' => 'This is the third bullet point dynamically',
+			'thirdBulletPointText' => 	'This is the text to go with the bullet point.
+										I dont know what I will talk about but it should be good.
+										Hopefully so good that visitors will click on the nav and get interested in Publet.
+										Hopefully so good even more that they will set up a demo.
+										Or even ask for beta access.
+										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
+			'fourthBulletPoint' => 'This is the fourth bullet point dynamically',
+			'fourthBulletPointText' => 	'This is the text to go with the bullet point.
+										I dont know what I will talk about but it should be good.
+										Hopefully so good that visitors will click on the nav and get interested in Publet.
+										Hopefully so good even more that they will set up a demo.
+										Or even ask for beta access.
+										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
+			'fifthBulletPoint' => 'This is the fifth bullet point dynamically',
+			'fifthBulletPointText' => 	'This is the text to go with the bullet point.
+										I dont know what I will talk about but it should be good.
+										Hopefully so good that visitors will click on the nav and get interested in Publet.
+										Hopefully so good even more that they will set up a demo.
+										Or even ask for beta access.
+										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
+
 		],
 
 	];
 
+
+	
 	public $validMarketingInfo = [
 
 		'0000' => [
@@ -56,8 +94,30 @@ class EngagementController extends \BaseController {
 			$viewTitle = $this->getViewTitle($title);
 			$headline = $this->getHeadline($title);
 			$subHeadline = $this->getSubHeadline($title);
+			$firstBulletPoint = $this->getFirstBulletPoint($title);
+			$firstBulletPointText = $this->getFirstBulletPointText($title);
+			$secondBulletPoint = $this->getSecondBulletPoint($title);
+			$secondBulletPointText = $this->getSecondBulletPointText($title);
+			$thirdBulletPoint = $this->getThirdBulletPoint($title);
+			$thirdBulletPointText = $this->getThirdBulletPointText($title);
+			$fourthBulletPoint = $this->getFourthBulletPoint($title);
+			$fourthBulletPointText = $this->getFourthBulletPointText($title);
+			$fifthBulletPoint = $this->getFifthBulletPoint($title);
+			$fifthBulletPointText = $this->getFifthBulletPointText($title);
 
-			$view = \Illuminate\Support\Facades\View::make('engagementPages.' . $viewName);
+
+			$view = \Illuminate\Support\Facades\View::make('engagementPages.' . $viewName)->with([
+				'firstBulletPoint'=> $firstBulletPoint,
+				'firstBulletPointText' => $firstBulletPointText,
+				'secondBulletPoint'=> $secondBulletPoint,
+				'secondBulletPointText' => $secondBulletPointText,
+				'thirdBulletPoint'=> $thirdBulletPoint,
+				'thirdBulletPointText' => $thirdBulletPointText,
+				'fourthBulletPoint'=> $fourthBulletPoint,
+				'fourthBulletPointText' => $fourthBulletPointText,
+				'fifthBulletPoint'=> $fifthBulletPoint,
+				'fifthBulletPointText' => $fifthBulletPointText,
+			]);
 			$this->layout->title = $viewTitle;
 			$this->layout->initiationHit = $initiationHit;
 			$this->layout->headline = $headline;
@@ -107,6 +167,56 @@ class EngagementController extends \BaseController {
 	public function getSubHeadline($pageTitle)
 	{
 		return $this->validPageTitles[$pageTitle]['subHeadline'];
+	}
+
+	public function getFirstBulletPoint($pageTitle)
+	{
+		return $this->validPageTitles[$pageTitle]['firstBulletPoint'];
+	}
+
+	public function getFirstBulletPointText($pageTitle)
+	{
+		return $this->validPageTitles[$pageTitle]['firstBulletPointText'];
+	}
+
+	public function getSecondBulletPoint($pageTitle)
+	{
+		return $this->validPageTitles[$pageTitle]['secondBulletPoint'];
+	}
+
+	public function getSecondBulletPointText($pageTitle)
+	{
+		return $this->validPageTitles[$pageTitle]['secondBulletPointText'];
+	}
+
+	public function getThirdBulletPoint($pageTitle)
+	{
+		return $this->validPageTitles[$pageTitle]['thirdBulletPoint'];
+	}
+
+	public function getThirdBulletPointText($pageTitle)
+	{
+		return $this->validPageTitles[$pageTitle]['thirdBulletPointText'];
+	}
+
+	public function getFourthBulletPoint($pageTitle)
+	{
+		return $this->validPageTitles[$pageTitle]['fourthBulletPoint'];
+	}
+
+	public function getFourthBulletPointText($pageTitle)
+	{
+		return $this->validPageTitles[$pageTitle]['fourthBulletPointText'];
+	}
+
+	public function getFifthBulletPoint($pageTitle)
+	{
+		return $this->validPageTitles[$pageTitle]['fifthBulletPoint'];
+	}
+
+	public function getFifthBulletPointText($pageTitle)
+	{
+		return $this->validPageTitles[$pageTitle]['fifthBulletPointText'];
 	}
 
 	public function getMarketingDetails($marketingKey)
