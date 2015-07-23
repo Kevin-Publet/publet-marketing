@@ -67,7 +67,7 @@ class EngagementController extends \BaseController {
 	];
 
 
-	
+
 	public $validMarketingInfo = [
 
 		'0000' => [
