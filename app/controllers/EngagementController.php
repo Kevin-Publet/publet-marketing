@@ -87,12 +87,10 @@ class EngagementController extends \BaseController {
 										Of course you want to. But its not likely.',
 
 			'thirdBulletPoint' => 'Ok, How Do I Fix These Things???',
-			'thirdBulletPointText' => 'This is the text to go with the bullet point.
-										I dont know what I will talk about but it should be good.
-										Hopefully so good that visitors will click on the nav and get interested in Publet.
-										Hopefully so good even more that they will set up a demo.
-										Or even ask for beta access.
-										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
+			'thirdBulletPointText' => 'Sorry. This article was made to serve the single purpose of telling you how much your content sucks.
+										We have no remedies! Just kidding, relax. If we didn\'t give you some advice on how to fix these
+										issues we wouldn\'t be giving you much of a \'value-add\' now would we?
+										...See what we did there? You can take some simple steps to fixing these issues. Let\'s get started. ',
 
 			'fourthBulletPoint' => 'Increasing Your ROI',
 			'fourthBulletPointText' => 	'This is the text to go with the bullet point.
