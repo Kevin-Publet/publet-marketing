@@ -33,6 +33,50 @@ class EngagementController extends \BaseController {
 										Hopefully so good even more that they will set up a demo.
 										Or even ask for beta access.
 										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
+
+			'secondBulletPoint' => 'This is the second bullet point dynamically',
+			'secondBulletPointText' => 	'This is the text to go with the bullet point.
+										I dont know what I will talk about but it should be good.
+										Hopefully so good that visitors will click on the nav and get interested in Publet.
+										Hopefully so good even more that they will set up a demo.
+										Or even ask for beta access.
+										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
+			'thirdBulletPoint' => 'This is the third bullet point dynamically',
+			'thirdBulletPointText' => 'This is the text to go with the bullet point.
+										I dont know what I will talk about but it should be good.
+										Hopefully so good that visitors will click on the nav and get interested in Publet.
+										Hopefully so good even more that they will set up a demo.
+										Or even ask for beta access.
+										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
+			'fourthBulletPoint' => 'This is the fourth bullet point dynamically',
+			'fourthBulletPointText' => 	'This is the text to go with the bullet point.
+										I dont know what I will talk about but it should be good.
+										Hopefully so good that visitors will click on the nav and get interested in Publet.
+										Hopefully so good even more that they will set up a demo.
+										Or even ask for beta access.
+										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
+			'fifthBulletPoint' => 'This is the fifth bullet point dynamically',
+			'fifthBulletPointText' => 	'This is the text to go with the bullet point.
+										I dont know what I will talk about but it should be good.
+										Hopefully so good that visitors will click on the nav and get interested in Publet.
+										Hopefully so good even more that they will set up a demo.
+										Or even ask for beta access.
+										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
+
+		],
+
+		'2-critical-indicators-telling-you-your-content-strategy-sucks' => [
+			'viewName' => 'engagementContentView',
+			'viewTitle' => 'Some Valid Page Title Here | Page Title',
+			'headline' => 'This is some headline',
+			'subHeadline' => 'this is the sub headline which will show here.',
+			'firstBulletPoint' => 'A Low Return On Investment. Clearly!',
+			'firstBulletPointText' => 	'If you have little to no ROI from your content marketing efforts there is obviously a problem
+										Whether its a lack of call-to-actions, an inability to engage your audience effectively, or a
+										lagging sales process - it all boils down to one thing. Your Strategy Needs Fixing!
+										A strong strategy not only brings in revenue, but removes some pressure from your inbound team as prospective customers who\'ve
+										felt the \'value-add\' of your business are more likely to convert.',
+
 			'secondBulletPoint' => 'This is the second bullet point dynamically',
 			'secondBulletPointText' => 	'This is the text to go with the bullet point.
 										I dont know what I will talk about but it should be good.
