@@ -93,20 +93,23 @@ class EngagementController extends \BaseController {
 										...See what we did there? You can take some simple steps to fixing these issues. Let\'s get started. ',
 
 			'fourthBulletPoint' => 'Increasing Your ROI',
-			'fourthBulletPointText' => 	'This is the text to go with the bullet point.
-										I dont know what I will talk about but it should be good.
-										Hopefully so good that visitors will click on the nav and get interested in Publet.
-										Hopefully so good even more that they will set up a demo.
-										Or even ask for beta access.
-										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
+			'fourthBulletPointText' => 	'First things first, you have to ensure you don\'t forget the biggest part of content marketing...
+										The marketing! It sounds silly, but you will not believe how many businesses still produce content
+										for the purpose of marketing without bare essentials like call-to-actions, or re-engagement preparations.
+										Ensure you analyze your content for places you can put some calls to action without diluting the value.
+										Also don\'t forget to lay the groundwork for later re-engagement, using tools like Remarketing and opt-in boxes
+										which can help solve this problem.',
 
 			'fifthBulletPoint' => 'Increasing Audience Engagement',
-			'fifthBulletPointText' => 	'This is the text to go with the bullet point.
-										I dont know what I will talk about but it should be good.
-										Hopefully so good that visitors will click on the nav and get interested in Publet.
-										Hopefully so good even more that they will set up a demo.
-										Or even ask for beta access.
-										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
+			'fifthBulletPointText' => 	'If you can\'t get your audience to engage with your content you are either doing one of two things wrong.
+										You are either targeting the wrong audience, or not producing content your audience finds valuable.
+										It really is that simple. So to solve the problem, first ensure your targeting isn\'t the issue. Run small tests
+										to see if the right people are getting to your content. Once you confirm that your targeting is not the issue then its time
+										to tackle a much more challenging task. The only ways to produce content your audience will find valuable is to have an understanding
+										of the market needs OR to have an understanding of what the market is currently finding valuable and why. How?
+										Do some research. Run a few google queries, follow a few targets on twitter, do whatever is necessary to see what your audience is
+										engaging with. Please avoid being creepy. And lastly when you find out what your audience wants, make an effort to
+										deliver it to them in a creative, different, and memorable way. Remember this is content marketing!',
 
 		],
 

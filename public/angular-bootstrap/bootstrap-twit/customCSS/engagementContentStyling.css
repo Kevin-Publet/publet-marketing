@@ -1,12 +1,14 @@
 .engagementBodyContainer {
     background: #dadada;
-    height: 1650px;
+    min-height: 1800px;
 }
 
 .engagementContentContainer {
     background: #fff;
-    height: 1450px;
+    min-height: 1450px;
     margin-top: 50px;
+
+
 }
 
 .engagementContentHeader {
@@ -15,7 +17,7 @@
 
 .engagementContentBody {
     background: #fff;
-    height: 1000px;
+    min-height: 1000px;
     padding: 40px;
 }
 
@@ -36,7 +38,8 @@
 }
 
 #engagementContentBottomImage {
-    margin-top: 50px;
+    margin-top: -40px;
+    margin-bottom: 40px;
 }
 
 #engagementContentBottomImage > h2 {
