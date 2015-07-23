@@ -12,3 +12,11 @@
 .engagementContentHeader {
     margin-top: 40px;
 }
+
+.engagementContentBody {
+    background: #fff;
+    height: 800px;
+    border: 1px solid #dadada;
+    padding: 40px;
+}
+

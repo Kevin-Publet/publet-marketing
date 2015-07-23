@@ -141,7 +141,7 @@ if(isset($outerNav))
                 </div>
 
 
-                <div class='engagementContentBody'>";
+                <div class='engagementContentBody col-lg-10 col-lg-offset-1'>";
         }
 ?>
 
