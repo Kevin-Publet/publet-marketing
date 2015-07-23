@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="213bec6f-c601-4f01-8442-7391438fe93b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/EngagementController.php" afterPath="$PROJECT_DIR$/app/controllers/EngagementController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="publet-marketing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="EngagementController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/EngagementController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24460432" vertical-offset="530" max-vertical-offset="7450">
-              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+            <state vertical-scroll-proportion="1.1798561" vertical-offset="1430" max-vertical-offset="7600">
+              <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -697,8 +696,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/EngagementController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24460432" vertical-offset="530" max-vertical-offset="7450">
-          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+        <state vertical-scroll-proportion="1.1798561" vertical-offset="1430" max-vertical-offset="7600">
+          <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
           <folding />
         </state>
       </provider>
