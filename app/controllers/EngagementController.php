@@ -68,10 +68,10 @@ class EngagementController extends \BaseController {
 
 		],
 
-		'2-performance-indicators-telling-you-your-content-strategy-sucks' => [
+		'2-performance-indicators-that-prove-your-content-strategy-sucks' => [
 			'viewName' => 'engagementContentView',
-			'viewTitle' => '2 Performance Indicators Telling You Your Content Strategy Sucks | Publet - Enhance your content marketing',
-			'headline' => '2 Performance Indicators Telling You Your Content Strategy Sucks',
+			'viewTitle' => '2 Performance Indicators That Prove Your Content Strategy Sucks | Publet - Enhance your content marketing',
+			'headline' => '2 Performance Indicators That Prove Your Content Strategy Sucks',
 			'subHeadline' => 'Look out for these signals and keep your business from a weak content marketing strategy.',
 			'firstBulletPoint' => '1. A Low Return On Investment. Clearly!',
 			'firstBulletPointText' => 	'If you have little to no ROI from your content marketing efforts there is obviously a problem
@@ -81,14 +81,12 @@ class EngagementController extends \BaseController {
 										felt the \'value-add\' of your business are more likely to convert.',
 
 			'secondBulletPoint' => '2. Weak Content Engagement.',
-			'secondBulletPointText' => 	'This is the text to go with the bullet point.
-										I dont know what I will talk about but it should be good.
-										Hopefully so good that visitors will click on the nav and get interested in Publet.
-										Hopefully so good even more that they will set up a demo.
-										Or even ask for beta access.
-										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
+			'secondBulletPointText' => 	'Weak engagement is not only a sign of a poor content strategy, it also indicates that your business does not
+										fully understand the market. And if you don\'t intimately understand the needs of your customers
+										should you really be expecting to convert them with your content?
+										Of course you want to. But its not likely.',
 
-			'thirdBulletPoint' => 'Ok, How Do I Fix Them???',
+			'thirdBulletPoint' => 'Ok, How Do I Fix These Things???',
 			'thirdBulletPointText' => 'This is the text to go with the bullet point.
 										I dont know what I will talk about but it should be good.
 										Hopefully so good that visitors will click on the nav and get interested in Publet.
@@ -96,7 +94,7 @@ class EngagementController extends \BaseController {
 										Or even ask for beta access.
 										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
 
-			'fourthBulletPoint' => 'This is the fourth bullet point dynamically',
+			'fourthBulletPoint' => 'Increasing Your ROI',
 			'fourthBulletPointText' => 	'This is the text to go with the bullet point.
 										I dont know what I will talk about but it should be good.
 										Hopefully so good that visitors will click on the nav and get interested in Publet.
@@ -104,7 +102,7 @@ class EngagementController extends \BaseController {
 										Or even ask for beta access.
 										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
 
-			'fifthBulletPoint' => 'This is the fifth bullet point dynamically',
+			'fifthBulletPoint' => 'Increasing Audience Engagement',
 			'fifthBulletPointText' => 	'This is the text to go with the bullet point.
 										I dont know what I will talk about but it should be good.
 										Hopefully so good that visitors will click on the nav and get interested in Publet.
