@@ -16,12 +16,15 @@
 .engagementContentBody {
     background: #fff;
     height: 1000px;
-    /*border: 1px solid #dadada;*/
     padding: 40px;
 }
 
 .engagementContentBulletPoint {
     margin-bottom: 50px;
+}
+
+.engagementContentBulletPointHeader {
+    margin-bottom: 20px;
 }
 
 .engagementContentBulletPointHeader > h3 {
