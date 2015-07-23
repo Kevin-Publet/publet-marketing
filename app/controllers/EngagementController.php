@@ -14,6 +14,11 @@ class EngagementController extends \BaseController {
 		$this->layout->addEngagementBodyContainer = true;
 	}
 
+	public function setEngagementWrapper()
+	{
+		$this->layout->engagementWrapper = true;
+	}
+
 	public $validPageTitles = [
 
 		'some-valid-page-title-here' => [
@@ -52,11 +57,14 @@ class EngagementController extends \BaseController {
 			$headline = $this->getHeadline($title);
 			$subHeadline = $this->getSubHeadline($title);
 
-			$view = \Illuminate\Support\Facades\View::make('engagementPages.' . $viewName)->with(['headline' => $headline, 'subHeadline' => $subHeadline]);
+			$view = \Illuminate\Support\Facades\View::make('engagementPages.' . $viewName);
 			$this->layout->title = $viewTitle;
 			$this->layout->initiationHit = $initiationHit;
+			$this->layout->headline = $headline;
+			$this->layout->subHeadline = $subHeadline;
 			$this->setOuterNav();
 			$this->setEngagementBodyContainer();
+			$this->setEngagementWrapper();
 			$this->layout->content = $view->render();
 			return;
 

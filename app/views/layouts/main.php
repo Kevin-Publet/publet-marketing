@@ -131,13 +131,35 @@ if(isset($outerNav))
         }
 ?>
 
+<?php if(isset($engagementWrapper))
+        {
+            echo "<div class='container engagementContentContainer'>
+
+                <div class='engagementContentHeader text-center'>
+                    <h1 class='homepageHeavyFont'>$headline </h1>
+                    <h3 class='homepageLightFont'> $subHeadline </h3>
+                </div>
+
+
+                <div class='engagementContentBody'>";
+        }
+?>
+
+
 <?php
         if(isset($content))
         {
             echo $content;
         }
-        ?>
+?>
 
+<?php if(isset($engagementWrapper))
+        {
+          echo '</div>
+
+              </div>' ;
+        }
+?>
 <?php
 if(isset($addEngagementBodyContainer))
 {
