@@ -22,7 +22,7 @@ class EngagementController extends \BaseController {
 	public $validPageTitles = [
 
 		'some-valid-page-title-here' => [
-			'viewName' => 'SomeValidPageTitleHere',
+			'viewName' => 'engagementContentView',
 			'viewTitle' => 'Some Valid Page Title Here | Page Title',
 			'headline' => 'This is some headline',
 			'subHeadline' => 'this is the sub headline which will show here.',
@@ -41,7 +41,7 @@ class EngagementController extends \BaseController {
 										Or even ask for beta access.
 										Or if those don\'t work maybe want to get emailed that special content on the homepage.',
 			'thirdBulletPoint' => 'This is the third bullet point dynamically',
-			'thirdBulletPointText' => 	'This is the text to go with the bullet point.
+			'thirdBulletPointText' => 'This is the text to go with the bullet point.
 										I dont know what I will talk about but it should be good.
 										Hopefully so good that visitors will click on the nav and get interested in Publet.
 										Hopefully so good even more that they will set up a demo.

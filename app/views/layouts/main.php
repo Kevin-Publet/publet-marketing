@@ -156,7 +156,12 @@ if(isset($outerNav))
 <?php if(isset($engagementWrapper))
         {
           echo '</div>
-
+                <a href="/">
+                    <div class="col-lg-12 text-center" id="engagementContentBottomImage">
+                        <img class="img-responsive center-block" src="/assets/images/publetLogoSM.png">
+                        <h2 class="homepageLightFont">Enhance Your Content Marketing</h2>
+                    </div>
+                </a>
               </div>' ;
         }
 ?>
