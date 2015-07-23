@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213bec6f-c601-4f01-8442-7391438fe93b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/angular-bootstrap/bootstrap-twit/customCSS/engagementContentStyling.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/EngagementController.php" afterPath="$PROJECT_DIR$/app/controllers/EngagementController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/HomeController.php" afterPath="$PROJECT_DIR$/app/controllers/HomeController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/engagementPages/SomeValidPageTitleHere.php" afterPath="$PROJECT_DIR$/app/views/engagementPages/SomeValidPageTitleHere.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/publicPages/homepage.php" afterPath="$PROJECT_DIR$/app/views/publicPages/homepage.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/main.php" afterPath="$PROJECT_DIR$/app/views/layouts/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="publet-marketing.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,11 +29,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/views/layouts/main.php">
+          <file leaf-file-name="EngagementController.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/controllers/EngagementController.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.35971224" vertical-offset="225" max-vertical-offset="3975">
-                  <caret line="19" column="77" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
+                <state vertical-scroll-proportion="0.35971224" vertical-offset="975" max-vertical-offset="3250">
+                  <caret line="49" column="123" selection-start-line="49" selection-start-column="123" selection-end-line="49" selection-end-column="123" />
                   <folding />
                 </state>
               </provider>
@@ -51,8 +46,8 @@
           <file leaf-file-name="SomeValidPageTitleHere.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/app/views/engagementPages/SomeValidPageTitleHere.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.035971224" vertical-offset="0" max-vertical-offset="695">
-                  <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
+                <state vertical-scroll-proportion="0.107913665" vertical-offset="0" max-vertical-offset="695">
+                  <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
                   <folding />
                 </state>
               </provider>
@@ -832,39 +827,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/EngagementController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.107913665" vertical-offset="750" max-vertical-offset="2900">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1437661022000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/engagementPages/SomeValidPageTitleHere.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.035971224" vertical-offset="0" max-vertical-offset="695">
-          <caret line="1" column="48" selection-start-line="1" selection-start-column="48" selection-end-line="1" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/angular-bootstrap/bootstrap-twit/customCSS/engagementContentStyling.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06925208" vertical-offset="0" max-vertical-offset="722">
@@ -877,8 +839,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35971224" vertical-offset="225" max-vertical-offset="3975">
-          <caret line="19" column="77" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
+        <state vertical-scroll-proportion="0.43165466" vertical-offset="225" max-vertical-offset="3975">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1437661408000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/engagementPages/SomeValidPageTitleHere.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.107913665" vertical-offset="0" max-vertical-offset="695">
+          <caret line="3" column="58" selection-start-line="3" selection-start-column="58" selection-end-line="3" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/EngagementController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35971224" vertical-offset="975" max-vertical-offset="3250">
+          <caret line="49" column="123" selection-start-line="49" selection-start-column="123" selection-end-line="49" selection-end-column="123" />
           <folding />
         </state>
       </provider>

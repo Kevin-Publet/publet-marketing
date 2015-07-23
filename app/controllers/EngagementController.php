@@ -14,6 +14,8 @@ class EngagementController extends \BaseController {
 		'some-valid-page-title-here' => [
 			'viewName' => 'SomeValidPageTitleHere',
 			'viewTitle' => 'Some Valid Page Title Here | Page Title',
+			'headline' => 'This is some headline',
+			'subHeadline' => 'this is the sub headline which will show here.',
 		],
 
 	];
@@ -42,8 +44,10 @@ class EngagementController extends \BaseController {
 
 			$viewName = $this->getViewName($title);
 			$viewTitle = $this->getViewTitle($title);
+			$headline = $this->getHeadline($title);
+			$subHeadline = $this->getSubHeadline($title);
 
-			$view = \Illuminate\Support\Facades\View::make('engagementPages.' . $viewName);
+			$view = \Illuminate\Support\Facades\View::make('engagementPages.' . $viewName)->with(['headline' => $headline, 'subHeadline' => $subHeadline]);
 			$this->layout->title = $viewTitle;
 			$this->layout->initiationHit = $initiationHit;
 			$this->setOuterNav();
@@ -79,6 +83,16 @@ class EngagementController extends \BaseController {
 	public function getViewTitle($pageTitle)
 	{
 		return $this->validPageTitles[$pageTitle]['viewTitle'];
+	}
+
+	public function getHeadline($pageTitle)
+	{
+		return $this->validPageTitles[$pageTitle]['headline'];
+	}
+
+	public function getSubHeadline($pageTitle)
+	{
+		return $this->validPageTitles[$pageTitle]['subHeadline'];
 	}
 
 	public function getMarketingDetails($marketingKey)

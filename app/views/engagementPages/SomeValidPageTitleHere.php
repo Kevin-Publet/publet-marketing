@@ -1,6 +1,7 @@
 
 <div class="container engagementContentContainer">
-    <h2>Some valid page title here page</h2>
+    <h1 class="homepageHeavyFont"><?php echo $headline; ?></h1>
+    <h3 class="homepageLightFont"><?php echo $subHeadline; ?></h3>
 
     <h3></h3> {{test}} why
 
