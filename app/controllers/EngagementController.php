@@ -87,14 +87,14 @@ class EngagementController extends \BaseController {
 										Of course you want to. But its not likely.',
 
 			'thirdBulletPoint' => 'Ok, How Do I Fix These Things???',
-			'thirdBulletPointText' => 'Sorry. This article was made to serve the single purpose of telling you how much your content sucks.
-										We have no remedies! Just kidding, relax. If we didn\'t give you some advice on how to fix these
+			'thirdBulletPointText' => 'Having some of these issues and want to know how to fix them? Sorry. This article was made to serve the single purpose of telling you how much your content needs improvement.
+										There are no remedies here! Just kidding, relax. If we didn\'t give you some advice on how to fix these
 										issues we wouldn\'t be giving you much of a \'value-add\' now would we?
-										...See what we did there? You can take some simple steps to fixing these issues. Let\'s get started. ',
+										...See what we did there?  Let\'s get started with some simple steps to improve your content strategy. ',
 
 			'fourthBulletPoint' => 'Increasing Your ROI',
-			'fourthBulletPointText' => 	'First things first, you have to ensure you don\'t forget the biggest part of content marketing...
-										The marketing! It sounds silly, but you will not believe how many businesses still produce content
+			'fourthBulletPointText' => 	'First things first. You have to remember the biggest part of content marketing...
+										It\'s marketing! It sounds silly, but you will not believe how many businesses still produce content
 										for the purpose of marketing without bare essentials like call-to-actions, or re-engagement preparations.
 										Ensure you analyze your content for places you can put some calls to action without diluting the value.
 										Also don\'t forget to lay the groundwork for later re-engagement, using tools like Remarketing and opt-in boxes
@@ -103,13 +103,12 @@ class EngagementController extends \BaseController {
 			'fifthBulletPoint' => 'Increasing Audience Engagement',
 			'fifthBulletPointText' => 	'If you can\'t get your audience to engage with your content you are either doing one of two things wrong.
 										You are either targeting the wrong audience, or not producing content your audience finds valuable.
-										It really is that simple. So to solve the problem, first ensure your targeting isn\'t the issue. Run small tests
-										to see if the right people are getting to your content. Once you confirm that your targeting is not the issue then its time
-										to tackle a much more challenging task. The only ways to produce content your audience will find valuable is to have an understanding
-										of the market needs OR to have an understanding of what the market is currently finding valuable and why. How?
-										Do some research. Run a few google queries, follow a few targets on twitter, do whatever is necessary to see what your audience is
-										engaging with. Please avoid being creepy. And lastly when you find out what your audience wants, make an effort to
-										deliver it to them in a creative, different, and memorable way. Remember this is content marketing!',
+										It really is that simple. So to start solving the problem, first ensure your targeting isn\'t the issue. Run small tests
+										to see if the right people are getting to your content. After ensuring the issue is not your targeting, you can move on to
+										producing content your audience finds valuable. An easy way to produce high quality content is to have an deep understanding
+										of the market needs. How? Do some research. Run a few google queries, follow a few targets on twitter, do whatever is necessary to see what your audience is
+										already engaging with. Please avoid being creepy. And lastly when you find out what your audience wants, make an effort to
+										deliver it to them in a creative and memorable way. Remember this is content marketing!',
 
 		],
 
