@@ -144,7 +144,7 @@ class EngagementController extends \BaseController {
 										Also don\'t forget to lay the groundwork for later re-engagement, using tools like Remarketing and opt-in boxes
 										which can help solve this problem.',
 
-			'fifthBulletPoint' => '3 Tips To Make Sure You Hire The Right Content Marketer',
+			'fifthBulletPoint' => 'Follow These 3 Tips. Hire Right.',
 			'fifthBulletPointText' => 	'If you can\'t get your audience to engage with your content you are either doing one of two things wrong.
 										You are either targeting the wrong audience, or not producing content your audience finds valuable.
 										It really is that simple. So to start solving the problem, first ensure your targeting isn\'t the issue. Run small tests
