@@ -117,7 +117,7 @@ class EngagementController extends \BaseController {
 			'viewTitle' => '3 Profit Killing Mistakes To Avoid When Hiring A Content Marketer | Publet - Enhance your content marketing',
 			'headline' => '3 Profit Killing Mistakes To Avoid When Hiring A Content Marketer',
 			'subHeadline' => 'Don\'t make these all too common mistakes when hiring your next content marketer.',
-			'firstBulletPoint' => '1. Hiring Someone With Zero Proof Of Results.',
+			'firstBulletPoint' => '1. Hiring With Zero Proof Of Content Marketing Success.',
 			'firstBulletPointText' => 	'If you have little to no ROI from your content marketing efforts there is obviously a problem
 										Whether its a lack of call-to-actions, an inability to engage your audience effectively, or a
 										lagging sales process - it all boils down to one thing. Your Strategy Needs Fixing!
