@@ -112,6 +112,50 @@ class EngagementController extends \BaseController {
 
 		],
 
+		'3-profit-killing-mistakes-to-avoid-when-hiring-a-content-marketer' => [
+			'viewName' => 'engagementContentView',
+			'viewTitle' => '3 Profit Killing Mistakes To Avoid When Hiring A Content Marketer | Publet - Enhance your content marketing',
+			'headline' => '3 Profit Killing Mistakes To Avoid When Hiring A Content Marketer',
+			'subHeadline' => 'Don\'t make these all too common mistakes when hiring your next content marketer.',
+			'firstBulletPoint' => '1. Hiring Someone With Zero Proof Of Results',
+			'firstBulletPointText' => 	'If you have little to no ROI from your content marketing efforts there is obviously a problem
+										Whether its a lack of call-to-actions, an inability to engage your audience effectively, or a
+										lagging sales process - it all boils down to one thing. Your Strategy Needs Fixing!
+										A strong strategy not only brings in revenue, but removes some pressure from your inbound team as prospective customers who\'ve
+										felt the \'value-add\' of your business are more likely to convert.',
+
+			'secondBulletPoint' => '2. Hiring Without Testing The Waters First.',
+			'secondBulletPointText' => 	'Weak engagement is not only a sign of a poor content strategy, it also indicates that your business does not
+										fully understand the market. And if you don\'t intimately understand the needs of your customers
+										should you really be expecting to convert them with your content?
+										Of course you want to. But its not likely.',
+
+			'thirdBulletPoint' => '3. Hiring Without Some Demo Content. Obviously.',
+			'thirdBulletPointText' => 'Having some of these issues and want to know how to fix them? Sorry. This article was made to serve the single purpose of telling you how much your content needs improvement.
+										There are no remedies here! Just kidding, relax. If we didn\'t give you some advice on how to fix these
+										issues we wouldn\'t be giving you much of a \'value-add\' now would we?
+										...See what we did there?  Let\'s get started with some simple steps to improve your content strategy. ',
+
+			'fourthBulletPoint' => 'Don\'t Make These Mistakes!',
+			'fourthBulletPointText' => 	'First things first. You have to remember the biggest part of content marketing...
+										It\'s marketing! It sounds silly, but you will not believe how many businesses still produce content
+										for the purpose of marketing without bare essentials like call-to-actions, or re-engagement preparations.
+										Ensure you analyze your content for places you can put some calls to action without diluting the value.
+										Also don\'t forget to lay the groundwork for later re-engagement, using tools like Remarketing and opt-in boxes
+										which can help solve this problem.',
+
+			'fifthBulletPoint' => '3 Tips To Make Sure You Hire The Right Content Marketer',
+			'fifthBulletPointText' => 	'If you can\'t get your audience to engage with your content you are either doing one of two things wrong.
+										You are either targeting the wrong audience, or not producing content your audience finds valuable.
+										It really is that simple. So to start solving the problem, first ensure your targeting isn\'t the issue. Run small tests
+										to see if the right people are getting to your content. After ensuring the issue is not your targeting, you can move on to
+										producing content your audience finds valuable. An easy way to produce high quality content is to have an deep understanding
+										of the market needs. How? Do some research. Run a few google queries, follow a few targets on twitter, do whatever is necessary to see what your audience is
+										already engaging with. Please avoid being creepy. And lastly when you find out what your audience wants, make an effort to
+										deliver it to them in a creative and memorable way. Remember this is content marketing!',
+
+		],
+
 	];
 
 
@@ -322,6 +366,6 @@ class InitiationContentStorage {
 						Have a great day
 						Kevin',
 
-		
+
 	];
 }
