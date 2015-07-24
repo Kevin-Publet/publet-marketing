@@ -102,7 +102,7 @@ class EngagementController extends \BaseController {
 
 			'fifthBulletPoint' => 'Tip: Increasing Audience Engagement',
 			'fifthBulletPointText' => 	'If you can\'t get your audience to engage with your content you are either doing one of two things wrong.
-										You are either targeting the wrong audience, or not producing content your audience finds valuable.
+										You or your <a href=\'/engagement/3-profit-killing-mistakes-to-avoid-when-hiring-a-content-marketer/2903\'>bad marketing hire</a> are either targeting the wrong audience, or not producing content your audience finds valuable.
 										It really is that simple. So to start solving the problem, first ensure your targeting isn\'t the issue. Run small tests
 										to see if the right people are getting to your content. After ensuring the issue is not your targeting, you can move on to
 										producing content your audience finds valuable. An easy way to produce high quality content is to have an deep understanding
@@ -177,6 +177,14 @@ class EngagementController extends \BaseController {
 			'iMeth' => 'Direct Message',
 			'iCont' => '234kjdsdf9',
 		],
+
+		'2903' => [
+			'targetMarket' => 'Readers',
+			'axpt' => 'Need identification content',
+			'iPOV' => 'Direct',
+			'iMeth' => 'Internal Link',
+			'iCont' => '/2-performance-indicators....'
+		]
 
 
 	];
