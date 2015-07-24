@@ -126,6 +126,14 @@ class EngagementController extends \BaseController {
 			'iCont' => 'someContent',
 		],
 
+		'2958' => [
+			'targetMarket' => 'Businesses hiring digital or content marketers',
+			'axpt' => 'angel.co',
+			'iPOV' => 'Indirect',
+			'iMeth' => 'Direct Message',
+			'iCont' => '234kjdsdf9',
+		],
+
 
 	];
 
@@ -293,4 +301,27 @@ class InitiationHit {
 		$this->iCont = $marketingDetails['iCont'];
 
 	}
+}
+
+class InitiationContentStorage {
+
+	public $initiationContentUsed = [
+
+		'234kjdsdf9' => '{{COMPANYNAME}} team,
+						Hello. I was wondering if the {{POSITIONTITLE}} was still available or if there was another you thought I could be a good fit for.
+						Here’s some info on me: I am proven digital marketer with experience and a track record of success.
+						I also have some full stack development skills (PHP, HTML/CSS, Angular, Laravel, Bootstrap, etc.)
+						which allows me to fill various roles as the needs of your business change.
+						To see if you like my approach to digital marketing you can check out some writings
+						 I recently put together for Publet, a SaaS startup helping businesses enhance their content marketing. You can find those at:
+						http://next.publet.com/engagement/2-performance-indicators-that-prove-your-content-strategy-sucks/{{TRACKINGCODE}}
+						and
+						http://next.publet.com/engagement/3-profit-killing-mistakes-to-avoid-when-hiring-a-content-marketer/{{TRACKINGCODE}}.
+						You can also learn more about me by checking out my interactive resume at http://kevinwashington.me/resume
+						or viewing some of my work at http://kevinwashington.me/body-of-work
+						Have a great day
+						Kevin',
+
+		
+	];
 }
