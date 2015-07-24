@@ -372,7 +372,7 @@
             </div>
         </div>
 
-        <div id="homepageEnticingContentSection" class="text-center">
+        <div id="homepageEnticingContentSection" class="text-center hideUntilReady">
             <div class="col-lg-4 homepageEnticingContentSectionCreateBorder enticingContentSectionBorder">
             </div>
             <div class="col-lg-4 homepageEnticingContentSectionDistributeBorder enticingContentSectionBorder">

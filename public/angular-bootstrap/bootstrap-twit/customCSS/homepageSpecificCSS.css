@@ -532,3 +532,7 @@ html, body {
     margin-top: 60px;
 }
 
+.hideUntilReady {
+    display: none;
+}
+
