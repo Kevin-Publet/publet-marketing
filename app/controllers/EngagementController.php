@@ -92,7 +92,7 @@ class EngagementController extends \BaseController {
 										issues we wouldn\'t be giving you much of a \'value-add\' now would we?
 										...See what we did there?  Let\'s get started with some simple steps to improve your content strategy. ',
 
-			'fourthBulletPoint' => 'Increasing Your ROI',
+			'fourthBulletPoint' => 'Tip: Increasing Your ROI',
 			'fourthBulletPointText' => 	'First things first. You have to remember the biggest part of content marketing...
 										It\'s marketing! It sounds silly, but you will not believe how many businesses still produce content
 										for the purpose of marketing without bare essentials like call-to-actions, or re-engagement preparations.
@@ -100,7 +100,7 @@ class EngagementController extends \BaseController {
 										Also don\'t forget to lay the groundwork for later re-engagement, using tools like Remarketing and opt-in boxes
 										which can help solve this problem.',
 
-			'fifthBulletPoint' => 'Increasing Audience Engagement',
+			'fifthBulletPoint' => 'Tip: Increasing Audience Engagement',
 			'fifthBulletPointText' => 	'If you can\'t get your audience to engage with your content you are either doing one of two things wrong.
 										You are either targeting the wrong audience, or not producing content your audience finds valuable.
 										It really is that simple. So to start solving the problem, first ensure your targeting isn\'t the issue. Run small tests
