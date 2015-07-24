@@ -178,6 +178,14 @@ class EngagementController extends \BaseController {
 			'iCont' => '234kjdsdf9',
 		],
 
+		'2982' => [
+			'targetMarket' => 'Businesses hiring digital or content marketers',
+			'axpt' => 'angel.co',
+			'iPOV' => 'Indirect',
+			'iMeth' => 'Direct Message',
+			'iCont' => '234kjdsdf9',
+		],
+
 		'2903' => [
 			'targetMarket' => 'Readers',
 			'axpt' => 'Need identification content',
