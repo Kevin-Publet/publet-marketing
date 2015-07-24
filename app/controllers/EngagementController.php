@@ -383,13 +383,14 @@ class InitiationContentStorage {
 
 	public $initiationContentUsed = [
 
-		'234kjdsdf9' => '{{COMPANYNAME}} team,
+		'234kjdsdf9' =>[
+			'content' => '{{COMPANYNAME}} team,
 						Hello. I was wondering if the {{POSITIONTITLE}} was still available or if there was another you thought I could be a good fit for.
 						Here’s some info on me: I am proven digital marketer with experience and a track record of success.
 						I also have some full stack development skills (PHP, HTML/CSS, Angular, Laravel, Bootstrap, etc.)
 						which allows me to fill various roles as the needs of your business change.
 						To see if you like my approach to digital marketing you can check out some writings
-						 I recently put together for Publet, a SaaS startup helping businesses enhance their content marketing. You can find those at:
+						 I recently put together for Publet, a SaaS company helping other businesses enhance their content marketing. You can find those at:
 						http://next.publet.com/engagement/2-performance-indicators-that-prove-your-content-strategy-sucks/{{TRACKINGCODE}}
 						and
 						http://next.publet.com/engagement/3-profit-killing-mistakes-to-avoid-when-hiring-a-content-marketer/{{TRACKINGCODE}}.
@@ -398,8 +399,28 @@ class InitiationContentStorage {
 						Have a great day
 						Kevin',
 
+			'description' => 'sending 2 engagement contents via a direct message indirectly with personal links'
+		] ,
 
-		'239489sdff9' => ''
+
+		'239489sdff9' =>[
+			'content' => '{{COMPANYNAME}} team,
+						Hello. I was wondering if the {{POSITIONTITLE}} was still available or if
+						there was another you thought I could be a good fit for.
+						Here’s some info on me:
+						I am proven digital marketer with experience and a track record of success.
+						I also have some full stack development skills (PHP, HTML/CSS, Angular, Laravel, Bootstrap, etc.)
+						which allows me to fill various roles as the needs of your business change.
+						To see if you like my approach to digital marketing you can check out some writings
+						I recently put together for Publet, a SaaS company helping other businesses enhance their content marketing. You can find those at:
+						http://next.publet.com/engagement/2-performance-indicators-that-prove-your-content-strategy-sucks/2983 and
+						http://next.publet.com/engagement/3-profit-killing-mistakes-to-avoid-when-hiring-a-content-marketer/2991
+						If you think I have the skills and experience your looking for please feel free to reach back out to me.
+						Have a great day,
+						Kevin',
+
+			'description' => 'sending 2 engagement contents via a direct message indirectly without personal links'
+		],
 
 
 	];
