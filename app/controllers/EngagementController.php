@@ -117,7 +117,7 @@ class EngagementController extends \BaseController {
 			'viewTitle' => '3 Profit Killing Mistakes To Avoid When Hiring A Content Marketer | Publet - Enhance your content marketing',
 			'headline' => '3 Profit Killing Mistakes To Avoid When Hiring A Content Marketer',
 			'subHeadline' => 'Don\'t make these all too common mistakes when hiring your next content marketer.',
-			'firstBulletPoint' => '1. Hiring Someone With Zero Proof Of Results',
+			'firstBulletPoint' => '1. Hiring Someone With Zero Proof Of Results.',
 			'firstBulletPointText' => 	'If you have little to no ROI from your content marketing efforts there is obviously a problem
 										Whether its a lack of call-to-actions, an inability to engage your audience effectively, or a
 										lagging sales process - it all boils down to one thing. Your Strategy Needs Fixing!
@@ -130,7 +130,7 @@ class EngagementController extends \BaseController {
 										should you really be expecting to convert them with your content?
 										Of course you want to. But its not likely.',
 
-			'thirdBulletPoint' => '3. Hiring Without Some Demo Content. Obviously.',
+			'thirdBulletPoint' => '3. Hiring A Content Marketer Without Content Samples. Seriously?',
 			'thirdBulletPointText' => 'Having some of these issues and want to know how to fix them? Sorry. This article was made to serve the single purpose of telling you how much your content needs improvement.
 										There are no remedies here! Just kidding, relax. If we didn\'t give you some advice on how to fix these
 										issues we wouldn\'t be giving you much of a \'value-add\' now would we?
