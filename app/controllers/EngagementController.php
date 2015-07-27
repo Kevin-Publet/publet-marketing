@@ -116,7 +116,7 @@ class EngagementController extends \BaseController {
 			'viewName' => 'engagementContentView',
 			'viewTitle' => '3 Profit Killing Mistakes To Avoid When Hiring A Content Marketer | Publet - Enhance your content marketing',
 			'headline' => '3 Profit Killing Mistakes To Avoid When Hiring A Content Marketer',
-			'subHeadline' => 'Don\'t make these all too common mistakes when hiring your next content marketer.',
+			'subHeadline' => 'Don\'t make these all-too common mistakes when hiring your next content marketer.',
 			'firstBulletPoint' => 'Mistake #1 - Hiring With Zero Proof Of Content Marketing Success.',
 			'firstBulletPointText' => 	'If your seriously considering bringing on a content marketer something you might want to look for is experience.
 										Unless you already have a proven content process and are looking to hire someone to manage it, this person should be familiar with
@@ -148,15 +148,15 @@ class EngagementController extends \BaseController {
 										Depending on the individual’s salary you could
 										be in for <a href=\'https://www.americanprogress.org/issues/labor/report/2012/11/16/44464/there-are-significant-business-costs-to-replacing-employees/\'> huge revenue losses </a>.',
 
-			'fifthBulletPoint' => '3 Tips To Get It Right The First Time.',
-			'fifthBulletPointText' => 	'If you can\'t get your audience to engage with your content you are either doing one of two things wrong.
-										You are either targeting the wrong audience, or not producing content your audience finds valuable.
-										It really is that simple. So to start solving the problem, first ensure your targeting isn\'t the issue. Run small tests
-										to see if the right people are getting to your content. After ensuring the issue is not your targeting, you can move on to
-										producing content your audience finds valuable. An easy way to produce high quality content is to have an deep understanding
-										of the market needs. How? Do some research. Run a few google queries, follow a few targets on twitter, do whatever is necessary to see what your audience is
-										already engaging with. Please avoid being creepy. And lastly when you find out what your audience wants, make an effort to
-										deliver it to them in a creative and memorable way. Remember this is content marketing!',
+			'fifthBulletPoint' => 'A Few Tips To Get It Right The First Time.',
+			'fifthBulletPointText' => 	'Here are some things you can begin doing right now to ensure you add the right content marketer to your team.
+										<strong>Ask for proof of results</strong>. If a candidate cannot demonstrate any past campaign success then you should be wary bringing
+										 them into a role where they have full autonomy in developing your content strategy.
+										 Someone like this may be better suited for management or support of processes that are already effective.
+										 You also will want to <strong>hire slow</strong>.
+										 Instead of pulling the trigger on a full employee contract, you may want to start with a 1099 for a few months to ‘test-drive’ the fit.
+										 Lastly, <strong>don’t forget to request demo content</strong>. As a content marketer,
+										 the candidate should have some content samples to provide you so you can gauge their work. ',
 
 		],
 
