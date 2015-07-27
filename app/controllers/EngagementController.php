@@ -117,34 +117,38 @@ class EngagementController extends \BaseController {
 			'viewTitle' => '3 Profit Killing Mistakes To Avoid When Hiring A Content Marketer | Publet - Enhance your content marketing',
 			'headline' => '3 Profit Killing Mistakes To Avoid When Hiring A Content Marketer',
 			'subHeadline' => 'Don\'t make these all too common mistakes when hiring your next content marketer.',
-			'firstBulletPoint' => '1. Hiring With Zero Proof Of Content Marketing Success.',
-			'firstBulletPointText' => 	'If you have little to no ROI from your content marketing efforts there is obviously a problem
-										Whether its a lack of call-to-actions, an inability to engage your audience effectively, or a
-										lagging sales process - it all boils down to one thing. Your Strategy Needs Fixing!
-										A strong strategy not only brings in revenue, but removes some pressure from your inbound team as prospective customers who\'ve
-										felt the \'value-add\' of your business are more likely to convert.',
+			'firstBulletPoint' => 'Mistake #1 - Hiring With Zero Proof Of Content Marketing Success.',
+			'firstBulletPointText' => 	'If your seriously considering bringing on a content marketer something you might want to look for is experience.
+										Unless you already have a proven content process and are looking to hire someone to manage it, this person should be familiar with
+										<a href=\’/engagement/2-performance-indicators-that-prove-your-content-strategy-sucks/2905\’>developing and implementing custom content strategies</a>.
+										This includes researching targets audiences, developing content ideas, distributing content across various channels,
+										and building relationships with potential customers. ',
 
-			'secondBulletPoint' => '2. Hiring Without Testing The Waters First.',
-			'secondBulletPointText' => 	'Weak engagement is not only a sign of a poor content strategy, it also indicates that your business does not
-										fully understand the market. And if you don\'t intimately understand the needs of your customers
-										should you really be expecting to convert them with your content?
-										Of course you want to. But its not likely.',
+			'secondBulletPoint' => 'Mistake #2 - Hiring Without Testing The Waters First.',
+			'secondBulletPointText' => 	'Most people wouldn’t buy a car without test driving it first.
+										Sure you could get under the hood, kick the tires, and look up the car fax.
+										But there is a big difference in inspecting the car and taking it for a spin.
+										Many businesses do their best to inspect a candidate thoroughly via multiple interview processes,
+										but there is still nothing like seeing a candidate in action before making the final decision.
+										How will this person fit into your culture? Are they a team player?
+										Can they really manage their time effectively?
+										These are all questions that you can’t really answer unless you see the candidate in action. ',
 
-			'thirdBulletPoint' => '3. Hiring A Content Marketer Without Content Samples. Seriously?',
-			'thirdBulletPointText' => 'Having some of these issues and want to know how to fix them? Sorry. This article was made to serve the single purpose of telling you how much your content needs improvement.
-										There are no remedies here! Just kidding, relax. If we didn\'t give you some advice on how to fix these
-										issues we wouldn\'t be giving you much of a \'value-add\' now would we?
-										...See what we did there?  Let\'s get started with some simple steps to improve your content strategy. ',
+			'thirdBulletPoint' => 'Mistake #3 - Hiring A Without Content Samples... Seriously?',
+			'thirdBulletPointText' => 'Hopefully there are not many businesses making the mistake of hiring a content marketer without
+										reviewing samples of their content. Developing content an audience can engage with is a key part of the position.
+										So key that content marketers without any content samples,
+										whether personal or for a business, should be a huge red flag. ',
 
-			'fourthBulletPoint' => 'Don\'t Make These Mistakes!',
-			'fourthBulletPointText' => 	'First things first. You have to remember the biggest part of content marketing...
-										It\'s marketing! It sounds silly, but you will not believe how many businesses still produce content
-										for the purpose of marketing without bare essentials like call-to-actions, or re-engagement preparations.
-										Ensure you analyze your content for places you can put some calls to action without diluting the value.
-										Also don\'t forget to lay the groundwork for later re-engagement, using tools like Remarketing and opt-in boxes
-										which can help solve this problem.',
+			'fourthBulletPoint' => 'The Results of a Bad Hiring Process',
+			'fourthBulletPointText' => 	'When it comes to hiring content marketers, a bad recruitment process
+										<a href=\’/engagement/2-performance-indicators-that-prove-your-content-strategy-sucks/2906\’>can effect more than your content strategy</a>.
+										You risk damaging your culture, your team morale, and make it hard for your business to build a reputation for delivering
+										quality content to your target audiences. Not to mention the loss in revenue from a bad hire.
+										Depending on the individual’s salary you could
+										be in for <a href=\'https://www.americanprogress.org/issues/labor/report/2012/11/16/44464/there-are-significant-business-costs-to-replacing-employees/\'> huge revenue losses </a>.',
 
-			'fifthBulletPoint' => 'Follow These 3 Tips. Hire Right.',
+			'fifthBulletPoint' => '3 Tips To Get It Right The First Time.',
 			'fifthBulletPointText' => 	'If you can\'t get your audience to engage with your content you are either doing one of two things wrong.
 										You are either targeting the wrong audience, or not producing content your audience finds valuable.
 										It really is that simple. So to start solving the problem, first ensure your targeting isn\'t the issue. Run small tests
@@ -207,7 +211,23 @@ class EngagementController extends \BaseController {
 			'axpt' => 'Need identification content',
 			'iPOV' => 'Direct',
 			'iMeth' => 'Internal Link',
-			'iCont' => '/2-performance-indicators....'
+			'iCont' => 'bad marketing hire'
+		],
+
+		'2905' => [
+			'targetMarket' => 'Readers',
+			'axpt' => 'Quality Hiring content',
+			'iPOV' => 'Direct',
+			'iMeth' => 'Internal Link',
+			'iCont' => 'developing and implementing custom content strategies'
+		],
+
+		'2906' => [
+			'targetMarket' => 'Readers',
+			'axpt' => 'Quality Hiring content',
+			'iPOV' => 'Direct',
+			'iMeth' => 'Internal Link',
+			'iCont' => 'can effect more than your content strategy'
 		]
 
 
