@@ -101,7 +101,7 @@ if(isset($outerNav))
 
                 <div class="collapse navbar-collapse" id="homepageNavBarCollapsableLinks">
                     <ul id="homepageNavBarContentLinks" class="nav navbar-nav navbar-right">
-                        <li><a href="#" class="homepageHeavyFont">What is Publet?</a></li>
+                        <li><a href="/#homepageWhatIsPubletSection" class="homepageHeavyFont">What is Publet?</a></li>
                         <li><a href="/get-started" class="homepageHeavyFont">Start a Campaign</a></li>
                         <li><a href="/see-it-in-action" class="homepageHeavyFont">See it in Action</a></li>
                     </ul>
