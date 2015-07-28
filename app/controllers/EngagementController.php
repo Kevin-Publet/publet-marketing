@@ -206,6 +206,22 @@ class EngagementController extends \BaseController {
 			'iCont' => '239489sdff9',
 		],
 
+		'2984' => [
+			'targetMarket' => 'Businesses hiring digital or content marketers',
+			'axpt' => 'craigslist.org',
+			'iPOV' => 'Indirect',
+			'iMeth' => 'Email or Direct Message',
+			'iCont' => 'kj532342kj34',
+		],
+
+		'2986' => [
+			'targetMarket' => 'Businesses hiring digital or content marketers',
+			'axpt' => 'craigslist.org',
+			'iPOV' => 'Indirect',
+			'iMeth' => 'Email or Direct Message',
+			'iCont' => 'kj532342kj34',
+		],
+
 		'2903' => [
 			'targetMarket' => 'Readers',
 			'axpt' => 'Need identification content',
@@ -441,6 +457,27 @@ class InitiationContentStorage {
 
 			'description' => 'sending 2 engagement contents via a direct message indirectly without personal links'
 		],
+
+		'kj532342kj34' =>[
+			'content' => '{{COMPANYNAME}} team,
+						Hello. I learned through Craigslist that you were looking for talent.
+						I was wondering if the {{POSITIONTITLE}} position was still available or if there was another you thought I could be a good fit for.
+						Here’s some info on me:
+						I am proven digital marketer with experience and a track record of success.
+						I also have some full stack development skills (PHP, HTML/CSS, Angular, Laravel, Bootstrap, etc.)
+						which will allow me to fill various roles as the needs of {{COMPANYNAME}} changes.
+						To see if you like my approach to digital marketing you can check out some writings I recently put together for Publet, a SaaS
+						company helping other businesses enhance their content marketing. You can find those at:
+						http://next.publet.com/engagement/2-performance-indicators-that-prove-your-content-strategy-sucks/2986
+						and
+						http://next.publet.com/engagement/3-profit-killing-mistakes-to-avoid-when-hiring-a-content-marketer/2984 .
+						You can also learn more about me by checking out my interactive resume at http://kevinwashington.me/resume or viewing some of my work at http://kevinwashington.me/body-of-work
+						Have a great day,
+						Kevin',
+
+			'description' => 'sending 2 engagement contents via an email or direct message'
+		],
+
 
 
 	];
