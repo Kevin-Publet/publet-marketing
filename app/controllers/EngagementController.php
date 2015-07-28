@@ -244,7 +244,25 @@ class EngagementController extends \BaseController {
 			'iPOV' => 'Direct',
 			'iMeth' => 'Internal Link',
 			'iCont' => 'can effect more than your content strategy'
-		]
+		],
+
+		'2922' => [
+			'targetMarket' => 'Readers',
+			'axpt' => 'Various Blogs',
+			'iPOV' => 'Direct',
+			'iMeth' => 'Blog Commenting',
+			'iCont' => 'various content to increase interest in link left'
+		],
+
+		'2918' => [
+			'targetMarket' => 'Readers',
+			'axpt' => 'Various Blogs',
+			'iPOV' => 'Direct',
+			'iMeth' => 'Blog Commenting',
+			'iCont' => 'various content to increase interest in link left'
+		],
+
+
 
 
 	];
