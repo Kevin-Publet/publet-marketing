@@ -439,18 +439,24 @@ class InitiationContentStorage {
 
 		'234kjdsdf9' =>[
 			'content' => '{{COMPANYNAME}} team,
-						Hello. I was wondering if the {{POSITIONTITLE}} was still available or if there was another you thought I could be a good fit for.
-						Here’s some info on me: I am proven digital marketer with experience and a track record of success.
-						I also have some full stack development skills (PHP, HTML/CSS, Angular, Laravel, Bootstrap, etc.)
-						which allows me to fill various roles as the needs of your business change.
-						To see if you like my approach to digital marketing you can check out some writings
-						 I recently put together for Publet, a SaaS company helping other businesses enhance their content marketing. You can find those at:
-						http://next.publet.com/engagement/2-performance-indicators-that-prove-your-content-strategy-sucks/{{TRACKINGCODE}}
+						Hello. I was wondering if there were any marketing or development positions available on your team,
+						and if you thought I could make a good fit.
+						Here’s some info on me to help you make that decision...
+						My name is Kevin Washington and I am proven digital marketer with experience
+						and a track record of success. I am also a capable full stack developer (PHP, HTML/CSS, Angular, Laravel, Bootstrap, etc.)
+						which will allow me to be adaptive and fill various roles if your company\'s needs ever change.
+						How about some of my recent work?
+						You can see if you like my approach to content marketing by checking out some
+						writings I recently put together for Publet, a funded SaaS company helping businesses enhance their content marketing.
+						You can find those examples at:
+						http://next.publet.com/engagement/2-performance-indicators-that-prove-your-content-strategy-sucks/2958
 						and
-						http://next.publet.com/engagement/3-profit-killing-mistakes-to-avoid-when-hiring-a-content-marketer/{{TRACKINGCODE}}.
-						You can also learn more about me by checking out my interactive resume at http://kevinwashington.me/resume
-						or viewing some of my work at http://kevinwashington.me/body-of-work
-						Have a great day
+						http://next.publet.com/engagement/3-profit-killing-mistakes-to-avoid-when-hiring-a-content-marketer/2982
+						.
+						You can also learn more about me specifically by checking out my interactive resume at http://kevinwashington.me/resume
+						or by viewing some of my work at http://kevinwashington.me/body-of-work
+						Hope to hear from you either way and would welcome any feedback you could give.
+						Thank you for your time and have a great day,
 						Kevin',
 
 			'description' => 'sending 2 engagement contents via a direct message indirectly with personal links'
