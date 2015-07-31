@@ -59,7 +59,7 @@
             </div>
         </div>
 
-        <div id="homepageWhatIsPubletSection" >
+        <div id="homepageWhatIsPubletSection"  class="text-center">
             <h2 class="homepageHeavyFont col-lg-12">What is Publet?</h2>
             <h3 class="homepageLightFont col-lg-12">
                 Publet helps businesses gain new customers <span class="hiddenOver903px">by enhancing three phases of content marketing.</span>
@@ -69,12 +69,6 @@
             </h3>
 
             <div class="row text-center">
-
-                <div id="homepageWhatIsPubletSectionSubTitle">
-                    <h2 class="homepageHeavyFont">
-                        Publet enhances content marketing.
-                    </h2>
-                </div>
 
                 <div class="col-lg-4">
                     <div id="homepageWhatIsPubletSectionValueProp1">
@@ -272,25 +266,25 @@
             </div>
 
             <div id="homepageValuePropositionThreeCTA" class="col-lg-12 valuePropCTA text-center">
-                <a href="/get-started" class="btn btn-homepageHuge btn-convert">+ Start converting readers</a>
+<!--                <a href="/get-started" class="btn btn-homepageHuge btn-convert">+ Start converting readers</a>-->
             </div>
         </div>
 
 
 
-        <div id="homepageAskForConversionSection" class="col-lg-12">
+        <div id="homepageAskForConversionSection" class="col-lg-12 text-center">
             <div class="row">
-                <div class="col-lg-6" id="homepageAskForConversionSectionTitle">
+                <div class="col-lg-12" id="homepageAskForConversionSectionTitle">
                     <h2 class="homepageHeavyFont">
                         Join thousands of businesses <br/>
                         acquiring customers
                         with great content.
                     </h2>
                 </div>
-                <div class="col-lg-6 text-center" id="homepageAskForConversionSectionCTA">
-                    <a href="/get-started" class="btn btn-homepageHuge btn-create">+ Start a campaign</a>
+                <div class="col-lg-12 text-center" id="homepageAskForConversionSectionCTA">
+                    <a href="/get-started" class="btn btn-homepageHuge btn-convert">+ Start a campaign</a>
                     <br/>
-                    <a href="/see-it-in-action"class="homepageLightFont ctaLink">See it in action</a>
+                    <a href="/see-it-in-action"class="homepageLightFont ctaLink">or see it in action</a>
                 </div>
             </div>
         </div>

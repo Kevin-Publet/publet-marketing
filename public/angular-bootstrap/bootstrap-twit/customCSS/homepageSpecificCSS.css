@@ -521,3 +521,11 @@ p.valuePropositionsFulfillmentTextArea {
     font-size: 19px;
     color: #fff;
 }
+
+#homepageAskForConversionSection {
+    margin-top: -300px;
+}
+
+div#homepageWhatIsPubletSection {
+    margin-top: 90px;
+}
