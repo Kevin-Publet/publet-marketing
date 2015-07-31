@@ -55,7 +55,7 @@
                 <img src="https://cdn2.iconfinder.com/data/icons/many-people-flat-icons/128/man-2-128.png" class="img-circle img-responsive center-block">
             </div>
             <div id="homepageQuickTestimonialSectionPersonBio" class="homepageLightFont">
-                <h3>John Smith - Content Director, Contently</h3>
+                <h3>Sam Slaughter - VP Content, Contently</h3>
             </div>
         </div>
 
