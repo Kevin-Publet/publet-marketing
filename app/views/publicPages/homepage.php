@@ -7,9 +7,9 @@
             <div id="homepageHeroContentSection">
                 <div id="homepageHeroContentSectionTitle" class="col-lg-8 homepageHeavyFont">
                     <h1>
-                        <span class="heroUnderline">Create </span><br/>
-                        Digital <span class="heroUnderline">Content</span> <br/>
-                        That <span class="heroUnderline">Converts</span>.
+                        Ditch the PDF.<br/>
+                        Make digital content <br/>
+                        that soars.
                     </h1>
                 </div>
                 <div id="homepageHeroContentSectionCTA" class="col-lg-8 homepageHeavyFont">

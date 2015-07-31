@@ -79,11 +79,12 @@ html, body {
 #homepageHeroSection {
     min-height: 630px;
     margin-top: -25px;
-    background-image: url('/assets/images/heroBackgroundImage.png');
+    background-image: url('/assets/images/skyHeroImage.png');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-position: 0px -40px;
 }
 
 #homepageHeroContentSection {
@@ -92,8 +93,8 @@ html, body {
 }
 
 #homepageHeroContentSectionTitle > h1{
-    font-size: 84px;
-
+    font-size: 76px;
+    color: #fff;
 }
 
 #homepageHeroContentSectionCTA > a {
