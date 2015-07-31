@@ -209,12 +209,7 @@
             </div>
 
             <div id="homepageValuePropositionTwoVideoSection" class="col-lg-6">
-                <img src="https://cdn3.iconfinder.com/data/icons/flat-icons-10/268/1-512.png" class="center-block">
-                <video width="500" height="258" autoplay loop muted>
-                    <source src="/assets/videos/publet_create_cropped.mp4" type="video/mp4">
-                    <source src="movie.ogg" type="video/ogg">
-                    Your browser does not support the video tag.
-                </video>
+                <img src="/assets/images/screenshot1.png" class="center-block">
 
             </div>
 
@@ -233,13 +228,8 @@
             </div>
 
             <div id="homepageValuePropositionThreeVideoSection" class="col-lg-6">
+                <img src="/assets/images/screenshot2.png" class="center-block">
 
-                <img src="https://cdn3.iconfinder.com/data/icons/flat-icons-10/268/1-512.png" class="center-block">
-                <video width="500" height="258" autoplay loop muted>
-                    <source src="/assets/videos/publet_create_cropped.mp4" type="video/mp4">
-                    <source src="movie.ogg" type="video/ogg">
-                    Your browser does not support the video tag.
-                </video>
             </div>
 
             <div id="homepageValuePropositionThreeTitle" class="col-lg-6 text-center">
