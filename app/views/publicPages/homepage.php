@@ -128,55 +128,32 @@
             <div id="homepageValuePropositionOneFulfillments" class="col-lg-6">
                 <div class="row text-center valuePropositionFulfillmentContainer">
                     <div id="valuePropositionOneFulfillmentOne" class="col-lg-4">
-                        <div class="valuePropositionFulfillmentTitle">
-                            <h4>
-                                Easy to use CMS. Finally.
-                            </h4>
-                        </div>
                         <div class="valuePropositionFulfillmentImage">
                             <img class="img-responsive center-block" src="https://cdn4.iconfinder.com/data/icons/ikooni-outline-seo-web/128/seo-35-128.png">
                         </div>
-                        <div class="valuePropositionFulfillmentBlurb">
-                            <p>
-                                A easy to use content editor with customizable
-                                permissions and access levels.
-                            </p>
-                        </div>
                     </div>
                     <div id="valuePropositionOneFulfillmentTwo" class="col-lg-4">
-                        <div class="valuePropositionFulfillmentTitle">
-                            <h4>
-                                Pick a Content. Any Content.
-                            </h4>
-                        </div>
                         <div class="valuePropositionFulfillmentImage">
                             <img class="img-responsive center-block" src="https://cdn0.iconfinder.com/data/icons/ikooni-outline-seo-web/128/seo2-63-128.png">
                         </div>
-                        <div class="valuePropositionFulfillmentBlurb">
-                            <p>
-                                Import and Export in diverse content formats
-                                including html/css, pdf, .mobi, .epub, kindle, and more.
-                            </p>
-                        </div>
                     </div>
                     <div id="valuePropositionOneFulfillmentThree" class="col-lg-4">
-                        <div class="valuePropositionFulfillmentTitle">
-                            <h4>
-                                Looks Do Matter. Really.
-                            </h4>
-                        </div>
                         <div class="valuePropositionFulfillmentImage">
                             <img class="img-responsive center-block" src="https://cdn4.iconfinder.com/data/icons/ikooni-outline-seo-web/128/seo-73-128.png">
                         </div>
-                        <div class="valuePropositionFulfillmentBlurb">
-                            <p>
-                                Build using beautiful and responsive themes
-                                that are compatible with the web, iOS, Android
-                                and other platforms.
-                            </p>
-                        </div>
                     </div>
                 </div>
+                <div class="col-lg-12 text-center">
+                    <p class="valuePropositionsFulfillmentTextArea">
+                        Manage your content in an easy to use content editor with customizable
+                        permissions and access levels. Then import and export in diverse formats
+                        including html/css, pdf, .mobi, .epub, kindle, and more.
+                        Make your content amazing using beautiful and responsive themes
+                        that are compatible with the web, iOS, Android
+                        and other platforms.
+                    </p>
+                </div>
+
             </div>
 
             <div id="homepageValuePropositionOneCTA" class="col-lg-12 valuePropCTA text-center">
@@ -202,54 +179,31 @@
                 <div id="homepageValuePropositionTwoFulfillments" class="col-lg-12">
                     <div class="row text-center valuePropositionFulfillmentContainer">
                         <div id="valuePropositionTwoFulfillmentOne" class="col-lg-4">
-                            <div class="valuePropositionFulfillmentTitle">
-                                <h4>
-                                    Ready. Aim...
-                                </h4>
-                            </div>
                             <div class="valuePropositionFulfillmentImage">
                                 <img class="img-responsive center-block" src="https://cdn4.iconfinder.com/data/icons/ikooni-outline-seo-web/128/seo-94-128.png">
                             </div>
-                            <div class="valuePropositionFulfillmentBlurb">
-                                <p>
-                                    Target your audience using a variety of parameters including
-                                    email lists, hashtags, and social conversations.
-                                </p>
-                            </div>
                         </div>
                         <div id="valuePropositionTwoFulfillmentTwo" class="col-lg-4">
-                            <div class="valuePropositionFulfillmentTitle">
-                                <h4>
-                                    Go Viral.
-                                </h4>
-                            </div>
                             <div class="valuePropositionFulfillmentImage">
                                 <img class="img-responsive center-block" src="https://cdn4.iconfinder.com/data/icons/ikooni-outline-seo-web/128/seo-90-128.png">
                             </div>
-                            <div class="valuePropositionFulfillmentBlurb">
-                                <p>
-                                    Make it easy for readers to promote yoru content
-                                    with built in social sharing and pull-quote functionality.
-                                </p>
-                            </div>
                         </div>
                         <div id="valuePropositionTwoFulfillmentThree" class="col-lg-4">
-                            <div class="valuePropositionFulfillmentTitle">
-                                <h4>
-                                    Gauge Performance.
-                                </h4>
-                            </div>
                             <div class="valuePropositionFulfillmentImage">
                                 <img class="img-responsive center-block" src="https://cdn2.iconfinder.com/data/icons/ikooni-outline-seo-web/128/seo3-65-128.png">
                             </div>
-                            <div class="valuePropositionFulfillmentBlurb">
-                                <p>
-                                    Easily digest which groups and channels are
-                                    bringing you the most readers, engagement,
-                                    and desired outcomes.
-                                </p>
-                            </div>
                         </div>
+                    </div>
+                    <div class="col-lg-12 text-center">
+                        <p class="valuePropositionsFulfillmentTextArea">
+                            Target your audience using a variety of parameters including
+                            email lists, hashtags, and social conversations.
+                            Make it easy for readers to promote your content
+                            with built in social sharing and pull-quote functionality.
+                            Easily digest which groups and channels are
+                            bringing you the most readers, engagement,
+                            and desired outcomes.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -297,55 +251,33 @@
             <div id="homepageValuePropositionThreeFulfillments" class="col-lg-6">
                 <div class="row text-center valuePropositionFulfillmentContainer">
                     <div id="valuePropositionThreeFulfillmentOne" class="col-lg-4">
-                        <div class="valuePropositionFulfillmentTitle">
-                            <h4>
-                                You shall not pass!
-                            </h4>
-                        </div>
                         <div class="valuePropositionFulfillmentImage">
                             <img class="img-responsive center-block" src="https://cdn0.iconfinder.com/data/icons/ikooni-outline-seo-web/128/seo2-37-128.png">
                         </div>
-                        <div class="valuePropositionFulfillmentBlurb">
-                            <p>
-                                Keep sections of your content for readers on your
-                                subscribers list, likely increasing your opt-in conversions.
-                            </p>
-                        </div>
                     </div>
                     <div id="valuePropositionThreeFulfillmentTwo" class="col-lg-4">
-                        <div class="valuePropositionFulfillmentTitle">
-                            <h4>
-                                Contextual Analytics.
-                            </h4>
-                        </div>
                         <div class="valuePropositionFulfillmentImage">
                             <img class="img-responsive center-block" src="https://cdn2.iconfinder.com/data/icons/ikooni-outline-seo-web/128/seo3-53-128.png">
                         </div>
-                        <div class="valuePropositionFulfillmentBlurb">
-                            <p>
-                                Receive analytics that go past traditional bounce rates,
-                                and time on page. Our analytics give you context of who readers
-                                really are.
-                            </p>
-                        </div>
                     </div>
                     <div id="valuePropositionThreeFulfillmentThree" class="col-lg-4">
-                        <div class="valuePropositionFulfillmentTitle">
-                            <h4>
-                                Track & Refine.
-                            </h4>
-                        </div>
+
                         <div class="valuePropositionFulfillmentImage">
                             <img class="img-responsive center-block" src="https://cdn2.iconfinder.com/data/icons/ikooni-outline-seo-web/128/seo3-46-128.png">
                         </div>
-                        <div class="valuePropositionFulfillmentBlurb">
-                            <p>
-                                Heat maps allow you to see where your content may be
-                                underperforming. Allowing you the ability to quickly
-                                plan improvements in your campaign.
-                            </p>
-                        </div>
                     </div>
+                </div>
+                <div class="col-lg-12 text-center">
+                    <p class="valuePropositionsFulfillmentTextArea">
+                        Keep sections of your content for readers on your
+                        subscribers list, likely increasing your opt-in conversions.
+                        Receive analytics that go past traditional bounce rates,
+                        and time on page. Our analytics give you context of who readers
+                        really are.
+                        Heat maps allow you to see where your content may be
+                        underperforming. Allowing you the ability to quickly
+                        plan improvements in your campaign.
+                    </p>
                 </div>
             </div>
 
