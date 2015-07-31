@@ -20,6 +20,27 @@
         </div>
 
 
+        <div id="homepageMajorTestimonialSection" class="col-lg-12 text-center">
+            <h3 id="homepageMajorTestimonialSectionTitle" class="homepageHeavyFont">
+                A few companies loving Publet
+            </h3>
+            <div id="homepageMajorTestimonialSectionImages" class="row">
+                <div id="dellLogo" class="col-lg-3">
+                    <img class="img-responsive center-block" src="/assets/images/dellLogo.png">
+                </div>
+                <div id="ogilvyLogo" class="col-lg-3">
+                    <img class="img-responsive center-block" src="/assets/images/ogilvyLogo.png">
+                </div>
+                <div id="orangeLogo" class="col-lg-3">
+                    <img class="img-responsive center-block" src="/assets/images/orangeLogo.jpeg">
+                </div>
+                <div id="drakeCooperLogo" class="col-lg-3">
+                    <img class="img-responsive center-block" src="/assets/images/drakeCooperLogo.png">
+                </div>
+            </div>
+
+
+        </div>
 
 
         <div id="homepageQuickTestimonialSection" class="text-center">
@@ -333,27 +354,7 @@
             </div>
         </div>
 
-        <div id="homepageMajorTestimonialSection" class="col-lg-12 text-center">
-            <h3 id="homepageMajorTestimonialSectionTitle" class="homepageHeavyFont">
-                A few companies loving Publet
-            </h3>
-            <div id="homepageMajorTestimonialSectionImages" class="row">
-                <div id="dellLogo" class="col-lg-3">
-                    <img class="img-responsive center-block" src="/assets/images/dellLogo.png">
-                </div>
-                <div id="ogilvyLogo" class="col-lg-3">
-                    <img class="img-responsive center-block" src="/assets/images/ogilvyLogo.png">
-                </div>
-                <div id="orangeLogo" class="col-lg-3">
-                    <img class="img-responsive center-block" src="/assets/images/orangeLogo.jpeg">
-                </div>
-                <div id="drakeCooperLogo" class="col-lg-3">
-                    <img class="img-responsive center-block" src="/assets/images/drakeCooperLogo.png">
-                </div>
-            </div>
 
-
-        </div>
 
         <div id="homepageAskForConversionSection" class="col-lg-12">
             <div class="row">

@@ -49,7 +49,7 @@ html, body {
 
 
 #homepageNavBarSection {
-    background: #333333;
+    background: #fff;
     min-height: 110px;
     padding-top: 15px;
 }
@@ -64,7 +64,7 @@ html, body {
 }
 
 #homepageNavBarContentLinks > li > a {
-    color: #dadada;
+    color: #333333;
     font-size: 26px;
 }
 
@@ -115,19 +115,15 @@ html, body {
 }
 
 #homepageQuickTestimonialSection {
-    background: #333333;
+    background: #fff;
     min-height: 350px;
     margin-top: -20px;
     padding-top: 20px;
-    color: #dadada;
+    color: #333333;
 }
 
 #homepageWhatIsPubletSection {
-    background-image: url('/assets/images/whatIsBackgroundImage.png');
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background: #fff;
     min-height: 700px;
     margin-top: -20px;
     padding-top: 20px;
@@ -208,9 +204,9 @@ html, body {
 }
 
 #homepageMajorTestimonialSection {
-    background: #333333;
+    background: #fff;
     min-height: 500px;
-    color: #dadada;
+    color: #333333;
 }
 
 #homepageAskForConversionSection {
@@ -356,7 +352,7 @@ html, body {
 }
 
 .valuePropHead {
-    background: #333333;
+    background: #fff;
     text-align: center;
     font-family: 'Oswald', sans-serif;
 }
@@ -399,31 +395,11 @@ html, body {
     color: #7F0074;
 }
 
-#homepageValuePropositionOneCTA {
-    background-image: url('/assets/images/createCTABackgroundImage.png');
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+#homepageValuePropositionOneCTA ,#homepageValuePropositionTwoCTA , #homepageValuePropositionThreeCTA {
+    background: #fff;
 }
 
-#homepageValuePropositionTwoCTA {
-    background-image: url('/assets/images/distributeCTABackgroundImage.png');
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
 
-}
-
-#homepageValuePropositionThreeCTA {
-    background-image: url('/assets/images/convertCTABackgroundImage.png');
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-}
 
 #homepageMajorTestimonialSection {
     padding-top: 50px;
@@ -461,11 +437,7 @@ html, body {
 
 
 #homepageAskForConversionSection {
-    background-image: url('/assets/images/askForSaleBackgroundImage.png');
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background: #fff;
     padding-top: 180px;
 }
 
@@ -524,9 +496,7 @@ html, body {
 #homepageEnticingContentFeatureTitle {
     margin-bottom: 30px;
 }
-#homepageEnticingContentFeatureSubTitle {
-    /*margin-bottom: 30px;*/
-}
+
 
 #homepageEnticingContentCTASection > a.btn {
     margin-top: 60px;
